@@ -1,0 +1,13 @@
+pi=3.14159;
+[rp ra i]= deal(0.98329,1.0167,7.155*pi/180 )    %raio apoapsis e periapsis da orbita ( para o hachi: mais perto, mais longe)
+ a=(rp+ra)/2; %ra=a(1+e);
+e=ra/a-1;  % excentricidade
+b=a*sqrt(1-e^2); %semi eixo menor
+p=a*(1-e^2);
+teta=acos((p/b-1)/e);
+teta2=-teta;
+x=b*cos(i)*cos(teta)   %x com direçao e sentido para o periapsis
+y=b*cos(i)*sin(teta);
+x2=b*cos(i)*cos(teta2);
+y2=b*cos(i)*sin(teta2);
+eta
