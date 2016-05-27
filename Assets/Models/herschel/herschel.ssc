@@ -1,0 +1,37 @@
+# Herschel Mission Timeline
+# Launch May 14, 2009 
+# End of primary mission February 2014  
+
+"Herschel" "Sol/Earth"
+{
+	Class		"spacecraft"
+	Mesh		"herschel.3ds"
+	Radius		0.004
+	Beginning		"2009 05 14 13:42:00"
+	Ending		"2014 02 06 13:42:00"
+	SampledOrbit	"herschel.xyz"
+	Orientation		[90 1 0 0]
+	Albedo		1.0
+}
+
+Modify "Herschel" "Sol/Earth"
+{
+BodyFrame {
+TwoVector {
+Center "Sol/Earth/Herschel"
+        	Primary 	{
+            		Axis "z"
+            		RelativePosition { Target "Sol" }
+        		}
+
+      	Secondary {
+            		Axis "x"
+            		RelativeVelocity { Target "Sol/Earth" }
+        		}
+    	}
+	}
+
+FixedRotation{}
+
+
+}

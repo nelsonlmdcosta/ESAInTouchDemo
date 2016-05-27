@@ -1,0 +1,4048 @@
+fileFormatVersion: 2
+guid: bc354720b6b22e1479d82e023fce86ca
+timeCreated: 1463684863
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RosettaPhilae_LR:_0N_THRUSTER17
+    100004: RosettaPhilae_LR:_0N_THRUSTER17 1
+    100006: RosettaPhilae_LR:_0N_THRUSTER17 2
+    100008: RosettaPhilae_LR:_0N_THRUSTER17 3
+    100010: RosettaPhilae_LR:_0N_THRUSTER17 4
+    100012: RosettaPhilae_LR:_0N_THRUSTER17 5
+    100014: RosettaPhilae_LR:_0N_THRUSTER17 6
+    100016: RosettaPhilae_LR:_0N_THRUSTER17 7
+    100018: RosettaPhilae_LR:_0N_THRUSTER24
+    100020: RosettaPhilae_LR:_0N_THRUSTER24 1
+    100022: RosettaPhilae_LR:_0N_THRUSTER24 2
+    100024: RosettaPhilae_LR:_0N_THRUSTER24 3
+    100026: RosettaPhilae_LR:_0N_THRUSTER24 4
+    100028: RosettaPhilae_LR:_0N_THRUSTER24 5
+    100030: RosettaPhilae_LR:_0N_THRUSTER24 6
+    100032: RosettaPhilae_LR:_0N_THRUSTER24 7
+    100034: RosettaPhilae_LR:_0N_THRUSTER25
+    100036: RosettaPhilae_LR:_0N_THRUSTER25 1
+    100038: RosettaPhilae_LR:_0N_THRUSTER25 2
+    100040: RosettaPhilae_LR:_0N_THRUSTER25 3
+    100042: RosettaPhilae_LR:_0N_THRUSTER26
+    100044: RosettaPhilae_LR:_0N_THRUSTER26 1
+    100046: RosettaPhilae_LR:_0N_THRUSTER26 2
+    100048: RosettaPhilae_LR:_0N_THRUSTER26 3
+    100050: RosettaPhilae_LR:_SET1
+    100052: RosettaPhilae_LR:_SOL108
+    100054: RosettaPhilae_LR:_SOL109
+    100056: RosettaPhilae_LR:_SOL113
+    100058: RosettaPhilae_LR:_SOL114
+    100060: RosettaPhilae_LR:_SOL156
+    100062: RosettaPhilae_LR:_SOL164
+    100064: RosettaPhilae_LR:_SOL166
+    100066: RosettaPhilae_LR:_SOL169
+    100068: RosettaPhilae_LR:_SOL2789
+    100070: RosettaPhilae_LR:_SOL2883
+    100072: RosettaPhilae_LR:_SOL2883 1
+    100074: RosettaPhilae_LR:_SOL2886
+    100076: RosettaPhilae_LR:_SOL2886 1
+    100078: RosettaPhilae_LR:_SOL2887
+    100080: RosettaPhilae_LR:_SOL2887 1
+    100082: RosettaPhilae_LR:_SOL3480
+    100084: RosettaPhilae_LR:_SOL3481
+    100086: RosettaPhilae_LR:_SOL3482
+    100088: RosettaPhilae_LR:_SOL3483
+    100090: RosettaPhilae_LR:_SOL3672
+    100092: RosettaPhilae_LR:_SOL3955
+    100094: RosettaPhilae_LR:_SOL3957
+    100096: RosettaPhilae_LR:_SOL3959
+    100098: RosettaPhilae_LR:_SOL4126
+    100100: RosettaPhilae_LR:_SOL4153
+    100102: RosettaPhilae_LR:_SOL4155
+    100104: RosettaPhilae_LR:_SOL4157
+    100106: RosettaPhilae_LR:_SOL4203
+    100108: RosettaPhilae_LR:_SOL4232
+    100110: RosettaPhilae_LR:_SOL4234
+    100112: RosettaPhilae_LR:_SOL4236
+    100114: RosettaPhilae_LR:_SOL4242
+    100116: RosettaPhilae_LR:_SOL4244
+    100118: RosettaPhilae_LR:_SOL4246
+    100120: RosettaPhilae_LR:_SOL4248
+    100122: RosettaPhilae_LR:_SOL4297
+    100124: RosettaPhilae_LR:_SOL4299
+    100126: RosettaPhilae_LR:_SOL4301
+    100128: RosettaPhilae_LR:_SOL4303
+    100130: RosettaPhilae_LR:_SOL4305
+    100132: RosettaPhilae_LR:_SOL4307
+    100134: RosettaPhilae_LR:_SOL4311
+    100136: RosettaPhilae_LR:_SOL4369
+    100138: RosettaPhilae_LR:_SOL4371
+    100140: RosettaPhilae_LR:_SOL4373
+    100142: RosettaPhilae_LR:_SOL4375
+    100144: RosettaPhilae_LR:_SOL4393
+    100146: RosettaPhilae_LR:_SOL4395
+    100148: RosettaPhilae_LR:_SOL4397
+    100150: RosettaPhilae_LR:_SOL4399
+    100152: RosettaPhilae_LR:_SOL4413
+    100154: RosettaPhilae_LR:_SOL4642
+    100156: RosettaPhilae_LR:_SOL4731
+    100158: RosettaPhilae_LR:_SOL4732
+    100160: RosettaPhilae_LR:_SOL4744
+    100162: RosettaPhilae_LR:_SOL49
+    100164: RosettaPhilae_LR:_SOL667
+    100166: RosettaPhilae_LR:_SOL82518
+    100168: RosettaPhilae_LR:_SOL82519
+    100170: RosettaPhilae_LR:_SOL82520
+    100172: RosettaPhilae_LR:_SOL86283
+    100174: RosettaPhilae_LR:_SOL86283 1
+    100176: RosettaPhilae_LR:_SOL86284
+    100178: RosettaPhilae_LR:_SOL86284 1
+    100180: RosettaPhilae_LR:_SOL86285
+    100182: RosettaPhilae_LR:_SOL86285 1
+    100184: RosettaPhilae_LR:_SOL86289
+    100186: RosettaPhilae_LR:_SOL86289 1
+    100188: RosettaPhilae_LR:_SOL86393
+    100190: RosettaPhilae_LR:_SOL86531
+    100192: RosettaPhilae_LR:_SOL86531 1
+    100194: RosettaPhilae_LR:_SOL86534
+    100196: RosettaPhilae_LR:_SOL86534 1
+    100198: RosettaPhilae_LR:_SOL86535
+    100200: RosettaPhilae_LR:_SOL86535 1
+    100202: RosettaPhilae_LR:_SOL86536
+    100204: RosettaPhilae_LR:_SOL86536 1
+    100206: RosettaPhilae_LR:_SOL86537
+    100208: RosettaPhilae_LR:_SOL86537 1
+    100210: RosettaPhilae_LR:_SOL86538
+    100212: RosettaPhilae_LR:_SOL86538 1
+    100214: RosettaPhilae_LR:_SOL86539
+    100216: RosettaPhilae_LR:_SOL86539 1
+    100218: RosettaPhilae_LR:_SOL86540
+    100220: RosettaPhilae_LR:_SOL86540 1
+    100222: RosettaPhilae_LR:_SOL86541
+    100224: RosettaPhilae_LR:_SOL86541 1
+    100226: RosettaPhilae_LR:_SOL86542
+    100228: RosettaPhilae_LR:_SOL86542 1
+    100230: RosettaPhilae_LR:_SOL86543
+    100232: RosettaPhilae_LR:_SOL86543 1
+    100234: RosettaPhilae_LR:_SOL86544
+    100236: RosettaPhilae_LR:_SOL86544 1
+    100238: RosettaPhilae_LR:_SOL86545
+    100240: RosettaPhilae_LR:_SOL86545 1
+    100242: RosettaPhilae_LR:_SOL86546
+    100244: RosettaPhilae_LR:_SOL86546 1
+    100246: RosettaPhilae_LR:_SOL86547
+    100248: RosettaPhilae_LR:_SOL86547 1
+    100250: RosettaPhilae_LR:_SOL86548
+    100252: RosettaPhilae_LR:_SOL86548 1
+    100254: RosettaPhilae_LR:_SOL86549
+    100256: RosettaPhilae_LR:_SOL86549 1
+    100258: RosettaPhilae_LR:_SOL86550
+    100260: RosettaPhilae_LR:_SOL86550 1
+    100262: RosettaPhilae_LR:_SOL86551
+    100264: RosettaPhilae_LR:_SOL86551 1
+    100266: RosettaPhilae_LR:_SOL86552
+    100268: RosettaPhilae_LR:_SOL86552 1
+    100270: RosettaPhilae_LR:_SOL86553
+    100272: RosettaPhilae_LR:_SOL86553 1
+    100274: RosettaPhilae_LR:_SOL86554
+    100276: RosettaPhilae_LR:_SOL86554 1
+    100278: RosettaPhilae_LR:_SOL86555
+    100280: RosettaPhilae_LR:_SOL86555 1
+    100282: RosettaPhilae_LR:_SOL86556
+    100284: RosettaPhilae_LR:_SOL86556 1
+    100286: RosettaPhilae_LR:_SOL86557
+    100288: RosettaPhilae_LR:_SOL86557 1
+    100290: RosettaPhilae_LR:_SOL86558
+    100292: RosettaPhilae_LR:_SOL86558 1
+    100294: RosettaPhilae_LR:_SOL86561
+    100296: RosettaPhilae_LR:_SOL86561 1
+    100298: RosettaPhilae_LR:_SOL86561 2
+    100300: RosettaPhilae_LR:_SOL86561 3
+    100302: RosettaPhilae_LR:_SOL86561 4
+    100304: RosettaPhilae_LR:_SOL86561 5
+    100306: RosettaPhilae_LR:_SOL86561 6
+    100308: RosettaPhilae_LR:_SOL86561 7
+    100310: RosettaPhilae_LR:_SOL86565
+    100312: RosettaPhilae_LR:_SOL86565 1
+    100314: RosettaPhilae_LR:_SOL86573
+    100316: RosettaPhilae_LR:_SOL86573 1
+    100318: RosettaPhilae_LR:_SOL86574
+    100320: RosettaPhilae_LR:_SOL86574 1
+    100322: RosettaPhilae_LR:_SOL86575
+    100324: RosettaPhilae_LR:_SOL86575 1
+    100326: RosettaPhilae_LR:_SOL86576
+    100328: RosettaPhilae_LR:_SOL86576 1
+    100330: RosettaPhilae_LR:_SOL86576 2
+    100332: RosettaPhilae_LR:_SOL86576 3
+    100334: RosettaPhilae_LR:_SOL86576 4
+    100336: RosettaPhilae_LR:_SOL86576 5
+    100338: RosettaPhilae_LR:_SOL86576 6
+    100340: RosettaPhilae_LR:_SOL86576 7
+    100342: RosettaPhilae_LR:_SOL86604
+    100344: RosettaPhilae_LR:_SOL86605
+    100346: RosettaPhilae_LR:_SOL86606
+    100348: RosettaPhilae_LR:_SOL86607
+    100350: RosettaPhilae_LR:_SOL86608
+    100352: RosettaPhilae_LR:_SOL86609
+    100354: RosettaPhilae_LR:_SOL86610
+    100356: RosettaPhilae_LR:_SOL86611
+    100358: RosettaPhilae_LR:_SOL86612
+    100360: RosettaPhilae_LR:_SOL86613
+    100362: RosettaPhilae_LR:_SOL86614
+    100364: RosettaPhilae_LR:_SOL86615
+    100366: RosettaPhilae_LR:_SOL86616
+    100368: RosettaPhilae_LR:_SOL86617
+    100370: RosettaPhilae_LR:Arpon1
+    100372: RosettaPhilae_LR:arpon2
+    100374: RosettaPhilae_LR:back
+    100376: RosettaPhilae_LR:BackBody
+    100378: RosettaPhilae_LR:BackRoboticArm
+    100380: RosettaPhilae_LR:bares
+    100382: RosettaPhilae_LR:bares 1
+    100384: RosettaPhilae_LR:bares 2
+    100386: RosettaPhilae_LR:bolt25
+    100388: RosettaPhilae_LR:bolt26
+    100390: RosettaPhilae_LR:bolt27
+    100392: RosettaPhilae_LR:bolt28
+    100394: RosettaPhilae_LR:bottom
+    100396: RosettaPhilae_LR:bottom 1
+    100398: RosettaPhilae_LR:BottomCamera
+    100400: RosettaPhilae_LR:CONSERT_DEPL
+    100402: RosettaPhilae_LR:DeployLower1
+    100404: RosettaPhilae_LR:DeployLower1 1
+    100406: RosettaPhilae_LR:DeployLower1 2
+    100408: RosettaPhilae_LR:Drill
+    100410: RosettaPhilae_LR:Drill 1
+    100412: RosettaPhilae_LR:Drill 2
+    100414: RosettaPhilae_LR:front1
+    100416: RosettaPhilae_LR:frontInstruments
+    100418: RosettaPhilae_LR:frontMetal
+    100420: RosettaPhilae_LR:group104
+    100422: RosettaPhilae_LR:group105
+    100424: RosettaPhilae_LR:group106
+    100426: RosettaPhilae_LR:group107
+    100428: RosettaPhilae_LR:group108
+    100430: RosettaPhilae_LR:group109
+    100432: RosettaPhilae_LR:group111
+    100434: RosettaPhilae_LR:group113
+    100436: RosettaPhilae_LR:group114
+    100438: RosettaPhilae_LR:group115
+    100440: RosettaPhilae_LR:group116
+    100442: RosettaPhilae_LR:group118
+    100444: RosettaPhilae_LR:group119
+    100446: RosettaPhilae_LR:group120
+    100448: RosettaPhilae_LR:group121
+    100450: RosettaPhilae_LR:group122
+    100452: RosettaPhilae_LR:group123
+    100454: RosettaPhilae_LR:group124
+    100456: RosettaPhilae_LR:group125
+    100458: RosettaPhilae_LR:group126
+    100460: RosettaPhilae_LR:group127
+    100462: RosettaPhilae_LR:group129
+    100464: RosettaPhilae_LR:group130
+    100466: RosettaPhilae_LR:group132
+    100468: RosettaPhilae_LR:group133
+    100470: RosettaPhilae_LR:group135
+    100472: RosettaPhilae_LR:group136
+    100474: RosettaPhilae_LR:group137
+    100476: RosettaPhilae_LR:group138
+    100478: RosettaPhilae_LR:group139
+    100480: RosettaPhilae_LR:group140
+    100482: RosettaPhilae_LR:group141
+    100484: RosettaPhilae_LR:group142
+    100486: RosettaPhilae_LR:group144
+    100488: RosettaPhilae_LR:group145
+    100490: RosettaPhilae_LR:group146
+    100492: RosettaPhilae_LR:group147
+    100494: RosettaPhilae_LR:group147 1
+    100496: RosettaPhilae_LR:group148
+    100498: RosettaPhilae_LR:group148 1
+    100500: RosettaPhilae_LR:group149
+    100502: RosettaPhilae_LR:group150
+    100504: RosettaPhilae_LR:group152
+    100506: RosettaPhilae_LR:group153
+    100508: RosettaPhilae_LR:group153 1
+    100510: RosettaPhilae_LR:group154
+    100512: RosettaPhilae_LR:group154 1
+    100514: RosettaPhilae_LR:group155
+    100516: RosettaPhilae_LR:group156
+    100518: RosettaPhilae_LR:group157
+    100520: RosettaPhilae_LR:group161
+    100522: RosettaPhilae_LR:group164
+    100524: RosettaPhilae_LR:group37
+    100526: RosettaPhilae_LR:group37 1
+    100528: RosettaPhilae_LR:group37 2
+    100530: RosettaPhilae_LR:group38
+    100532: RosettaPhilae_LR:group38 1
+    100534: RosettaPhilae_LR:group38 2
+    100536: RosettaPhilae_LR:group42
+    100538: RosettaPhilae_LR:group42 1
+    100540: RosettaPhilae_LR:group42 2
+    100542: RosettaPhilae_LR:group45
+    100544: RosettaPhilae_LR:group45 1
+    100546: RosettaPhilae_LR:group45 2
+    100548: RosettaPhilae_LR:group47
+    100550: RosettaPhilae_LR:group47 1
+    100552: RosettaPhilae_LR:group47 2
+    100554: RosettaPhilae_LR:group72
+    100556: RosettaPhilae_LR:group79
+    100558: RosettaPhilae_LR:group87
+    100560: RosettaPhilae_LR:group87 1
+    100562: RosettaPhilae_LR:group88
+    100564: RosettaPhilae_LR:group88 1
+    100566: RosettaPhilae_LR:group89
+    100568: RosettaPhilae_LR:group89 1
+    100570: RosettaPhilae_LR:group90
+    100572: RosettaPhilae_LR:group90 1
+    100574: RosettaPhilae_LR:HGA____________
+    100576: RosettaPhilae_LR:instrumentsBack
+    100578: RosettaPhilae_LR:Leg1
+    100580: RosettaPhilae_LR:Leg1 1
+    100582: RosettaPhilae_LR:Leg1 2
+    100584: RosettaPhilae_LR:Leg1 3
+    100586: RosettaPhilae_LR:Leg5
+    100588: RosettaPhilae_LR:Leg6
+    100590: RosettaPhilae_LR:LegsBase
+    100592: RosettaPhilae_LR:mainBody
+    100594: RosettaPhilae_LR:MainDamp1
+    100596: RosettaPhilae_LR:MainDamp1 1
+    100598: RosettaPhilae_LR:MainDamp1 2
+    100600: RosettaPhilae_LR:nurbsToPoly10
+    100602: RosettaPhilae_LR:nurbsToPoly11
+    100604: RosettaPhilae_LR:OV01_PFM_PLUS_Z_PAYL_DEPLOYED
+    100606: RosettaPhilae_LR:OV03_PFM_PLUS_X_PAYLOAD_HGA_DEPLOYED
+    100608: RosettaPhilae_LR:panel1
+    100610: RosettaPhilae_LR:panel2
+    100612: RosettaPhilae_LR:pCube100
+    100614: RosettaPhilae_LR:pCube100 1
+    100616: RosettaPhilae_LR:pCube100 2
+    100618: RosettaPhilae_LR:pCube104
+    100620: RosettaPhilae_LR:pCube104 1
+    100622: RosettaPhilae_LR:pCube104 2
+    100624: RosettaPhilae_LR:pCube105
+    100626: RosettaPhilae_LR:pCube105 1
+    100628: RosettaPhilae_LR:pCube105 2
+    100630: RosettaPhilae_LR:pCube110
+    100632: RosettaPhilae_LR:pCube111
+    100634: RosettaPhilae_LR:pCube27
+    100636: RosettaPhilae_LR:pCube28
+    100638: RosettaPhilae_LR:pCube33
+    100640: RosettaPhilae_LR:pCube42
+    100642: RosettaPhilae_LR:pCube42 1
+    100644: RosettaPhilae_LR:pCube42 2
+    100646: RosettaPhilae_LR:pCube48
+    100648: RosettaPhilae_LR:pCube48 1
+    100650: RosettaPhilae_LR:pCube48 2
+    100652: RosettaPhilae_LR:pCube49
+    100654: RosettaPhilae_LR:pCube49 1
+    100656: RosettaPhilae_LR:pCube49 2
+    100658: RosettaPhilae_LR:pCube505
+    100660: RosettaPhilae_LR:pCube506
+    100662: RosettaPhilae_LR:pCube507
+    100664: RosettaPhilae_LR:pCube509
+    100666: RosettaPhilae_LR:pCube510
+    100668: RosettaPhilae_LR:pCube511
+    100670: RosettaPhilae_LR:pCube512
+    100672: RosettaPhilae_LR:pCube513
+    100674: RosettaPhilae_LR:pCube514
+    100676: RosettaPhilae_LR:pCube515
+    100678: RosettaPhilae_LR:pCube516
+    100680: RosettaPhilae_LR:pCube517
+    100682: RosettaPhilae_LR:pCube518
+    100684: RosettaPhilae_LR:pCube522
+    100686: RosettaPhilae_LR:pCube523
+    100688: RosettaPhilae_LR:pCube524
+    100690: RosettaPhilae_LR:pCube525
+    100692: RosettaPhilae_LR:pCube526
+    100694: RosettaPhilae_LR:pCube527
+    100696: RosettaPhilae_LR:pCube528
+    100698: RosettaPhilae_LR:pCube529
+    100700: RosettaPhilae_LR:pCube53
+    100702: RosettaPhilae_LR:pCube53 1
+    100704: RosettaPhilae_LR:pCube53 2
+    100706: RosettaPhilae_LR:pCube530
+    100708: RosettaPhilae_LR:pCube555
+    100710: RosettaPhilae_LR:pCube556
+    100712: RosettaPhilae_LR:pCube559
+    100714: RosettaPhilae_LR:pCube57
+    100716: RosettaPhilae_LR:pCube57 1
+    100718: RosettaPhilae_LR:pCube57 2
+    100720: RosettaPhilae_LR:pCube571
+    100722: RosettaPhilae_LR:pCube572
+    100724: RosettaPhilae_LR:pCube573
+    100726: RosettaPhilae_LR:pCube58
+    100728: RosettaPhilae_LR:pCube58 1
+    100730: RosettaPhilae_LR:pCube58 2
+    100732: RosettaPhilae_LR:pCube584
+    100734: RosettaPhilae_LR:pCube585
+    100736: RosettaPhilae_LR:pCube586
+    100738: RosettaPhilae_LR:pCube587
+    100740: RosettaPhilae_LR:pCube588
+    100742: RosettaPhilae_LR:pCube589
+    100744: RosettaPhilae_LR:pCube590
+    100746: RosettaPhilae_LR:pCube591
+    100748: RosettaPhilae_LR:pCube592
+    100750: RosettaPhilae_LR:pCube9
+    100752: RosettaPhilae_LR:pCube91
+    100754: RosettaPhilae_LR:pCube91 1
+    100756: RosettaPhilae_LR:pCube91 2
+    100758: RosettaPhilae_LR:pCube93
+    100760: RosettaPhilae_LR:pCube93 1
+    100762: RosettaPhilae_LR:pCube93 2
+    100764: RosettaPhilae_LR:pCube94
+    100766: RosettaPhilae_LR:pCube94 1
+    100768: RosettaPhilae_LR:pCube94 2
+    100770: RosettaPhilae_LR:pCube95
+    100772: RosettaPhilae_LR:pCube95 1
+    100774: RosettaPhilae_LR:pCube95 2
+    100776: RosettaPhilae_LR:pCube96
+    100778: RosettaPhilae_LR:pCube96 1
+    100780: RosettaPhilae_LR:pCube96 2
+    100782: RosettaPhilae_LR:pCube98
+    100784: RosettaPhilae_LR:pCube98 1
+    100786: RosettaPhilae_LR:pCube98 2
+    100788: RosettaPhilae_LR:pCube99
+    100790: RosettaPhilae_LR:pCube99 1
+    100792: RosettaPhilae_LR:pCube99 2
+    100794: RosettaPhilae_LR:pCylinder100
+    100796: RosettaPhilae_LR:pCylinder101
+    100798: RosettaPhilae_LR:pCylinder103
+    100800: RosettaPhilae_LR:pCylinder104
+    100802: RosettaPhilae_LR:pCylinder105
+    100804: RosettaPhilae_LR:pCylinder109
+    100806: RosettaPhilae_LR:pCylinder112
+    100808: RosettaPhilae_LR:pCylinder112 1
+    100810: RosettaPhilae_LR:pCylinder112 2
+    100812: RosettaPhilae_LR:pCylinder116
+    100814: RosettaPhilae_LR:pCylinder116 1
+    100816: RosettaPhilae_LR:pCylinder116 2
+    100818: RosettaPhilae_LR:pCylinder127
+    100820: RosettaPhilae_LR:pCylinder127 1
+    100822: RosettaPhilae_LR:pCylinder127 2
+    100824: RosettaPhilae_LR:pCylinder128
+    100826: RosettaPhilae_LR:pCylinder128 1
+    100828: RosettaPhilae_LR:pCylinder128 2
+    100830: RosettaPhilae_LR:pCylinder153
+    100832: RosettaPhilae_LR:pCylinder153 1
+    100834: RosettaPhilae_LR:pCylinder153 2
+    100836: RosettaPhilae_LR:pCylinder155
+    100838: RosettaPhilae_LR:pCylinder156
+    100840: RosettaPhilae_LR:pCylinder158
+    100842: RosettaPhilae_LR:pCylinder158 1
+    100844: RosettaPhilae_LR:pCylinder158 2
+    100846: RosettaPhilae_LR:pCylinder159
+    100848: RosettaPhilae_LR:pCylinder159 1
+    100850: RosettaPhilae_LR:pCylinder159 2
+    100852: RosettaPhilae_LR:pCylinder159 3
+    100854: RosettaPhilae_LR:pCylinder160
+    100856: RosettaPhilae_LR:pCylinder161
+    100858: RosettaPhilae_LR:pCylinder163
+    100860: RosettaPhilae_LR:pCylinder164
+    100862: RosettaPhilae_LR:pCylinder166
+    100864: RosettaPhilae_LR:pCylinder167
+    100866: RosettaPhilae_LR:pCylinder168
+    100868: RosettaPhilae_LR:pCylinder169
+    100870: RosettaPhilae_LR:pCylinder170
+    100872: RosettaPhilae_LR:pCylinder171
+    100874: RosettaPhilae_LR:pCylinder172
+    100876: RosettaPhilae_LR:pCylinder173
+    100878: RosettaPhilae_LR:pCylinder174
+    100880: RosettaPhilae_LR:pCylinder175
+    100882: RosettaPhilae_LR:pCylinder176
+    100884: RosettaPhilae_LR:pCylinder177
+    100886: RosettaPhilae_LR:pCylinder178
+    100888: RosettaPhilae_LR:pCylinder179
+    100890: RosettaPhilae_LR:pCylinder18
+    100892: RosettaPhilae_LR:pCylinder18 1
+    100894: RosettaPhilae_LR:pCylinder180
+    100896: RosettaPhilae_LR:pCylinder181
+    100898: RosettaPhilae_LR:pCylinder186
+    100900: RosettaPhilae_LR:pCylinder187
+    100902: RosettaPhilae_LR:pCylinder188
+    100904: RosettaPhilae_LR:pCylinder189
+    100906: RosettaPhilae_LR:pCylinder19
+    100908: RosettaPhilae_LR:pCylinder190
+    100910: RosettaPhilae_LR:pCylinder191
+    100912: RosettaPhilae_LR:pCylinder20
+    100914: RosettaPhilae_LR:pCylinder207
+    100916: RosettaPhilae_LR:pCylinder208
+    100918: RosettaPhilae_LR:pCylinder209
+    100920: RosettaPhilae_LR:pCylinder210
+    100922: RosettaPhilae_LR:pCylinder211
+    100924: RosettaPhilae_LR:pCylinder212
+    100926: RosettaPhilae_LR:pCylinder213
+    100928: RosettaPhilae_LR:pCylinder214
+    100930: RosettaPhilae_LR:pCylinder215
+    100932: RosettaPhilae_LR:pCylinder218
+    100934: RosettaPhilae_LR:pCylinder219
+    100936: RosettaPhilae_LR:pCylinder222
+    100938: RosettaPhilae_LR:pCylinder223
+    100940: RosettaPhilae_LR:pCylinder225
+    100942: RosettaPhilae_LR:pCylinder226
+    100944: RosettaPhilae_LR:pCylinder227
+    100946: RosettaPhilae_LR:pCylinder231
+    100948: RosettaPhilae_LR:pCylinder232
+    100950: RosettaPhilae_LR:pCylinder235
+    100952: RosettaPhilae_LR:pCylinder236
+    100954: RosettaPhilae_LR:pCylinder238
+    100956: RosettaPhilae_LR:pCylinder239
+    100958: RosettaPhilae_LR:pCylinder240
+    100960: RosettaPhilae_LR:pCylinder256
+    100962: RosettaPhilae_LR:pCylinder260
+    100964: RosettaPhilae_LR:pCylinder28
+    100966: RosettaPhilae_LR:pCylinder405
+    100968: RosettaPhilae_LR:pCylinder406
+    100970: RosettaPhilae_LR:pCylinder407
+    100972: RosettaPhilae_LR:pCylinder408
+    100974: RosettaPhilae_LR:pCylinder409
+    100976: RosettaPhilae_LR:pCylinder410
+    100978: RosettaPhilae_LR:pCylinder411
+    100980: RosettaPhilae_LR:pCylinder412
+    100982: RosettaPhilae_LR:pCylinder413
+    100984: RosettaPhilae_LR:pCylinder413 1
+    100986: RosettaPhilae_LR:pCylinder413 2
+    100988: RosettaPhilae_LR:pCylinder414
+    100990: RosettaPhilae_LR:pCylinder415
+    100992: RosettaPhilae_LR:pCylinder416
+    100994: RosettaPhilae_LR:pCylinder416 1
+    100996: RosettaPhilae_LR:pCylinder416 2
+    100998: RosettaPhilae_LR:pCylinder416 3
+    101000: RosettaPhilae_LR:pCylinder418
+    101002: RosettaPhilae_LR:pCylinder419
+    101004: RosettaPhilae_LR:pCylinder422
+    101006: RosettaPhilae_LR:pCylinder423
+    101008: RosettaPhilae_LR:pCylinder424
+    101010: RosettaPhilae_LR:pCylinder425
+    101012: RosettaPhilae_LR:pCylinder426
+    101014: RosettaPhilae_LR:pCylinder427
+    101016: RosettaPhilae_LR:pCylinder428
+    101018: RosettaPhilae_LR:pCylinder429
+    101020: RosettaPhilae_LR:pCylinder430
+    101022: RosettaPhilae_LR:pCylinder431
+    101024: RosettaPhilae_LR:pCylinder432
+    101026: RosettaPhilae_LR:pCylinder433
+    101028: RosettaPhilae_LR:pCylinder434
+    101030: RosettaPhilae_LR:pCylinder435
+    101032: RosettaPhilae_LR:pCylinder63
+    101034: RosettaPhilae_LR:pCylinder68
+    101036: RosettaPhilae_LR:pCylinder68 1
+    101038: RosettaPhilae_LR:pCylinder68 2
+    101040: RosettaPhilae_LR:pCylinder71
+    101042: RosettaPhilae_LR:pCylinder71 1
+    101044: RosettaPhilae_LR:pCylinder71 2
+    101046: RosettaPhilae_LR:pCylinder72
+    101048: RosettaPhilae_LR:pCylinder72 1
+    101050: RosettaPhilae_LR:pCylinder72 2
+    101052: RosettaPhilae_LR:pCylinder95
+    101054: RosettaPhilae_LR:pCylinder99
+    101056: RosettaPhilae_LR:Philae_LanderLR
+    101058: RosettaPhilae_LR:polySurface1
+    101060: RosettaPhilae_LR:polySurface1 1
+    101062: RosettaPhilae_LR:polySurface1 2
+    101064: RosettaPhilae_LR:polySurface105
+    101066: RosettaPhilae_LR:polySurface105 1
+    101068: RosettaPhilae_LR:polySurface105 2
+    101070: RosettaPhilae_LR:polySurface12
+    101072: RosettaPhilae_LR:polySurface122
+    101074: RosettaPhilae_LR:polySurface122 1
+    101076: RosettaPhilae_LR:polySurface122 2
+    101078: RosettaPhilae_LR:polySurface125
+    101080: RosettaPhilae_LR:polySurface125 1
+    101082: RosettaPhilae_LR:polySurface125 2
+    101084: RosettaPhilae_LR:polySurface13
+    101086: RosettaPhilae_LR:polySurface14
+    101088: RosettaPhilae_LR:polySurface141
+    101090: RosettaPhilae_LR:polySurface141 1
+    101092: RosettaPhilae_LR:polySurface141 2
+    101094: RosettaPhilae_LR:polySurface15
+    101096: RosettaPhilae_LR:polySurface162
+    101098: RosettaPhilae_LR:polySurface162 1
+    101100: RosettaPhilae_LR:polySurface162 2
+    101102: RosettaPhilae_LR:polySurface17
+    101104: RosettaPhilae_LR:polySurface170
+    101106: RosettaPhilae_LR:polySurface170 1
+    101108: RosettaPhilae_LR:polySurface170 2
+    101110: RosettaPhilae_LR:polySurface171
+    101112: RosettaPhilae_LR:polySurface171 1
+    101114: RosettaPhilae_LR:polySurface171 2
+    101116: RosettaPhilae_LR:polySurface172
+    101118: RosettaPhilae_LR:polySurface172 1
+    101120: RosettaPhilae_LR:polySurface172 2
+    101122: RosettaPhilae_LR:polySurface173
+    101124: RosettaPhilae_LR:polySurface173 1
+    101126: RosettaPhilae_LR:polySurface173 2
+    101128: RosettaPhilae_LR:polySurface18
+    101130: RosettaPhilae_LR:polySurface190
+    101132: RosettaPhilae_LR:polySurface190 1
+    101134: RosettaPhilae_LR:polySurface190 2
+    101136: RosettaPhilae_LR:polySurface191
+    101138: RosettaPhilae_LR:polySurface191 1
+    101140: RosettaPhilae_LR:polySurface191 2
+    101142: RosettaPhilae_LR:polySurface192
+    101144: RosettaPhilae_LR:polySurface192 1
+    101146: RosettaPhilae_LR:polySurface192 2
+    101148: RosettaPhilae_LR:polySurface193
+    101150: RosettaPhilae_LR:polySurface193 1
+    101152: RosettaPhilae_LR:polySurface193 2
+    101154: RosettaPhilae_LR:polySurface209
+    101156: RosettaPhilae_LR:polySurface209 1
+    101158: RosettaPhilae_LR:polySurface209 2
+    101160: RosettaPhilae_LR:polySurface219
+    101162: RosettaPhilae_LR:polySurface219 1
+    101164: RosettaPhilae_LR:polySurface220
+    101166: RosettaPhilae_LR:polySurface220 1
+    101168: RosettaPhilae_LR:polySurface221
+    101170: RosettaPhilae_LR:polySurface225
+    101172: RosettaPhilae_LR:polySurface225 1
+    101174: RosettaPhilae_LR:polySurface226
+    101176: RosettaPhilae_LR:polySurface226 1
+    101178: RosettaPhilae_LR:polySurface227
+    101180: RosettaPhilae_LR:polySurface248
+    101182: RosettaPhilae_LR:polySurface248 1
+    101184: RosettaPhilae_LR:polySurface248 2
+    101186: RosettaPhilae_LR:polySurface249
+    101188: RosettaPhilae_LR:polySurface249 1
+    101190: RosettaPhilae_LR:polySurface249 2
+    101192: RosettaPhilae_LR:polySurface25
+    101194: RosettaPhilae_LR:polySurface2593
+    101196: RosettaPhilae_LR:polySurface2662
+    101198: RosettaPhilae_LR:polySurface2663
+    101200: RosettaPhilae_LR:polySurface2664
+    101202: RosettaPhilae_LR:polySurface2665
+    101204: RosettaPhilae_LR:polySurface2666
+    101206: RosettaPhilae_LR:polySurface2667
+    101208: RosettaPhilae_LR:polySurface2673
+    101210: RosettaPhilae_LR:polySurface2676
+    101212: RosettaPhilae_LR:polySurface2677
+    101214: RosettaPhilae_LR:polySurface2679
+    101216: RosettaPhilae_LR:polySurface2680
+    101218: RosettaPhilae_LR:polySurface2681
+    101220: RosettaPhilae_LR:polySurface2682
+    101222: RosettaPhilae_LR:polySurface2683
+    101224: RosettaPhilae_LR:polySurface2684
+    101226: RosettaPhilae_LR:polySurface2686
+    101228: RosettaPhilae_LR:polySurface2713
+    101230: RosettaPhilae_LR:polySurface2722
+    101232: RosettaPhilae_LR:polySurface2723
+    101234: RosettaPhilae_LR:polySurface2725
+    101236: RosettaPhilae_LR:polySurface2726
+    101238: RosettaPhilae_LR:polySurface2727
+    101240: RosettaPhilae_LR:polySurface2728
+    101242: RosettaPhilae_LR:polySurface2729
+    101244: RosettaPhilae_LR:polySurface2730
+    101246: RosettaPhilae_LR:polySurface2731
+    101248: RosettaPhilae_LR:polySurface2732
+    101250: RosettaPhilae_LR:polySurface2733
+    101252: RosettaPhilae_LR:polySurface2734
+    101254: RosettaPhilae_LR:polySurface2737
+    101256: RosettaPhilae_LR:polySurface2738
+    101258: RosettaPhilae_LR:polySurface2748
+    101260: RosettaPhilae_LR:polySurface2749
+    101262: RosettaPhilae_LR:polySurface2750
+    101264: RosettaPhilae_LR:polySurface2751
+    101266: RosettaPhilae_LR:polySurface2752
+    101268: RosettaPhilae_LR:polySurface2753
+    101270: RosettaPhilae_LR:polySurface2754
+    101272: RosettaPhilae_LR:polySurface2758
+    101274: RosettaPhilae_LR:polySurface2759
+    101276: RosettaPhilae_LR:polySurface2762
+    101278: RosettaPhilae_LR:polySurface2777
+    101280: RosettaPhilae_LR:polySurface2778
+    101282: RosettaPhilae_LR:polySurface2779
+    101284: RosettaPhilae_LR:polySurface2780
+    101286: RosettaPhilae_LR:polySurface2781
+    101288: RosettaPhilae_LR:polySurface2782
+    101290: RosettaPhilae_LR:polySurface2783
+    101292: RosettaPhilae_LR:polySurface2784
+    101294: RosettaPhilae_LR:polySurface2785
+    101296: RosettaPhilae_LR:polySurface2786
+    101298: RosettaPhilae_LR:polySurface2787
+    101300: RosettaPhilae_LR:polySurface2788
+    101302: RosettaPhilae_LR:polySurface2789
+    101304: RosettaPhilae_LR:polySurface2790
+    101306: RosettaPhilae_LR:polySurface2791
+    101308: RosettaPhilae_LR:polySurface2792
+    101310: RosettaPhilae_LR:polySurface2794
+    101312: RosettaPhilae_LR:polySurface31
+    101314: RosettaPhilae_LR:polySurface36
+    101316: RosettaPhilae_LR:polySurface38
+    101318: RosettaPhilae_LR:polySurface3835
+    101320: RosettaPhilae_LR:polySurface4
+    101322: RosettaPhilae_LR:polySurface4084
+    101324: RosettaPhilae_LR:polySurface4309
+    101326: RosettaPhilae_LR:polySurface4314
+    101328: RosettaPhilae_LR:polySurface4314 1
+    101330: RosettaPhilae_LR:polySurface4315
+    101332: RosettaPhilae_LR:polySurface4315 1
+    101334: RosettaPhilae_LR:polySurface4316
+    101336: RosettaPhilae_LR:polySurface4316 1
+    101338: RosettaPhilae_LR:polySurface4317
+    101340: RosettaPhilae_LR:polySurface4317 1
+    101342: RosettaPhilae_LR:polySurface4318
+    101344: RosettaPhilae_LR:polySurface4318 1
+    101346: RosettaPhilae_LR:polySurface4319
+    101348: RosettaPhilae_LR:polySurface4319 1
+    101350: RosettaPhilae_LR:polySurface4319 2
+    101352: RosettaPhilae_LR:polySurface4319 3
+    101354: RosettaPhilae_LR:polySurface4319 4
+    101356: RosettaPhilae_LR:polySurface4319 5
+    101358: RosettaPhilae_LR:polySurface4319 6
+    101360: RosettaPhilae_LR:polySurface4319 7
+    101362: RosettaPhilae_LR:polySurface4323
+    101364: RosettaPhilae_LR:polySurface4323 1
+    101366: RosettaPhilae_LR:polySurface4324
+    101368: RosettaPhilae_LR:polySurface4324 1
+    101370: RosettaPhilae_LR:polySurface4329
+    101372: RosettaPhilae_LR:polySurface4329 1
+    101374: RosettaPhilae_LR:polySurface4329 2
+    101376: RosettaPhilae_LR:polySurface4329 3
+    101378: RosettaPhilae_LR:polySurface4329 4
+    101380: RosettaPhilae_LR:polySurface4329 5
+    101382: RosettaPhilae_LR:polySurface4329 6
+    101384: RosettaPhilae_LR:polySurface4329 7
+    101386: RosettaPhilae_LR:polySurface4333
+    101388: RosettaPhilae_LR:polySurface4334
+    101390: RosettaPhilae_LR:polySurface4335
+    101392: RosettaPhilae_LR:polySurface4337
+    101394: RosettaPhilae_LR:polySurface4338
+    101396: RosettaPhilae_LR:polySurface4339
+    101398: RosettaPhilae_LR:polySurface4340
+    101400: RosettaPhilae_LR:polySurface4342
+    101402: RosettaPhilae_LR:polySurface4343
+    101404: RosettaPhilae_LR:polySurface4344
+    101406: RosettaPhilae_LR:polySurface4344 1
+    101408: RosettaPhilae_LR:polySurface4345
+    101410: RosettaPhilae_LR:polySurface4345 1
+    101412: RosettaPhilae_LR:polySurface4346
+    101414: RosettaPhilae_LR:polySurface4346 1
+    101416: RosettaPhilae_LR:polySurface4347
+    101418: RosettaPhilae_LR:polySurface4347 1
+    101420: RosettaPhilae_LR:polySurface4348
+    101422: RosettaPhilae_LR:polySurface4349
+    101424: RosettaPhilae_LR:polySurface4350
+    101426: RosettaPhilae_LR:polySurface4351
+    101428: RosettaPhilae_LR:polySurface4352
+    101430: RosettaPhilae_LR:polySurface4353
+    101432: RosettaPhilae_LR:polySurface4354
+    101434: RosettaPhilae_LR:polySurface4357
+    101436: RosettaPhilae_LR:polySurface4358
+    101438: RosettaPhilae_LR:polySurface4361
+    101440: RosettaPhilae_LR:polySurface4365
+    101442: RosettaPhilae_LR:polySurface4366
+    101444: RosettaPhilae_LR:polySurface4366 1
+    101446: RosettaPhilae_LR:polySurface4366 2
+    101448: RosettaPhilae_LR:polySurface4366 3
+    101450: RosettaPhilae_LR:polySurface4367
+    101452: RosettaPhilae_LR:polySurface4368
+    101454: RosettaPhilae_LR:polySurface4372
+    101456: RosettaPhilae_LR:polySurface4374
+    101458: RosettaPhilae_LR:polySurface4375
+    101460: RosettaPhilae_LR:polySurface4376
+    101462: RosettaPhilae_LR:polySurface4377
+    101464: RosettaPhilae_LR:polySurface4378
+    101466: RosettaPhilae_LR:polySurface4379
+    101468: RosettaPhilae_LR:polySurface4380
+    101470: RosettaPhilae_LR:polySurface4380 1
+    101472: RosettaPhilae_LR:polySurface4381
+    101474: RosettaPhilae_LR:polySurface4384
+    101476: RosettaPhilae_LR:polySurface4385
+    101478: RosettaPhilae_LR:polySurface4386
+    101480: RosettaPhilae_LR:polySurface4387
+    101482: RosettaPhilae_LR:polySurface4387 1
+    101484: RosettaPhilae_LR:polySurface4387 2
+    101486: RosettaPhilae_LR:polySurface4387 3
+    101488: RosettaPhilae_LR:polySurface4389
+    101490: RosettaPhilae_LR:polySurface4389 1
+    101492: RosettaPhilae_LR:polySurface4389 2
+    101494: RosettaPhilae_LR:polySurface4389 3
+    101496: RosettaPhilae_LR:polySurface4399
+    101498: RosettaPhilae_LR:polySurface4400
+    101500: RosettaPhilae_LR:polySurface4401
+    101502: RosettaPhilae_LR:polySurface4402
+    101504: RosettaPhilae_LR:polySurface4403
+    101506: RosettaPhilae_LR:polySurface4404
+    101508: RosettaPhilae_LR:polySurface4404 1
+    101510: RosettaPhilae_LR:polySurface4404 2
+    101512: RosettaPhilae_LR:polySurface4405
+    101514: RosettaPhilae_LR:polySurface4412
+    101516: RosettaPhilae_LR:polySurface4413
+    101518: RosettaPhilae_LR:polySurface6
+    101520: RosettaPhilae_LR:polySurface68
+    101522: RosettaPhilae_LR:polySurface68 1
+    101524: RosettaPhilae_LR:polySurface68 2
+    101526: RosettaPhilae_LR:polySurface748
+    101528: RosettaPhilae_LR:polySurface753
+    101530: RosettaPhilae_LR:polySurface754
+    101532: RosettaPhilae_LR:polySurface755
+    101534: RosettaPhilae_LR:polySurface756
+    101536: RosettaPhilae_LR:polySurface758
+    101538: RosettaPhilae_LR:polySurface760
+    101540: RosettaPhilae_LR:polySurface762
+    101542: RosettaPhilae_LR:polySurface763
+    101544: RosettaPhilae_LR:polySurface764
+    101546: RosettaPhilae_LR:polySurface765
+    101548: RosettaPhilae_LR:polySurface766
+    101550: RosettaPhilae_LR:polySurface768
+    101552: RosettaPhilae_LR:polySurface769
+    101554: RosettaPhilae_LR:polySurface770
+    101556: RosettaPhilae_LR:polySurface771
+    101558: RosettaPhilae_LR:polySurface771 1
+    101560: RosettaPhilae_LR:polySurface771 2
+    101562: RosettaPhilae_LR:polySurface771 3
+    101564: RosettaPhilae_LR:polySurface772
+    101566: RosettaPhilae_LR:polySurface772 1
+    101568: RosettaPhilae_LR:polySurface772 2
+    101570: RosettaPhilae_LR:polySurface773
+    101572: RosettaPhilae_LR:polySurface773 1
+    101574: RosettaPhilae_LR:polySurface773 2
+    101576: RosettaPhilae_LR:polySurface773 3
+    101578: RosettaPhilae_LR:polySurface775
+    101580: RosettaPhilae_LR:polySurface78
+    101582: RosettaPhilae_LR:polySurface78 1
+    101584: RosettaPhilae_LR:polySurface78 2
+    101586: RosettaPhilae_LR:polySurface780
+    101588: RosettaPhilae_LR:polySurface783
+    101590: RosettaPhilae_LR:polySurface785
+    101592: RosettaPhilae_LR:polySurface786
+    101594: RosettaPhilae_LR:polySurface787
+    101596: RosettaPhilae_LR:polySurface788
+    101598: RosettaPhilae_LR:polySurface790
+    101600: RosettaPhilae_LR:polySurface796
+    101602: RosettaPhilae_LR:polySurface797
+    101604: RosettaPhilae_LR:polySurface798
+    101606: RosettaPhilae_LR:polySurface799
+    101608: RosettaPhilae_LR:polySurface80
+    101610: RosettaPhilae_LR:polySurface80 1
+    101612: RosettaPhilae_LR:polySurface80 2
+    101614: RosettaPhilae_LR:polySurface800
+    101616: RosettaPhilae_LR:polySurface801
+    101618: RosettaPhilae_LR:polySurface803
+    101620: RosettaPhilae_LR:polySurface806
+    101622: RosettaPhilae_LR:polySurface808
+    101624: RosettaPhilae_LR:polySurface810
+    101626: RosettaPhilae_LR:polySurface811
+    101628: RosettaPhilae_LR:polySurface823
+    101630: RosettaPhilae_LR:polySurface824
+    101632: RosettaPhilae_LR:polySurface825
+    101634: RosettaPhilae_LR:polySurface826
+    101636: RosettaPhilae_LR:polySurface827
+    101638: RosettaPhilae_LR:polySurface828
+    101640: RosettaPhilae_LR:polySurface829
+    101642: RosettaPhilae_LR:polySurface830
+    101644: RosettaPhilae_LR:polySurface834
+    101646: RosettaPhilae_LR:polySurface835
+    101648: RosettaPhilae_LR:polySurface840
+    101650: RosettaPhilae_LR:polySurface841
+    101652: RosettaPhilae_LR:polySurface842
+    101654: RosettaPhilae_LR:polySurface843
+    101656: RosettaPhilae_LR:polySurface844
+    101658: RosettaPhilae_LR:polySurface87
+    101660: RosettaPhilae_LR:polySurface87 1
+    101662: RosettaPhilae_LR:polySurface87 2
+    101664: RosettaPhilae_LR:polySurface88
+    101666: RosettaPhilae_LR:polySurface88 1
+    101668: RosettaPhilae_LR:polySurface88 2
+    101670: RosettaPhilae_LR:polySurface94
+    101672: RosettaPhilae_LR:polySurface94 1
+    101674: RosettaPhilae_LR:polySurface94 2
+    101676: RosettaPhilae_LR:polySurface95
+    101678: RosettaPhilae_LR:polySurface95 1
+    101680: RosettaPhilae_LR:polySurface95 2
+    101682: RosettaPhilae_LR:polySurface971
+    101684: RosettaPhilae_LR:polySurface977
+    101686: RosettaPhilae_LR:polySurface978
+    101688: RosettaPhilae_LR:polySurface98
+    101690: RosettaPhilae_LR:polySurface98 1
+    101692: RosettaPhilae_LR:polySurface98 2
+    101694: RosettaPhilae_LR:polySurface99
+    101696: RosettaPhilae_LR:polySurface99 1
+    101698: RosettaPhilae_LR:polySurface99 2
+    101700: RosettaPhilae_LR:polySurface990
+    101702: RosettaPhilae_LR:pSphere18
+    101704: RosettaPhilae_LR:pSphere19
+    101706: RosettaPhilae_LR:pSphere20
+    101708: RosettaPhilae_LR:pSphere21
+    101710: RosettaPhilae_LR:pTorus1
+    101712: RosettaPhilae_LR:radiators
+    101714: RosettaPhilae_LR:RoboticDrilSampling
+    101716: RosettaPhilae_LR:ROSETTA
+    101718: RosettaPhilae_LR:side1
+    101720: RosettaPhilae_LR:side2
+    101722: RosettaPhilae_LR:SidesBody
+    101724: RosettaPhilae_LR:SolarArray
+    101726: RosettaPhilae_LR:SupportLeg1
+    101728: RosettaPhilae_LR:SupportLeg1 1
+    101730: RosettaPhilae_LR:SupportLeg1 2
+    101732: RosettaPhilae_LR:Thrusters
+    101734: RosettaPhilae_LR:top
+    101736: RosettaPhilae_LR:topInstruments
+    101738: RosettaPhilae_LR:topPlate
+    101740: RosettaPhilae_LR:transform10
+    101742: RosettaPhilae_LR:transform3
+    101744: RosettaPhilae_LR:transform4
+    101746: RosettaPhilae_LR:transform5
+    101748: RosettaPhilae_LR:transform6
+    101750: RosettaPhilae_LR:transform7
+    101752: RosettaPhilae_LR:transform8
+    101754: RosettaPhilae_LR:transform9
+    400000: //RootNode
+    400002: RosettaPhilae_LR:_0N_THRUSTER17
+    400004: RosettaPhilae_LR:_0N_THRUSTER17 1
+    400006: RosettaPhilae_LR:_0N_THRUSTER17 2
+    400008: RosettaPhilae_LR:_0N_THRUSTER17 3
+    400010: RosettaPhilae_LR:_0N_THRUSTER17 4
+    400012: RosettaPhilae_LR:_0N_THRUSTER17 5
+    400014: RosettaPhilae_LR:_0N_THRUSTER17 6
+    400016: RosettaPhilae_LR:_0N_THRUSTER17 7
+    400018: RosettaPhilae_LR:_0N_THRUSTER24
+    400020: RosettaPhilae_LR:_0N_THRUSTER24 1
+    400022: RosettaPhilae_LR:_0N_THRUSTER24 2
+    400024: RosettaPhilae_LR:_0N_THRUSTER24 3
+    400026: RosettaPhilae_LR:_0N_THRUSTER24 4
+    400028: RosettaPhilae_LR:_0N_THRUSTER24 5
+    400030: RosettaPhilae_LR:_0N_THRUSTER24 6
+    400032: RosettaPhilae_LR:_0N_THRUSTER24 7
+    400034: RosettaPhilae_LR:_0N_THRUSTER25
+    400036: RosettaPhilae_LR:_0N_THRUSTER25 1
+    400038: RosettaPhilae_LR:_0N_THRUSTER25 2
+    400040: RosettaPhilae_LR:_0N_THRUSTER25 3
+    400042: RosettaPhilae_LR:_0N_THRUSTER26
+    400044: RosettaPhilae_LR:_0N_THRUSTER26 1
+    400046: RosettaPhilae_LR:_0N_THRUSTER26 2
+    400048: RosettaPhilae_LR:_0N_THRUSTER26 3
+    400050: RosettaPhilae_LR:_SET1
+    400052: RosettaPhilae_LR:_SOL108
+    400054: RosettaPhilae_LR:_SOL109
+    400056: RosettaPhilae_LR:_SOL113
+    400058: RosettaPhilae_LR:_SOL114
+    400060: RosettaPhilae_LR:_SOL156
+    400062: RosettaPhilae_LR:_SOL164
+    400064: RosettaPhilae_LR:_SOL166
+    400066: RosettaPhilae_LR:_SOL169
+    400068: RosettaPhilae_LR:_SOL2789
+    400070: RosettaPhilae_LR:_SOL2883
+    400072: RosettaPhilae_LR:_SOL2883 1
+    400074: RosettaPhilae_LR:_SOL2886
+    400076: RosettaPhilae_LR:_SOL2886 1
+    400078: RosettaPhilae_LR:_SOL2887
+    400080: RosettaPhilae_LR:_SOL2887 1
+    400082: RosettaPhilae_LR:_SOL3480
+    400084: RosettaPhilae_LR:_SOL3481
+    400086: RosettaPhilae_LR:_SOL3482
+    400088: RosettaPhilae_LR:_SOL3483
+    400090: RosettaPhilae_LR:_SOL3672
+    400092: RosettaPhilae_LR:_SOL3955
+    400094: RosettaPhilae_LR:_SOL3957
+    400096: RosettaPhilae_LR:_SOL3959
+    400098: RosettaPhilae_LR:_SOL4126
+    400100: RosettaPhilae_LR:_SOL4153
+    400102: RosettaPhilae_LR:_SOL4155
+    400104: RosettaPhilae_LR:_SOL4157
+    400106: RosettaPhilae_LR:_SOL4203
+    400108: RosettaPhilae_LR:_SOL4232
+    400110: RosettaPhilae_LR:_SOL4234
+    400112: RosettaPhilae_LR:_SOL4236
+    400114: RosettaPhilae_LR:_SOL4242
+    400116: RosettaPhilae_LR:_SOL4244
+    400118: RosettaPhilae_LR:_SOL4246
+    400120: RosettaPhilae_LR:_SOL4248
+    400122: RosettaPhilae_LR:_SOL4297
+    400124: RosettaPhilae_LR:_SOL4299
+    400126: RosettaPhilae_LR:_SOL4301
+    400128: RosettaPhilae_LR:_SOL4303
+    400130: RosettaPhilae_LR:_SOL4305
+    400132: RosettaPhilae_LR:_SOL4307
+    400134: RosettaPhilae_LR:_SOL4311
+    400136: RosettaPhilae_LR:_SOL4369
+    400138: RosettaPhilae_LR:_SOL4371
+    400140: RosettaPhilae_LR:_SOL4373
+    400142: RosettaPhilae_LR:_SOL4375
+    400144: RosettaPhilae_LR:_SOL4393
+    400146: RosettaPhilae_LR:_SOL4395
+    400148: RosettaPhilae_LR:_SOL4397
+    400150: RosettaPhilae_LR:_SOL4399
+    400152: RosettaPhilae_LR:_SOL4413
+    400154: RosettaPhilae_LR:_SOL4642
+    400156: RosettaPhilae_LR:_SOL4731
+    400158: RosettaPhilae_LR:_SOL4732
+    400160: RosettaPhilae_LR:_SOL4744
+    400162: RosettaPhilae_LR:_SOL49
+    400164: RosettaPhilae_LR:_SOL667
+    400166: RosettaPhilae_LR:_SOL82518
+    400168: RosettaPhilae_LR:_SOL82519
+    400170: RosettaPhilae_LR:_SOL82520
+    400172: RosettaPhilae_LR:_SOL86283
+    400174: RosettaPhilae_LR:_SOL86283 1
+    400176: RosettaPhilae_LR:_SOL86284
+    400178: RosettaPhilae_LR:_SOL86284 1
+    400180: RosettaPhilae_LR:_SOL86285
+    400182: RosettaPhilae_LR:_SOL86285 1
+    400184: RosettaPhilae_LR:_SOL86289
+    400186: RosettaPhilae_LR:_SOL86289 1
+    400188: RosettaPhilae_LR:_SOL86393
+    400190: RosettaPhilae_LR:_SOL86531
+    400192: RosettaPhilae_LR:_SOL86531 1
+    400194: RosettaPhilae_LR:_SOL86534
+    400196: RosettaPhilae_LR:_SOL86534 1
+    400198: RosettaPhilae_LR:_SOL86535
+    400200: RosettaPhilae_LR:_SOL86535 1
+    400202: RosettaPhilae_LR:_SOL86536
+    400204: RosettaPhilae_LR:_SOL86536 1
+    400206: RosettaPhilae_LR:_SOL86537
+    400208: RosettaPhilae_LR:_SOL86537 1
+    400210: RosettaPhilae_LR:_SOL86538
+    400212: RosettaPhilae_LR:_SOL86538 1
+    400214: RosettaPhilae_LR:_SOL86539
+    400216: RosettaPhilae_LR:_SOL86539 1
+    400218: RosettaPhilae_LR:_SOL86540
+    400220: RosettaPhilae_LR:_SOL86540 1
+    400222: RosettaPhilae_LR:_SOL86541
+    400224: RosettaPhilae_LR:_SOL86541 1
+    400226: RosettaPhilae_LR:_SOL86542
+    400228: RosettaPhilae_LR:_SOL86542 1
+    400230: RosettaPhilae_LR:_SOL86543
+    400232: RosettaPhilae_LR:_SOL86543 1
+    400234: RosettaPhilae_LR:_SOL86544
+    400236: RosettaPhilae_LR:_SOL86544 1
+    400238: RosettaPhilae_LR:_SOL86545
+    400240: RosettaPhilae_LR:_SOL86545 1
+    400242: RosettaPhilae_LR:_SOL86546
+    400244: RosettaPhilae_LR:_SOL86546 1
+    400246: RosettaPhilae_LR:_SOL86547
+    400248: RosettaPhilae_LR:_SOL86547 1
+    400250: RosettaPhilae_LR:_SOL86548
+    400252: RosettaPhilae_LR:_SOL86548 1
+    400254: RosettaPhilae_LR:_SOL86549
+    400256: RosettaPhilae_LR:_SOL86549 1
+    400258: RosettaPhilae_LR:_SOL86550
+    400260: RosettaPhilae_LR:_SOL86550 1
+    400262: RosettaPhilae_LR:_SOL86551
+    400264: RosettaPhilae_LR:_SOL86551 1
+    400266: RosettaPhilae_LR:_SOL86552
+    400268: RosettaPhilae_LR:_SOL86552 1
+    400270: RosettaPhilae_LR:_SOL86553
+    400272: RosettaPhilae_LR:_SOL86553 1
+    400274: RosettaPhilae_LR:_SOL86554
+    400276: RosettaPhilae_LR:_SOL86554 1
+    400278: RosettaPhilae_LR:_SOL86555
+    400280: RosettaPhilae_LR:_SOL86555 1
+    400282: RosettaPhilae_LR:_SOL86556
+    400284: RosettaPhilae_LR:_SOL86556 1
+    400286: RosettaPhilae_LR:_SOL86557
+    400288: RosettaPhilae_LR:_SOL86557 1
+    400290: RosettaPhilae_LR:_SOL86558
+    400292: RosettaPhilae_LR:_SOL86558 1
+    400294: RosettaPhilae_LR:_SOL86561
+    400296: RosettaPhilae_LR:_SOL86561 1
+    400298: RosettaPhilae_LR:_SOL86561 2
+    400300: RosettaPhilae_LR:_SOL86561 3
+    400302: RosettaPhilae_LR:_SOL86561 4
+    400304: RosettaPhilae_LR:_SOL86561 5
+    400306: RosettaPhilae_LR:_SOL86561 6
+    400308: RosettaPhilae_LR:_SOL86561 7
+    400310: RosettaPhilae_LR:_SOL86565
+    400312: RosettaPhilae_LR:_SOL86565 1
+    400314: RosettaPhilae_LR:_SOL86573
+    400316: RosettaPhilae_LR:_SOL86573 1
+    400318: RosettaPhilae_LR:_SOL86574
+    400320: RosettaPhilae_LR:_SOL86574 1
+    400322: RosettaPhilae_LR:_SOL86575
+    400324: RosettaPhilae_LR:_SOL86575 1
+    400326: RosettaPhilae_LR:_SOL86576
+    400328: RosettaPhilae_LR:_SOL86576 1
+    400330: RosettaPhilae_LR:_SOL86576 2
+    400332: RosettaPhilae_LR:_SOL86576 3
+    400334: RosettaPhilae_LR:_SOL86576 4
+    400336: RosettaPhilae_LR:_SOL86576 5
+    400338: RosettaPhilae_LR:_SOL86576 6
+    400340: RosettaPhilae_LR:_SOL86576 7
+    400342: RosettaPhilae_LR:_SOL86604
+    400344: RosettaPhilae_LR:_SOL86605
+    400346: RosettaPhilae_LR:_SOL86606
+    400348: RosettaPhilae_LR:_SOL86607
+    400350: RosettaPhilae_LR:_SOL86608
+    400352: RosettaPhilae_LR:_SOL86609
+    400354: RosettaPhilae_LR:_SOL86610
+    400356: RosettaPhilae_LR:_SOL86611
+    400358: RosettaPhilae_LR:_SOL86612
+    400360: RosettaPhilae_LR:_SOL86613
+    400362: RosettaPhilae_LR:_SOL86614
+    400364: RosettaPhilae_LR:_SOL86615
+    400366: RosettaPhilae_LR:_SOL86616
+    400368: RosettaPhilae_LR:_SOL86617
+    400370: RosettaPhilae_LR:Arpon1
+    400372: RosettaPhilae_LR:arpon2
+    400374: RosettaPhilae_LR:back
+    400376: RosettaPhilae_LR:BackBody
+    400378: RosettaPhilae_LR:BackRoboticArm
+    400380: RosettaPhilae_LR:bares
+    400382: RosettaPhilae_LR:bares 1
+    400384: RosettaPhilae_LR:bares 2
+    400386: RosettaPhilae_LR:bolt25
+    400388: RosettaPhilae_LR:bolt26
+    400390: RosettaPhilae_LR:bolt27
+    400392: RosettaPhilae_LR:bolt28
+    400394: RosettaPhilae_LR:bottom
+    400396: RosettaPhilae_LR:bottom 1
+    400398: RosettaPhilae_LR:BottomCamera
+    400400: RosettaPhilae_LR:CONSERT_DEPL
+    400402: RosettaPhilae_LR:DeployLower1
+    400404: RosettaPhilae_LR:DeployLower1 1
+    400406: RosettaPhilae_LR:DeployLower1 2
+    400408: RosettaPhilae_LR:Drill
+    400410: RosettaPhilae_LR:Drill 1
+    400412: RosettaPhilae_LR:Drill 2
+    400414: RosettaPhilae_LR:front1
+    400416: RosettaPhilae_LR:frontInstruments
+    400418: RosettaPhilae_LR:frontMetal
+    400420: RosettaPhilae_LR:group104
+    400422: RosettaPhilae_LR:group105
+    400424: RosettaPhilae_LR:group106
+    400426: RosettaPhilae_LR:group107
+    400428: RosettaPhilae_LR:group108
+    400430: RosettaPhilae_LR:group109
+    400432: RosettaPhilae_LR:group111
+    400434: RosettaPhilae_LR:group113
+    400436: RosettaPhilae_LR:group114
+    400438: RosettaPhilae_LR:group115
+    400440: RosettaPhilae_LR:group116
+    400442: RosettaPhilae_LR:group118
+    400444: RosettaPhilae_LR:group119
+    400446: RosettaPhilae_LR:group120
+    400448: RosettaPhilae_LR:group121
+    400450: RosettaPhilae_LR:group122
+    400452: RosettaPhilae_LR:group123
+    400454: RosettaPhilae_LR:group124
+    400456: RosettaPhilae_LR:group125
+    400458: RosettaPhilae_LR:group126
+    400460: RosettaPhilae_LR:group127
+    400462: RosettaPhilae_LR:group129
+    400464: RosettaPhilae_LR:group130
+    400466: RosettaPhilae_LR:group132
+    400468: RosettaPhilae_LR:group133
+    400470: RosettaPhilae_LR:group135
+    400472: RosettaPhilae_LR:group136
+    400474: RosettaPhilae_LR:group137
+    400476: RosettaPhilae_LR:group138
+    400478: RosettaPhilae_LR:group139
+    400480: RosettaPhilae_LR:group140
+    400482: RosettaPhilae_LR:group141
+    400484: RosettaPhilae_LR:group142
+    400486: RosettaPhilae_LR:group144
+    400488: RosettaPhilae_LR:group145
+    400490: RosettaPhilae_LR:group146
+    400492: RosettaPhilae_LR:group147
+    400494: RosettaPhilae_LR:group147 1
+    400496: RosettaPhilae_LR:group148
+    400498: RosettaPhilae_LR:group148 1
+    400500: RosettaPhilae_LR:group149
+    400502: RosettaPhilae_LR:group150
+    400504: RosettaPhilae_LR:group152
+    400506: RosettaPhilae_LR:group153
+    400508: RosettaPhilae_LR:group153 1
+    400510: RosettaPhilae_LR:group154
+    400512: RosettaPhilae_LR:group154 1
+    400514: RosettaPhilae_LR:group155
+    400516: RosettaPhilae_LR:group156
+    400518: RosettaPhilae_LR:group157
+    400520: RosettaPhilae_LR:group161
+    400522: RosettaPhilae_LR:group164
+    400524: RosettaPhilae_LR:group37
+    400526: RosettaPhilae_LR:group37 1
+    400528: RosettaPhilae_LR:group37 2
+    400530: RosettaPhilae_LR:group38
+    400532: RosettaPhilae_LR:group38 1
+    400534: RosettaPhilae_LR:group38 2
+    400536: RosettaPhilae_LR:group42
+    400538: RosettaPhilae_LR:group42 1
+    400540: RosettaPhilae_LR:group42 2
+    400542: RosettaPhilae_LR:group45
+    400544: RosettaPhilae_LR:group45 1
+    400546: RosettaPhilae_LR:group45 2
+    400548: RosettaPhilae_LR:group47
+    400550: RosettaPhilae_LR:group47 1
+    400552: RosettaPhilae_LR:group47 2
+    400554: RosettaPhilae_LR:group72
+    400556: RosettaPhilae_LR:group79
+    400558: RosettaPhilae_LR:group87
+    400560: RosettaPhilae_LR:group87 1
+    400562: RosettaPhilae_LR:group88
+    400564: RosettaPhilae_LR:group88 1
+    400566: RosettaPhilae_LR:group89
+    400568: RosettaPhilae_LR:group89 1
+    400570: RosettaPhilae_LR:group90
+    400572: RosettaPhilae_LR:group90 1
+    400574: RosettaPhilae_LR:HGA____________
+    400576: RosettaPhilae_LR:instrumentsBack
+    400578: RosettaPhilae_LR:Leg1
+    400580: RosettaPhilae_LR:Leg1 1
+    400582: RosettaPhilae_LR:Leg1 2
+    400584: RosettaPhilae_LR:Leg1 3
+    400586: RosettaPhilae_LR:Leg5
+    400588: RosettaPhilae_LR:Leg6
+    400590: RosettaPhilae_LR:LegsBase
+    400592: RosettaPhilae_LR:mainBody
+    400594: RosettaPhilae_LR:MainDamp1
+    400596: RosettaPhilae_LR:MainDamp1 1
+    400598: RosettaPhilae_LR:MainDamp1 2
+    400600: RosettaPhilae_LR:nurbsToPoly10
+    400602: RosettaPhilae_LR:nurbsToPoly11
+    400604: RosettaPhilae_LR:OV01_PFM_PLUS_Z_PAYL_DEPLOYED
+    400606: RosettaPhilae_LR:OV03_PFM_PLUS_X_PAYLOAD_HGA_DEPLOYED
+    400608: RosettaPhilae_LR:panel1
+    400610: RosettaPhilae_LR:panel2
+    400612: RosettaPhilae_LR:pCube100
+    400614: RosettaPhilae_LR:pCube100 1
+    400616: RosettaPhilae_LR:pCube100 2
+    400618: RosettaPhilae_LR:pCube104
+    400620: RosettaPhilae_LR:pCube104 1
+    400622: RosettaPhilae_LR:pCube104 2
+    400624: RosettaPhilae_LR:pCube105
+    400626: RosettaPhilae_LR:pCube105 1
+    400628: RosettaPhilae_LR:pCube105 2
+    400630: RosettaPhilae_LR:pCube110
+    400632: RosettaPhilae_LR:pCube111
+    400634: RosettaPhilae_LR:pCube27
+    400636: RosettaPhilae_LR:pCube28
+    400638: RosettaPhilae_LR:pCube33
+    400640: RosettaPhilae_LR:pCube42
+    400642: RosettaPhilae_LR:pCube42 1
+    400644: RosettaPhilae_LR:pCube42 2
+    400646: RosettaPhilae_LR:pCube48
+    400648: RosettaPhilae_LR:pCube48 1
+    400650: RosettaPhilae_LR:pCube48 2
+    400652: RosettaPhilae_LR:pCube49
+    400654: RosettaPhilae_LR:pCube49 1
+    400656: RosettaPhilae_LR:pCube49 2
+    400658: RosettaPhilae_LR:pCube505
+    400660: RosettaPhilae_LR:pCube506
+    400662: RosettaPhilae_LR:pCube507
+    400664: RosettaPhilae_LR:pCube509
+    400666: RosettaPhilae_LR:pCube510
+    400668: RosettaPhilae_LR:pCube511
+    400670: RosettaPhilae_LR:pCube512
+    400672: RosettaPhilae_LR:pCube513
+    400674: RosettaPhilae_LR:pCube514
+    400676: RosettaPhilae_LR:pCube515
+    400678: RosettaPhilae_LR:pCube516
+    400680: RosettaPhilae_LR:pCube517
+    400682: RosettaPhilae_LR:pCube518
+    400684: RosettaPhilae_LR:pCube522
+    400686: RosettaPhilae_LR:pCube523
+    400688: RosettaPhilae_LR:pCube524
+    400690: RosettaPhilae_LR:pCube525
+    400692: RosettaPhilae_LR:pCube526
+    400694: RosettaPhilae_LR:pCube527
+    400696: RosettaPhilae_LR:pCube528
+    400698: RosettaPhilae_LR:pCube529
+    400700: RosettaPhilae_LR:pCube53
+    400702: RosettaPhilae_LR:pCube53 1
+    400704: RosettaPhilae_LR:pCube53 2
+    400706: RosettaPhilae_LR:pCube530
+    400708: RosettaPhilae_LR:pCube555
+    400710: RosettaPhilae_LR:pCube556
+    400712: RosettaPhilae_LR:pCube559
+    400714: RosettaPhilae_LR:pCube57
+    400716: RosettaPhilae_LR:pCube57 1
+    400718: RosettaPhilae_LR:pCube57 2
+    400720: RosettaPhilae_LR:pCube571
+    400722: RosettaPhilae_LR:pCube572
+    400724: RosettaPhilae_LR:pCube573
+    400726: RosettaPhilae_LR:pCube58
+    400728: RosettaPhilae_LR:pCube58 1
+    400730: RosettaPhilae_LR:pCube58 2
+    400732: RosettaPhilae_LR:pCube584
+    400734: RosettaPhilae_LR:pCube585
+    400736: RosettaPhilae_LR:pCube586
+    400738: RosettaPhilae_LR:pCube587
+    400740: RosettaPhilae_LR:pCube588
+    400742: RosettaPhilae_LR:pCube589
+    400744: RosettaPhilae_LR:pCube590
+    400746: RosettaPhilae_LR:pCube591
+    400748: RosettaPhilae_LR:pCube592
+    400750: RosettaPhilae_LR:pCube9
+    400752: RosettaPhilae_LR:pCube91
+    400754: RosettaPhilae_LR:pCube91 1
+    400756: RosettaPhilae_LR:pCube91 2
+    400758: RosettaPhilae_LR:pCube93
+    400760: RosettaPhilae_LR:pCube93 1
+    400762: RosettaPhilae_LR:pCube93 2
+    400764: RosettaPhilae_LR:pCube94
+    400766: RosettaPhilae_LR:pCube94 1
+    400768: RosettaPhilae_LR:pCube94 2
+    400770: RosettaPhilae_LR:pCube95
+    400772: RosettaPhilae_LR:pCube95 1
+    400774: RosettaPhilae_LR:pCube95 2
+    400776: RosettaPhilae_LR:pCube96
+    400778: RosettaPhilae_LR:pCube96 1
+    400780: RosettaPhilae_LR:pCube96 2
+    400782: RosettaPhilae_LR:pCube98
+    400784: RosettaPhilae_LR:pCube98 1
+    400786: RosettaPhilae_LR:pCube98 2
+    400788: RosettaPhilae_LR:pCube99
+    400790: RosettaPhilae_LR:pCube99 1
+    400792: RosettaPhilae_LR:pCube99 2
+    400794: RosettaPhilae_LR:pCylinder100
+    400796: RosettaPhilae_LR:pCylinder101
+    400798: RosettaPhilae_LR:pCylinder103
+    400800: RosettaPhilae_LR:pCylinder104
+    400802: RosettaPhilae_LR:pCylinder105
+    400804: RosettaPhilae_LR:pCylinder109
+    400806: RosettaPhilae_LR:pCylinder112
+    400808: RosettaPhilae_LR:pCylinder112 1
+    400810: RosettaPhilae_LR:pCylinder112 2
+    400812: RosettaPhilae_LR:pCylinder116
+    400814: RosettaPhilae_LR:pCylinder116 1
+    400816: RosettaPhilae_LR:pCylinder116 2
+    400818: RosettaPhilae_LR:pCylinder127
+    400820: RosettaPhilae_LR:pCylinder127 1
+    400822: RosettaPhilae_LR:pCylinder127 2
+    400824: RosettaPhilae_LR:pCylinder128
+    400826: RosettaPhilae_LR:pCylinder128 1
+    400828: RosettaPhilae_LR:pCylinder128 2
+    400830: RosettaPhilae_LR:pCylinder153
+    400832: RosettaPhilae_LR:pCylinder153 1
+    400834: RosettaPhilae_LR:pCylinder153 2
+    400836: RosettaPhilae_LR:pCylinder155
+    400838: RosettaPhilae_LR:pCylinder156
+    400840: RosettaPhilae_LR:pCylinder158
+    400842: RosettaPhilae_LR:pCylinder158 1
+    400844: RosettaPhilae_LR:pCylinder158 2
+    400846: RosettaPhilae_LR:pCylinder159
+    400848: RosettaPhilae_LR:pCylinder159 1
+    400850: RosettaPhilae_LR:pCylinder159 2
+    400852: RosettaPhilae_LR:pCylinder159 3
+    400854: RosettaPhilae_LR:pCylinder160
+    400856: RosettaPhilae_LR:pCylinder161
+    400858: RosettaPhilae_LR:pCylinder163
+    400860: RosettaPhilae_LR:pCylinder164
+    400862: RosettaPhilae_LR:pCylinder166
+    400864: RosettaPhilae_LR:pCylinder167
+    400866: RosettaPhilae_LR:pCylinder168
+    400868: RosettaPhilae_LR:pCylinder169
+    400870: RosettaPhilae_LR:pCylinder170
+    400872: RosettaPhilae_LR:pCylinder171
+    400874: RosettaPhilae_LR:pCylinder172
+    400876: RosettaPhilae_LR:pCylinder173
+    400878: RosettaPhilae_LR:pCylinder174
+    400880: RosettaPhilae_LR:pCylinder175
+    400882: RosettaPhilae_LR:pCylinder176
+    400884: RosettaPhilae_LR:pCylinder177
+    400886: RosettaPhilae_LR:pCylinder178
+    400888: RosettaPhilae_LR:pCylinder179
+    400890: RosettaPhilae_LR:pCylinder18
+    400892: RosettaPhilae_LR:pCylinder18 1
+    400894: RosettaPhilae_LR:pCylinder180
+    400896: RosettaPhilae_LR:pCylinder181
+    400898: RosettaPhilae_LR:pCylinder186
+    400900: RosettaPhilae_LR:pCylinder187
+    400902: RosettaPhilae_LR:pCylinder188
+    400904: RosettaPhilae_LR:pCylinder189
+    400906: RosettaPhilae_LR:pCylinder19
+    400908: RosettaPhilae_LR:pCylinder190
+    400910: RosettaPhilae_LR:pCylinder191
+    400912: RosettaPhilae_LR:pCylinder20
+    400914: RosettaPhilae_LR:pCylinder207
+    400916: RosettaPhilae_LR:pCylinder208
+    400918: RosettaPhilae_LR:pCylinder209
+    400920: RosettaPhilae_LR:pCylinder210
+    400922: RosettaPhilae_LR:pCylinder211
+    400924: RosettaPhilae_LR:pCylinder212
+    400926: RosettaPhilae_LR:pCylinder213
+    400928: RosettaPhilae_LR:pCylinder214
+    400930: RosettaPhilae_LR:pCylinder215
+    400932: RosettaPhilae_LR:pCylinder218
+    400934: RosettaPhilae_LR:pCylinder219
+    400936: RosettaPhilae_LR:pCylinder222
+    400938: RosettaPhilae_LR:pCylinder223
+    400940: RosettaPhilae_LR:pCylinder225
+    400942: RosettaPhilae_LR:pCylinder226
+    400944: RosettaPhilae_LR:pCylinder227
+    400946: RosettaPhilae_LR:pCylinder231
+    400948: RosettaPhilae_LR:pCylinder232
+    400950: RosettaPhilae_LR:pCylinder235
+    400952: RosettaPhilae_LR:pCylinder236
+    400954: RosettaPhilae_LR:pCylinder238
+    400956: RosettaPhilae_LR:pCylinder239
+    400958: RosettaPhilae_LR:pCylinder240
+    400960: RosettaPhilae_LR:pCylinder256
+    400962: RosettaPhilae_LR:pCylinder260
+    400964: RosettaPhilae_LR:pCylinder28
+    400966: RosettaPhilae_LR:pCylinder405
+    400968: RosettaPhilae_LR:pCylinder406
+    400970: RosettaPhilae_LR:pCylinder407
+    400972: RosettaPhilae_LR:pCylinder408
+    400974: RosettaPhilae_LR:pCylinder409
+    400976: RosettaPhilae_LR:pCylinder410
+    400978: RosettaPhilae_LR:pCylinder411
+    400980: RosettaPhilae_LR:pCylinder412
+    400982: RosettaPhilae_LR:pCylinder413
+    400984: RosettaPhilae_LR:pCylinder413 1
+    400986: RosettaPhilae_LR:pCylinder413 2
+    400988: RosettaPhilae_LR:pCylinder414
+    400990: RosettaPhilae_LR:pCylinder415
+    400992: RosettaPhilae_LR:pCylinder416
+    400994: RosettaPhilae_LR:pCylinder416 1
+    400996: RosettaPhilae_LR:pCylinder416 2
+    400998: RosettaPhilae_LR:pCylinder416 3
+    401000: RosettaPhilae_LR:pCylinder418
+    401002: RosettaPhilae_LR:pCylinder419
+    401004: RosettaPhilae_LR:pCylinder422
+    401006: RosettaPhilae_LR:pCylinder423
+    401008: RosettaPhilae_LR:pCylinder424
+    401010: RosettaPhilae_LR:pCylinder425
+    401012: RosettaPhilae_LR:pCylinder426
+    401014: RosettaPhilae_LR:pCylinder427
+    401016: RosettaPhilae_LR:pCylinder428
+    401018: RosettaPhilae_LR:pCylinder429
+    401020: RosettaPhilae_LR:pCylinder430
+    401022: RosettaPhilae_LR:pCylinder431
+    401024: RosettaPhilae_LR:pCylinder432
+    401026: RosettaPhilae_LR:pCylinder433
+    401028: RosettaPhilae_LR:pCylinder434
+    401030: RosettaPhilae_LR:pCylinder435
+    401032: RosettaPhilae_LR:pCylinder63
+    401034: RosettaPhilae_LR:pCylinder68
+    401036: RosettaPhilae_LR:pCylinder68 1
+    401038: RosettaPhilae_LR:pCylinder68 2
+    401040: RosettaPhilae_LR:pCylinder71
+    401042: RosettaPhilae_LR:pCylinder71 1
+    401044: RosettaPhilae_LR:pCylinder71 2
+    401046: RosettaPhilae_LR:pCylinder72
+    401048: RosettaPhilae_LR:pCylinder72 1
+    401050: RosettaPhilae_LR:pCylinder72 2
+    401052: RosettaPhilae_LR:pCylinder95
+    401054: RosettaPhilae_LR:pCylinder99
+    401056: RosettaPhilae_LR:Philae_LanderLR
+    401058: RosettaPhilae_LR:polySurface1
+    401060: RosettaPhilae_LR:polySurface1 1
+    401062: RosettaPhilae_LR:polySurface1 2
+    401064: RosettaPhilae_LR:polySurface105
+    401066: RosettaPhilae_LR:polySurface105 1
+    401068: RosettaPhilae_LR:polySurface105 2
+    401070: RosettaPhilae_LR:polySurface12
+    401072: RosettaPhilae_LR:polySurface122
+    401074: RosettaPhilae_LR:polySurface122 1
+    401076: RosettaPhilae_LR:polySurface122 2
+    401078: RosettaPhilae_LR:polySurface125
+    401080: RosettaPhilae_LR:polySurface125 1
+    401082: RosettaPhilae_LR:polySurface125 2
+    401084: RosettaPhilae_LR:polySurface13
+    401086: RosettaPhilae_LR:polySurface14
+    401088: RosettaPhilae_LR:polySurface141
+    401090: RosettaPhilae_LR:polySurface141 1
+    401092: RosettaPhilae_LR:polySurface141 2
+    401094: RosettaPhilae_LR:polySurface15
+    401096: RosettaPhilae_LR:polySurface162
+    401098: RosettaPhilae_LR:polySurface162 1
+    401100: RosettaPhilae_LR:polySurface162 2
+    401102: RosettaPhilae_LR:polySurface17
+    401104: RosettaPhilae_LR:polySurface170
+    401106: RosettaPhilae_LR:polySurface170 1
+    401108: RosettaPhilae_LR:polySurface170 2
+    401110: RosettaPhilae_LR:polySurface171
+    401112: RosettaPhilae_LR:polySurface171 1
+    401114: RosettaPhilae_LR:polySurface171 2
+    401116: RosettaPhilae_LR:polySurface172
+    401118: RosettaPhilae_LR:polySurface172 1
+    401120: RosettaPhilae_LR:polySurface172 2
+    401122: RosettaPhilae_LR:polySurface173
+    401124: RosettaPhilae_LR:polySurface173 1
+    401126: RosettaPhilae_LR:polySurface173 2
+    401128: RosettaPhilae_LR:polySurface18
+    401130: RosettaPhilae_LR:polySurface190
+    401132: RosettaPhilae_LR:polySurface190 1
+    401134: RosettaPhilae_LR:polySurface190 2
+    401136: RosettaPhilae_LR:polySurface191
+    401138: RosettaPhilae_LR:polySurface191 1
+    401140: RosettaPhilae_LR:polySurface191 2
+    401142: RosettaPhilae_LR:polySurface192
+    401144: RosettaPhilae_LR:polySurface192 1
+    401146: RosettaPhilae_LR:polySurface192 2
+    401148: RosettaPhilae_LR:polySurface193
+    401150: RosettaPhilae_LR:polySurface193 1
+    401152: RosettaPhilae_LR:polySurface193 2
+    401154: RosettaPhilae_LR:polySurface209
+    401156: RosettaPhilae_LR:polySurface209 1
+    401158: RosettaPhilae_LR:polySurface209 2
+    401160: RosettaPhilae_LR:polySurface219
+    401162: RosettaPhilae_LR:polySurface219 1
+    401164: RosettaPhilae_LR:polySurface220
+    401166: RosettaPhilae_LR:polySurface220 1
+    401168: RosettaPhilae_LR:polySurface221
+    401170: RosettaPhilae_LR:polySurface225
+    401172: RosettaPhilae_LR:polySurface225 1
+    401174: RosettaPhilae_LR:polySurface226
+    401176: RosettaPhilae_LR:polySurface226 1
+    401178: RosettaPhilae_LR:polySurface227
+    401180: RosettaPhilae_LR:polySurface248
+    401182: RosettaPhilae_LR:polySurface248 1
+    401184: RosettaPhilae_LR:polySurface248 2
+    401186: RosettaPhilae_LR:polySurface249
+    401188: RosettaPhilae_LR:polySurface249 1
+    401190: RosettaPhilae_LR:polySurface249 2
+    401192: RosettaPhilae_LR:polySurface25
+    401194: RosettaPhilae_LR:polySurface2593
+    401196: RosettaPhilae_LR:polySurface2662
+    401198: RosettaPhilae_LR:polySurface2663
+    401200: RosettaPhilae_LR:polySurface2664
+    401202: RosettaPhilae_LR:polySurface2665
+    401204: RosettaPhilae_LR:polySurface2666
+    401206: RosettaPhilae_LR:polySurface2667
+    401208: RosettaPhilae_LR:polySurface2673
+    401210: RosettaPhilae_LR:polySurface2676
+    401212: RosettaPhilae_LR:polySurface2677
+    401214: RosettaPhilae_LR:polySurface2679
+    401216: RosettaPhilae_LR:polySurface2680
+    401218: RosettaPhilae_LR:polySurface2681
+    401220: RosettaPhilae_LR:polySurface2682
+    401222: RosettaPhilae_LR:polySurface2683
+    401224: RosettaPhilae_LR:polySurface2684
+    401226: RosettaPhilae_LR:polySurface2686
+    401228: RosettaPhilae_LR:polySurface2713
+    401230: RosettaPhilae_LR:polySurface2722
+    401232: RosettaPhilae_LR:polySurface2723
+    401234: RosettaPhilae_LR:polySurface2725
+    401236: RosettaPhilae_LR:polySurface2726
+    401238: RosettaPhilae_LR:polySurface2727
+    401240: RosettaPhilae_LR:polySurface2728
+    401242: RosettaPhilae_LR:polySurface2729
+    401244: RosettaPhilae_LR:polySurface2730
+    401246: RosettaPhilae_LR:polySurface2731
+    401248: RosettaPhilae_LR:polySurface2732
+    401250: RosettaPhilae_LR:polySurface2733
+    401252: RosettaPhilae_LR:polySurface2734
+    401254: RosettaPhilae_LR:polySurface2737
+    401256: RosettaPhilae_LR:polySurface2738
+    401258: RosettaPhilae_LR:polySurface2748
+    401260: RosettaPhilae_LR:polySurface2749
+    401262: RosettaPhilae_LR:polySurface2750
+    401264: RosettaPhilae_LR:polySurface2751
+    401266: RosettaPhilae_LR:polySurface2752
+    401268: RosettaPhilae_LR:polySurface2753
+    401270: RosettaPhilae_LR:polySurface2754
+    401272: RosettaPhilae_LR:polySurface2758
+    401274: RosettaPhilae_LR:polySurface2759
+    401276: RosettaPhilae_LR:polySurface2762
+    401278: RosettaPhilae_LR:polySurface2777
+    401280: RosettaPhilae_LR:polySurface2778
+    401282: RosettaPhilae_LR:polySurface2779
+    401284: RosettaPhilae_LR:polySurface2780
+    401286: RosettaPhilae_LR:polySurface2781
+    401288: RosettaPhilae_LR:polySurface2782
+    401290: RosettaPhilae_LR:polySurface2783
+    401292: RosettaPhilae_LR:polySurface2784
+    401294: RosettaPhilae_LR:polySurface2785
+    401296: RosettaPhilae_LR:polySurface2786
+    401298: RosettaPhilae_LR:polySurface2787
+    401300: RosettaPhilae_LR:polySurface2788
+    401302: RosettaPhilae_LR:polySurface2789
+    401304: RosettaPhilae_LR:polySurface2790
+    401306: RosettaPhilae_LR:polySurface2791
+    401308: RosettaPhilae_LR:polySurface2792
+    401310: RosettaPhilae_LR:polySurface2794
+    401312: RosettaPhilae_LR:polySurface31
+    401314: RosettaPhilae_LR:polySurface36
+    401316: RosettaPhilae_LR:polySurface38
+    401318: RosettaPhilae_LR:polySurface3835
+    401320: RosettaPhilae_LR:polySurface4
+    401322: RosettaPhilae_LR:polySurface4084
+    401324: RosettaPhilae_LR:polySurface4309
+    401326: RosettaPhilae_LR:polySurface4314
+    401328: RosettaPhilae_LR:polySurface4314 1
+    401330: RosettaPhilae_LR:polySurface4315
+    401332: RosettaPhilae_LR:polySurface4315 1
+    401334: RosettaPhilae_LR:polySurface4316
+    401336: RosettaPhilae_LR:polySurface4316 1
+    401338: RosettaPhilae_LR:polySurface4317
+    401340: RosettaPhilae_LR:polySurface4317 1
+    401342: RosettaPhilae_LR:polySurface4318
+    401344: RosettaPhilae_LR:polySurface4318 1
+    401346: RosettaPhilae_LR:polySurface4319
+    401348: RosettaPhilae_LR:polySurface4319 1
+    401350: RosettaPhilae_LR:polySurface4319 2
+    401352: RosettaPhilae_LR:polySurface4319 3
+    401354: RosettaPhilae_LR:polySurface4319 4
+    401356: RosettaPhilae_LR:polySurface4319 5
+    401358: RosettaPhilae_LR:polySurface4319 6
+    401360: RosettaPhilae_LR:polySurface4319 7
+    401362: RosettaPhilae_LR:polySurface4323
+    401364: RosettaPhilae_LR:polySurface4323 1
+    401366: RosettaPhilae_LR:polySurface4324
+    401368: RosettaPhilae_LR:polySurface4324 1
+    401370: RosettaPhilae_LR:polySurface4329
+    401372: RosettaPhilae_LR:polySurface4329 1
+    401374: RosettaPhilae_LR:polySurface4329 2
+    401376: RosettaPhilae_LR:polySurface4329 3
+    401378: RosettaPhilae_LR:polySurface4329 4
+    401380: RosettaPhilae_LR:polySurface4329 5
+    401382: RosettaPhilae_LR:polySurface4329 6
+    401384: RosettaPhilae_LR:polySurface4329 7
+    401386: RosettaPhilae_LR:polySurface4333
+    401388: RosettaPhilae_LR:polySurface4334
+    401390: RosettaPhilae_LR:polySurface4335
+    401392: RosettaPhilae_LR:polySurface4337
+    401394: RosettaPhilae_LR:polySurface4338
+    401396: RosettaPhilae_LR:polySurface4339
+    401398: RosettaPhilae_LR:polySurface4340
+    401400: RosettaPhilae_LR:polySurface4342
+    401402: RosettaPhilae_LR:polySurface4343
+    401404: RosettaPhilae_LR:polySurface4344
+    401406: RosettaPhilae_LR:polySurface4344 1
+    401408: RosettaPhilae_LR:polySurface4345
+    401410: RosettaPhilae_LR:polySurface4345 1
+    401412: RosettaPhilae_LR:polySurface4346
+    401414: RosettaPhilae_LR:polySurface4346 1
+    401416: RosettaPhilae_LR:polySurface4347
+    401418: RosettaPhilae_LR:polySurface4347 1
+    401420: RosettaPhilae_LR:polySurface4348
+    401422: RosettaPhilae_LR:polySurface4349
+    401424: RosettaPhilae_LR:polySurface4350
+    401426: RosettaPhilae_LR:polySurface4351
+    401428: RosettaPhilae_LR:polySurface4352
+    401430: RosettaPhilae_LR:polySurface4353
+    401432: RosettaPhilae_LR:polySurface4354
+    401434: RosettaPhilae_LR:polySurface4357
+    401436: RosettaPhilae_LR:polySurface4358
+    401438: RosettaPhilae_LR:polySurface4361
+    401440: RosettaPhilae_LR:polySurface4365
+    401442: RosettaPhilae_LR:polySurface4366
+    401444: RosettaPhilae_LR:polySurface4366 1
+    401446: RosettaPhilae_LR:polySurface4366 2
+    401448: RosettaPhilae_LR:polySurface4366 3
+    401450: RosettaPhilae_LR:polySurface4367
+    401452: RosettaPhilae_LR:polySurface4368
+    401454: RosettaPhilae_LR:polySurface4372
+    401456: RosettaPhilae_LR:polySurface4374
+    401458: RosettaPhilae_LR:polySurface4375
+    401460: RosettaPhilae_LR:polySurface4376
+    401462: RosettaPhilae_LR:polySurface4377
+    401464: RosettaPhilae_LR:polySurface4378
+    401466: RosettaPhilae_LR:polySurface4379
+    401468: RosettaPhilae_LR:polySurface4380
+    401470: RosettaPhilae_LR:polySurface4380 1
+    401472: RosettaPhilae_LR:polySurface4381
+    401474: RosettaPhilae_LR:polySurface4384
+    401476: RosettaPhilae_LR:polySurface4385
+    401478: RosettaPhilae_LR:polySurface4386
+    401480: RosettaPhilae_LR:polySurface4387
+    401482: RosettaPhilae_LR:polySurface4387 1
+    401484: RosettaPhilae_LR:polySurface4387 2
+    401486: RosettaPhilae_LR:polySurface4387 3
+    401488: RosettaPhilae_LR:polySurface4389
+    401490: RosettaPhilae_LR:polySurface4389 1
+    401492: RosettaPhilae_LR:polySurface4389 2
+    401494: RosettaPhilae_LR:polySurface4389 3
+    401496: RosettaPhilae_LR:polySurface4399
+    401498: RosettaPhilae_LR:polySurface4400
+    401500: RosettaPhilae_LR:polySurface4401
+    401502: RosettaPhilae_LR:polySurface4402
+    401504: RosettaPhilae_LR:polySurface4403
+    401506: RosettaPhilae_LR:polySurface4404
+    401508: RosettaPhilae_LR:polySurface4404 1
+    401510: RosettaPhilae_LR:polySurface4404 2
+    401512: RosettaPhilae_LR:polySurface4405
+    401514: RosettaPhilae_LR:polySurface4412
+    401516: RosettaPhilae_LR:polySurface4413
+    401518: RosettaPhilae_LR:polySurface6
+    401520: RosettaPhilae_LR:polySurface68
+    401522: RosettaPhilae_LR:polySurface68 1
+    401524: RosettaPhilae_LR:polySurface68 2
+    401526: RosettaPhilae_LR:polySurface748
+    401528: RosettaPhilae_LR:polySurface753
+    401530: RosettaPhilae_LR:polySurface754
+    401532: RosettaPhilae_LR:polySurface755
+    401534: RosettaPhilae_LR:polySurface756
+    401536: RosettaPhilae_LR:polySurface758
+    401538: RosettaPhilae_LR:polySurface760
+    401540: RosettaPhilae_LR:polySurface762
+    401542: RosettaPhilae_LR:polySurface763
+    401544: RosettaPhilae_LR:polySurface764
+    401546: RosettaPhilae_LR:polySurface765
+    401548: RosettaPhilae_LR:polySurface766
+    401550: RosettaPhilae_LR:polySurface768
+    401552: RosettaPhilae_LR:polySurface769
+    401554: RosettaPhilae_LR:polySurface770
+    401556: RosettaPhilae_LR:polySurface771
+    401558: RosettaPhilae_LR:polySurface771 1
+    401560: RosettaPhilae_LR:polySurface771 2
+    401562: RosettaPhilae_LR:polySurface771 3
+    401564: RosettaPhilae_LR:polySurface772
+    401566: RosettaPhilae_LR:polySurface772 1
+    401568: RosettaPhilae_LR:polySurface772 2
+    401570: RosettaPhilae_LR:polySurface773
+    401572: RosettaPhilae_LR:polySurface773 1
+    401574: RosettaPhilae_LR:polySurface773 2
+    401576: RosettaPhilae_LR:polySurface773 3
+    401578: RosettaPhilae_LR:polySurface775
+    401580: RosettaPhilae_LR:polySurface78
+    401582: RosettaPhilae_LR:polySurface78 1
+    401584: RosettaPhilae_LR:polySurface78 2
+    401586: RosettaPhilae_LR:polySurface780
+    401588: RosettaPhilae_LR:polySurface783
+    401590: RosettaPhilae_LR:polySurface785
+    401592: RosettaPhilae_LR:polySurface786
+    401594: RosettaPhilae_LR:polySurface787
+    401596: RosettaPhilae_LR:polySurface788
+    401598: RosettaPhilae_LR:polySurface790
+    401600: RosettaPhilae_LR:polySurface796
+    401602: RosettaPhilae_LR:polySurface797
+    401604: RosettaPhilae_LR:polySurface798
+    401606: RosettaPhilae_LR:polySurface799
+    401608: RosettaPhilae_LR:polySurface80
+    401610: RosettaPhilae_LR:polySurface80 1
+    401612: RosettaPhilae_LR:polySurface80 2
+    401614: RosettaPhilae_LR:polySurface800
+    401616: RosettaPhilae_LR:polySurface801
+    401618: RosettaPhilae_LR:polySurface803
+    401620: RosettaPhilae_LR:polySurface806
+    401622: RosettaPhilae_LR:polySurface808
+    401624: RosettaPhilae_LR:polySurface810
+    401626: RosettaPhilae_LR:polySurface811
+    401628: RosettaPhilae_LR:polySurface823
+    401630: RosettaPhilae_LR:polySurface824
+    401632: RosettaPhilae_LR:polySurface825
+    401634: RosettaPhilae_LR:polySurface826
+    401636: RosettaPhilae_LR:polySurface827
+    401638: RosettaPhilae_LR:polySurface828
+    401640: RosettaPhilae_LR:polySurface829
+    401642: RosettaPhilae_LR:polySurface830
+    401644: RosettaPhilae_LR:polySurface834
+    401646: RosettaPhilae_LR:polySurface835
+    401648: RosettaPhilae_LR:polySurface840
+    401650: RosettaPhilae_LR:polySurface841
+    401652: RosettaPhilae_LR:polySurface842
+    401654: RosettaPhilae_LR:polySurface843
+    401656: RosettaPhilae_LR:polySurface844
+    401658: RosettaPhilae_LR:polySurface87
+    401660: RosettaPhilae_LR:polySurface87 1
+    401662: RosettaPhilae_LR:polySurface87 2
+    401664: RosettaPhilae_LR:polySurface88
+    401666: RosettaPhilae_LR:polySurface88 1
+    401668: RosettaPhilae_LR:polySurface88 2
+    401670: RosettaPhilae_LR:polySurface94
+    401672: RosettaPhilae_LR:polySurface94 1
+    401674: RosettaPhilae_LR:polySurface94 2
+    401676: RosettaPhilae_LR:polySurface95
+    401678: RosettaPhilae_LR:polySurface95 1
+    401680: RosettaPhilae_LR:polySurface95 2
+    401682: RosettaPhilae_LR:polySurface971
+    401684: RosettaPhilae_LR:polySurface977
+    401686: RosettaPhilae_LR:polySurface978
+    401688: RosettaPhilae_LR:polySurface98
+    401690: RosettaPhilae_LR:polySurface98 1
+    401692: RosettaPhilae_LR:polySurface98 2
+    401694: RosettaPhilae_LR:polySurface99
+    401696: RosettaPhilae_LR:polySurface99 1
+    401698: RosettaPhilae_LR:polySurface99 2
+    401700: RosettaPhilae_LR:polySurface990
+    401702: RosettaPhilae_LR:pSphere18
+    401704: RosettaPhilae_LR:pSphere19
+    401706: RosettaPhilae_LR:pSphere20
+    401708: RosettaPhilae_LR:pSphere21
+    401710: RosettaPhilae_LR:pTorus1
+    401712: RosettaPhilae_LR:radiators
+    401714: RosettaPhilae_LR:RoboticDrilSampling
+    401716: RosettaPhilae_LR:ROSETTA
+    401718: RosettaPhilae_LR:side1
+    401720: RosettaPhilae_LR:side2
+    401722: RosettaPhilae_LR:SidesBody
+    401724: RosettaPhilae_LR:SolarArray
+    401726: RosettaPhilae_LR:SupportLeg1
+    401728: RosettaPhilae_LR:SupportLeg1 1
+    401730: RosettaPhilae_LR:SupportLeg1 2
+    401732: RosettaPhilae_LR:Thrusters
+    401734: RosettaPhilae_LR:top
+    401736: RosettaPhilae_LR:topInstruments
+    401738: RosettaPhilae_LR:topPlate
+    401740: RosettaPhilae_LR:transform10
+    401742: RosettaPhilae_LR:transform3
+    401744: RosettaPhilae_LR:transform4
+    401746: RosettaPhilae_LR:transform5
+    401748: RosettaPhilae_LR:transform6
+    401750: RosettaPhilae_LR:transform7
+    401752: RosettaPhilae_LR:transform8
+    401754: RosettaPhilae_LR:transform9
+    2300000: RosettaPhilae_LR:_0N_THRUSTER17
+    2300002: RosettaPhilae_LR:_0N_THRUSTER17 1
+    2300004: RosettaPhilae_LR:_0N_THRUSTER17 2
+    2300006: RosettaPhilae_LR:_0N_THRUSTER17 3
+    2300008: RosettaPhilae_LR:_0N_THRUSTER17 4
+    2300010: RosettaPhilae_LR:_0N_THRUSTER17 5
+    2300012: RosettaPhilae_LR:_0N_THRUSTER17 6
+    2300014: RosettaPhilae_LR:_0N_THRUSTER17 7
+    2300016: RosettaPhilae_LR:_0N_THRUSTER24
+    2300018: RosettaPhilae_LR:_0N_THRUSTER24 1
+    2300020: RosettaPhilae_LR:_0N_THRUSTER24 2
+    2300022: RosettaPhilae_LR:_0N_THRUSTER24 3
+    2300024: RosettaPhilae_LR:_0N_THRUSTER24 4
+    2300026: RosettaPhilae_LR:_0N_THRUSTER24 5
+    2300028: RosettaPhilae_LR:_0N_THRUSTER24 6
+    2300030: RosettaPhilae_LR:_0N_THRUSTER24 7
+    2300032: RosettaPhilae_LR:_0N_THRUSTER25
+    2300034: RosettaPhilae_LR:_0N_THRUSTER25 1
+    2300036: RosettaPhilae_LR:_0N_THRUSTER25 2
+    2300038: RosettaPhilae_LR:_0N_THRUSTER25 3
+    2300040: RosettaPhilae_LR:_0N_THRUSTER26
+    2300042: RosettaPhilae_LR:_0N_THRUSTER26 1
+    2300044: RosettaPhilae_LR:_0N_THRUSTER26 2
+    2300046: RosettaPhilae_LR:_0N_THRUSTER26 3
+    2300048: RosettaPhilae_LR:_SOL108
+    2300050: RosettaPhilae_LR:_SOL109
+    2300052: RosettaPhilae_LR:_SOL113
+    2300054: RosettaPhilae_LR:_SOL114
+    2300056: RosettaPhilae_LR:_SOL156
+    2300058: RosettaPhilae_LR:_SOL164
+    2300060: RosettaPhilae_LR:_SOL166
+    2300062: RosettaPhilae_LR:_SOL169
+    2300064: RosettaPhilae_LR:_SOL2789
+    2300066: RosettaPhilae_LR:_SOL2883
+    2300068: RosettaPhilae_LR:_SOL2883 1
+    2300070: RosettaPhilae_LR:_SOL2886
+    2300072: RosettaPhilae_LR:_SOL2886 1
+    2300074: RosettaPhilae_LR:_SOL2887
+    2300076: RosettaPhilae_LR:_SOL2887 1
+    2300078: RosettaPhilae_LR:_SOL3480
+    2300080: RosettaPhilae_LR:_SOL3481
+    2300082: RosettaPhilae_LR:_SOL3482
+    2300084: RosettaPhilae_LR:_SOL3483
+    2300086: RosettaPhilae_LR:_SOL3672
+    2300088: RosettaPhilae_LR:_SOL3955
+    2300090: RosettaPhilae_LR:_SOL3957
+    2300092: RosettaPhilae_LR:_SOL3959
+    2300094: RosettaPhilae_LR:_SOL4126
+    2300096: RosettaPhilae_LR:_SOL4153
+    2300098: RosettaPhilae_LR:_SOL4155
+    2300100: RosettaPhilae_LR:_SOL4157
+    2300102: RosettaPhilae_LR:_SOL4203
+    2300104: RosettaPhilae_LR:_SOL4232
+    2300106: RosettaPhilae_LR:_SOL4234
+    2300108: RosettaPhilae_LR:_SOL4236
+    2300110: RosettaPhilae_LR:_SOL4242
+    2300112: RosettaPhilae_LR:_SOL4244
+    2300114: RosettaPhilae_LR:_SOL4246
+    2300116: RosettaPhilae_LR:_SOL4248
+    2300118: RosettaPhilae_LR:_SOL4297
+    2300120: RosettaPhilae_LR:_SOL4299
+    2300122: RosettaPhilae_LR:_SOL4301
+    2300124: RosettaPhilae_LR:_SOL4303
+    2300126: RosettaPhilae_LR:_SOL4305
+    2300128: RosettaPhilae_LR:_SOL4307
+    2300130: RosettaPhilae_LR:_SOL4311
+    2300132: RosettaPhilae_LR:_SOL4369
+    2300134: RosettaPhilae_LR:_SOL4371
+    2300136: RosettaPhilae_LR:_SOL4373
+    2300138: RosettaPhilae_LR:_SOL4375
+    2300140: RosettaPhilae_LR:_SOL4393
+    2300142: RosettaPhilae_LR:_SOL4395
+    2300144: RosettaPhilae_LR:_SOL4397
+    2300146: RosettaPhilae_LR:_SOL4399
+    2300148: RosettaPhilae_LR:_SOL4413
+    2300150: RosettaPhilae_LR:_SOL4642
+    2300152: RosettaPhilae_LR:_SOL4731
+    2300154: RosettaPhilae_LR:_SOL4732
+    2300156: RosettaPhilae_LR:_SOL4744
+    2300158: RosettaPhilae_LR:_SOL49
+    2300160: RosettaPhilae_LR:_SOL667
+    2300162: RosettaPhilae_LR:_SOL82518
+    2300164: RosettaPhilae_LR:_SOL82519
+    2300166: RosettaPhilae_LR:_SOL82520
+    2300168: RosettaPhilae_LR:_SOL86283
+    2300170: RosettaPhilae_LR:_SOL86283 1
+    2300172: RosettaPhilae_LR:_SOL86284
+    2300174: RosettaPhilae_LR:_SOL86284 1
+    2300176: RosettaPhilae_LR:_SOL86285
+    2300178: RosettaPhilae_LR:_SOL86285 1
+    2300180: RosettaPhilae_LR:_SOL86289
+    2300182: RosettaPhilae_LR:_SOL86289 1
+    2300184: RosettaPhilae_LR:_SOL86393
+    2300186: RosettaPhilae_LR:_SOL86531
+    2300188: RosettaPhilae_LR:_SOL86531 1
+    2300190: RosettaPhilae_LR:_SOL86534
+    2300192: RosettaPhilae_LR:_SOL86534 1
+    2300194: RosettaPhilae_LR:_SOL86535
+    2300196: RosettaPhilae_LR:_SOL86535 1
+    2300198: RosettaPhilae_LR:_SOL86536
+    2300200: RosettaPhilae_LR:_SOL86536 1
+    2300202: RosettaPhilae_LR:_SOL86537
+    2300204: RosettaPhilae_LR:_SOL86537 1
+    2300206: RosettaPhilae_LR:_SOL86538
+    2300208: RosettaPhilae_LR:_SOL86538 1
+    2300210: RosettaPhilae_LR:_SOL86539
+    2300212: RosettaPhilae_LR:_SOL86539 1
+    2300214: RosettaPhilae_LR:_SOL86540
+    2300216: RosettaPhilae_LR:_SOL86540 1
+    2300218: RosettaPhilae_LR:_SOL86541
+    2300220: RosettaPhilae_LR:_SOL86541 1
+    2300222: RosettaPhilae_LR:_SOL86542
+    2300224: RosettaPhilae_LR:_SOL86542 1
+    2300226: RosettaPhilae_LR:_SOL86543
+    2300228: RosettaPhilae_LR:_SOL86543 1
+    2300230: RosettaPhilae_LR:_SOL86544
+    2300232: RosettaPhilae_LR:_SOL86544 1
+    2300234: RosettaPhilae_LR:_SOL86545
+    2300236: RosettaPhilae_LR:_SOL86545 1
+    2300238: RosettaPhilae_LR:_SOL86546
+    2300240: RosettaPhilae_LR:_SOL86546 1
+    2300242: RosettaPhilae_LR:_SOL86547
+    2300244: RosettaPhilae_LR:_SOL86547 1
+    2300246: RosettaPhilae_LR:_SOL86548
+    2300248: RosettaPhilae_LR:_SOL86548 1
+    2300250: RosettaPhilae_LR:_SOL86549
+    2300252: RosettaPhilae_LR:_SOL86549 1
+    2300254: RosettaPhilae_LR:_SOL86550
+    2300256: RosettaPhilae_LR:_SOL86550 1
+    2300258: RosettaPhilae_LR:_SOL86551
+    2300260: RosettaPhilae_LR:_SOL86551 1
+    2300262: RosettaPhilae_LR:_SOL86552
+    2300264: RosettaPhilae_LR:_SOL86552 1
+    2300266: RosettaPhilae_LR:_SOL86553
+    2300268: RosettaPhilae_LR:_SOL86553 1
+    2300270: RosettaPhilae_LR:_SOL86554
+    2300272: RosettaPhilae_LR:_SOL86554 1
+    2300274: RosettaPhilae_LR:_SOL86555
+    2300276: RosettaPhilae_LR:_SOL86555 1
+    2300278: RosettaPhilae_LR:_SOL86556
+    2300280: RosettaPhilae_LR:_SOL86556 1
+    2300282: RosettaPhilae_LR:_SOL86557
+    2300284: RosettaPhilae_LR:_SOL86557 1
+    2300286: RosettaPhilae_LR:_SOL86558
+    2300288: RosettaPhilae_LR:_SOL86558 1
+    2300290: RosettaPhilae_LR:_SOL86561
+    2300292: RosettaPhilae_LR:_SOL86561 1
+    2300294: RosettaPhilae_LR:_SOL86561 2
+    2300296: RosettaPhilae_LR:_SOL86561 3
+    2300298: RosettaPhilae_LR:_SOL86561 4
+    2300300: RosettaPhilae_LR:_SOL86561 5
+    2300302: RosettaPhilae_LR:_SOL86561 6
+    2300304: RosettaPhilae_LR:_SOL86561 7
+    2300306: RosettaPhilae_LR:_SOL86565
+    2300308: RosettaPhilae_LR:_SOL86565 1
+    2300310: RosettaPhilae_LR:_SOL86573
+    2300312: RosettaPhilae_LR:_SOL86573 1
+    2300314: RosettaPhilae_LR:_SOL86574
+    2300316: RosettaPhilae_LR:_SOL86574 1
+    2300318: RosettaPhilae_LR:_SOL86575
+    2300320: RosettaPhilae_LR:_SOL86575 1
+    2300322: RosettaPhilae_LR:_SOL86576
+    2300324: RosettaPhilae_LR:_SOL86576 1
+    2300326: RosettaPhilae_LR:_SOL86576 2
+    2300328: RosettaPhilae_LR:_SOL86576 3
+    2300330: RosettaPhilae_LR:_SOL86576 4
+    2300332: RosettaPhilae_LR:_SOL86576 5
+    2300334: RosettaPhilae_LR:_SOL86576 6
+    2300336: RosettaPhilae_LR:_SOL86576 7
+    2300338: RosettaPhilae_LR:_SOL86604
+    2300340: RosettaPhilae_LR:_SOL86605
+    2300342: RosettaPhilae_LR:_SOL86606
+    2300344: RosettaPhilae_LR:_SOL86607
+    2300346: RosettaPhilae_LR:_SOL86608
+    2300348: RosettaPhilae_LR:_SOL86609
+    2300350: RosettaPhilae_LR:_SOL86610
+    2300352: RosettaPhilae_LR:_SOL86611
+    2300354: RosettaPhilae_LR:_SOL86612
+    2300356: RosettaPhilae_LR:_SOL86613
+    2300358: RosettaPhilae_LR:_SOL86614
+    2300360: RosettaPhilae_LR:_SOL86615
+    2300362: RosettaPhilae_LR:_SOL86616
+    2300364: RosettaPhilae_LR:_SOL86617
+    2300366: RosettaPhilae_LR:back
+    2300368: RosettaPhilae_LR:bares
+    2300370: RosettaPhilae_LR:bares 1
+    2300372: RosettaPhilae_LR:bares 2
+    2300374: RosettaPhilae_LR:bottom 1
+    2300376: RosettaPhilae_LR:CONSERT_DEPL
+    2300378: RosettaPhilae_LR:mainBody
+    2300380: RosettaPhilae_LR:nurbsToPoly10
+    2300382: RosettaPhilae_LR:nurbsToPoly11
+    2300384: RosettaPhilae_LR:pCube100
+    2300386: RosettaPhilae_LR:pCube100 1
+    2300388: RosettaPhilae_LR:pCube100 2
+    2300390: RosettaPhilae_LR:pCube104
+    2300392: RosettaPhilae_LR:pCube104 1
+    2300394: RosettaPhilae_LR:pCube104 2
+    2300396: RosettaPhilae_LR:pCube105
+    2300398: RosettaPhilae_LR:pCube105 1
+    2300400: RosettaPhilae_LR:pCube105 2
+    2300402: RosettaPhilae_LR:pCube110
+    2300404: RosettaPhilae_LR:pCube111
+    2300406: RosettaPhilae_LR:pCube27
+    2300408: RosettaPhilae_LR:pCube28
+    2300410: RosettaPhilae_LR:pCube33
+    2300412: RosettaPhilae_LR:pCube42
+    2300414: RosettaPhilae_LR:pCube42 1
+    2300416: RosettaPhilae_LR:pCube42 2
+    2300418: RosettaPhilae_LR:pCube48
+    2300420: RosettaPhilae_LR:pCube48 1
+    2300422: RosettaPhilae_LR:pCube48 2
+    2300424: RosettaPhilae_LR:pCube49
+    2300426: RosettaPhilae_LR:pCube49 1
+    2300428: RosettaPhilae_LR:pCube49 2
+    2300430: RosettaPhilae_LR:pCube505
+    2300432: RosettaPhilae_LR:pCube506
+    2300434: RosettaPhilae_LR:pCube507
+    2300436: RosettaPhilae_LR:pCube509
+    2300438: RosettaPhilae_LR:pCube510
+    2300440: RosettaPhilae_LR:pCube511
+    2300442: RosettaPhilae_LR:pCube512
+    2300444: RosettaPhilae_LR:pCube513
+    2300446: RosettaPhilae_LR:pCube514
+    2300448: RosettaPhilae_LR:pCube515
+    2300450: RosettaPhilae_LR:pCube516
+    2300452: RosettaPhilae_LR:pCube517
+    2300454: RosettaPhilae_LR:pCube518
+    2300456: RosettaPhilae_LR:pCube522
+    2300458: RosettaPhilae_LR:pCube523
+    2300460: RosettaPhilae_LR:pCube524
+    2300462: RosettaPhilae_LR:pCube525
+    2300464: RosettaPhilae_LR:pCube526
+    2300466: RosettaPhilae_LR:pCube527
+    2300468: RosettaPhilae_LR:pCube528
+    2300470: RosettaPhilae_LR:pCube529
+    2300472: RosettaPhilae_LR:pCube53
+    2300474: RosettaPhilae_LR:pCube53 1
+    2300476: RosettaPhilae_LR:pCube53 2
+    2300478: RosettaPhilae_LR:pCube530
+    2300480: RosettaPhilae_LR:pCube555
+    2300482: RosettaPhilae_LR:pCube556
+    2300484: RosettaPhilae_LR:pCube559
+    2300486: RosettaPhilae_LR:pCube57
+    2300488: RosettaPhilae_LR:pCube57 1
+    2300490: RosettaPhilae_LR:pCube57 2
+    2300492: RosettaPhilae_LR:pCube571
+    2300494: RosettaPhilae_LR:pCube572
+    2300496: RosettaPhilae_LR:pCube573
+    2300498: RosettaPhilae_LR:pCube58
+    2300500: RosettaPhilae_LR:pCube58 1
+    2300502: RosettaPhilae_LR:pCube58 2
+    2300504: RosettaPhilae_LR:pCube584
+    2300506: RosettaPhilae_LR:pCube585
+    2300508: RosettaPhilae_LR:pCube586
+    2300510: RosettaPhilae_LR:pCube587
+    2300512: RosettaPhilae_LR:pCube588
+    2300514: RosettaPhilae_LR:pCube589
+    2300516: RosettaPhilae_LR:pCube590
+    2300518: RosettaPhilae_LR:pCube591
+    2300520: RosettaPhilae_LR:pCube592
+    2300522: RosettaPhilae_LR:pCube9
+    2300524: RosettaPhilae_LR:pCube91
+    2300526: RosettaPhilae_LR:pCube91 1
+    2300528: RosettaPhilae_LR:pCube91 2
+    2300530: RosettaPhilae_LR:pCube93
+    2300532: RosettaPhilae_LR:pCube93 1
+    2300534: RosettaPhilae_LR:pCube93 2
+    2300536: RosettaPhilae_LR:pCube94
+    2300538: RosettaPhilae_LR:pCube94 1
+    2300540: RosettaPhilae_LR:pCube94 2
+    2300542: RosettaPhilae_LR:pCube95
+    2300544: RosettaPhilae_LR:pCube95 1
+    2300546: RosettaPhilae_LR:pCube95 2
+    2300548: RosettaPhilae_LR:pCube96
+    2300550: RosettaPhilae_LR:pCube96 1
+    2300552: RosettaPhilae_LR:pCube96 2
+    2300554: RosettaPhilae_LR:pCube98
+    2300556: RosettaPhilae_LR:pCube98 1
+    2300558: RosettaPhilae_LR:pCube98 2
+    2300560: RosettaPhilae_LR:pCube99
+    2300562: RosettaPhilae_LR:pCube99 1
+    2300564: RosettaPhilae_LR:pCube99 2
+    2300566: RosettaPhilae_LR:pCylinder100
+    2300568: RosettaPhilae_LR:pCylinder101
+    2300570: RosettaPhilae_LR:pCylinder103
+    2300572: RosettaPhilae_LR:pCylinder104
+    2300574: RosettaPhilae_LR:pCylinder105
+    2300576: RosettaPhilae_LR:pCylinder109
+    2300578: RosettaPhilae_LR:pCylinder112
+    2300580: RosettaPhilae_LR:pCylinder112 1
+    2300582: RosettaPhilae_LR:pCylinder112 2
+    2300584: RosettaPhilae_LR:pCylinder116
+    2300586: RosettaPhilae_LR:pCylinder116 1
+    2300588: RosettaPhilae_LR:pCylinder116 2
+    2300590: RosettaPhilae_LR:pCylinder127
+    2300592: RosettaPhilae_LR:pCylinder127 1
+    2300594: RosettaPhilae_LR:pCylinder127 2
+    2300596: RosettaPhilae_LR:pCylinder128
+    2300598: RosettaPhilae_LR:pCylinder128 1
+    2300600: RosettaPhilae_LR:pCylinder128 2
+    2300602: RosettaPhilae_LR:pCylinder153
+    2300604: RosettaPhilae_LR:pCylinder153 1
+    2300606: RosettaPhilae_LR:pCylinder153 2
+    2300608: RosettaPhilae_LR:pCylinder155
+    2300610: RosettaPhilae_LR:pCylinder156
+    2300612: RosettaPhilae_LR:pCylinder158
+    2300614: RosettaPhilae_LR:pCylinder158 1
+    2300616: RosettaPhilae_LR:pCylinder158 2
+    2300618: RosettaPhilae_LR:pCylinder159
+    2300620: RosettaPhilae_LR:pCylinder159 1
+    2300622: RosettaPhilae_LR:pCylinder159 2
+    2300624: RosettaPhilae_LR:pCylinder159 3
+    2300626: RosettaPhilae_LR:pCylinder160
+    2300628: RosettaPhilae_LR:pCylinder161
+    2300630: RosettaPhilae_LR:pCylinder163
+    2300632: RosettaPhilae_LR:pCylinder164
+    2300634: RosettaPhilae_LR:pCylinder166
+    2300636: RosettaPhilae_LR:pCylinder167
+    2300638: RosettaPhilae_LR:pCylinder168
+    2300640: RosettaPhilae_LR:pCylinder169
+    2300642: RosettaPhilae_LR:pCylinder170
+    2300644: RosettaPhilae_LR:pCylinder171
+    2300646: RosettaPhilae_LR:pCylinder172
+    2300648: RosettaPhilae_LR:pCylinder173
+    2300650: RosettaPhilae_LR:pCylinder174
+    2300652: RosettaPhilae_LR:pCylinder175
+    2300654: RosettaPhilae_LR:pCylinder176
+    2300656: RosettaPhilae_LR:pCylinder177
+    2300658: RosettaPhilae_LR:pCylinder178
+    2300660: RosettaPhilae_LR:pCylinder179
+    2300662: RosettaPhilae_LR:pCylinder18
+    2300664: RosettaPhilae_LR:pCylinder18 1
+    2300666: RosettaPhilae_LR:pCylinder180
+    2300668: RosettaPhilae_LR:pCylinder181
+    2300670: RosettaPhilae_LR:pCylinder186
+    2300672: RosettaPhilae_LR:pCylinder187
+    2300674: RosettaPhilae_LR:pCylinder188
+    2300676: RosettaPhilae_LR:pCylinder189
+    2300678: RosettaPhilae_LR:pCylinder19
+    2300680: RosettaPhilae_LR:pCylinder190
+    2300682: RosettaPhilae_LR:pCylinder191
+    2300684: RosettaPhilae_LR:pCylinder20
+    2300686: RosettaPhilae_LR:pCylinder207
+    2300688: RosettaPhilae_LR:pCylinder208
+    2300690: RosettaPhilae_LR:pCylinder209
+    2300692: RosettaPhilae_LR:pCylinder210
+    2300694: RosettaPhilae_LR:pCylinder211
+    2300696: RosettaPhilae_LR:pCylinder212
+    2300698: RosettaPhilae_LR:pCylinder213
+    2300700: RosettaPhilae_LR:pCylinder214
+    2300702: RosettaPhilae_LR:pCylinder215
+    2300704: RosettaPhilae_LR:pCylinder218
+    2300706: RosettaPhilae_LR:pCylinder219
+    2300708: RosettaPhilae_LR:pCylinder222
+    2300710: RosettaPhilae_LR:pCylinder223
+    2300712: RosettaPhilae_LR:pCylinder225
+    2300714: RosettaPhilae_LR:pCylinder226
+    2300716: RosettaPhilae_LR:pCylinder227
+    2300718: RosettaPhilae_LR:pCylinder231
+    2300720: RosettaPhilae_LR:pCylinder232
+    2300722: RosettaPhilae_LR:pCylinder235
+    2300724: RosettaPhilae_LR:pCylinder236
+    2300726: RosettaPhilae_LR:pCylinder238
+    2300728: RosettaPhilae_LR:pCylinder239
+    2300730: RosettaPhilae_LR:pCylinder240
+    2300732: RosettaPhilae_LR:pCylinder256
+    2300734: RosettaPhilae_LR:pCylinder260
+    2300736: RosettaPhilae_LR:pCylinder28
+    2300738: RosettaPhilae_LR:pCylinder405
+    2300740: RosettaPhilae_LR:pCylinder406
+    2300742: RosettaPhilae_LR:pCylinder407
+    2300744: RosettaPhilae_LR:pCylinder408
+    2300746: RosettaPhilae_LR:pCylinder409
+    2300748: RosettaPhilae_LR:pCylinder410
+    2300750: RosettaPhilae_LR:pCylinder411
+    2300752: RosettaPhilae_LR:pCylinder412
+    2300754: RosettaPhilae_LR:pCylinder413
+    2300756: RosettaPhilae_LR:pCylinder413 1
+    2300758: RosettaPhilae_LR:pCylinder413 2
+    2300760: RosettaPhilae_LR:pCylinder414
+    2300762: RosettaPhilae_LR:pCylinder415
+    2300764: RosettaPhilae_LR:pCylinder416
+    2300766: RosettaPhilae_LR:pCylinder416 1
+    2300768: RosettaPhilae_LR:pCylinder416 2
+    2300770: RosettaPhilae_LR:pCylinder416 3
+    2300772: RosettaPhilae_LR:pCylinder418
+    2300774: RosettaPhilae_LR:pCylinder419
+    2300776: RosettaPhilae_LR:pCylinder422
+    2300778: RosettaPhilae_LR:pCylinder423
+    2300780: RosettaPhilae_LR:pCylinder424
+    2300782: RosettaPhilae_LR:pCylinder425
+    2300784: RosettaPhilae_LR:pCylinder426
+    2300786: RosettaPhilae_LR:pCylinder427
+    2300788: RosettaPhilae_LR:pCylinder428
+    2300790: RosettaPhilae_LR:pCylinder429
+    2300792: RosettaPhilae_LR:pCylinder430
+    2300794: RosettaPhilae_LR:pCylinder431
+    2300796: RosettaPhilae_LR:pCylinder432
+    2300798: RosettaPhilae_LR:pCylinder433
+    2300800: RosettaPhilae_LR:pCylinder434
+    2300802: RosettaPhilae_LR:pCylinder435
+    2300804: RosettaPhilae_LR:pCylinder63
+    2300806: RosettaPhilae_LR:pCylinder68
+    2300808: RosettaPhilae_LR:pCylinder68 1
+    2300810: RosettaPhilae_LR:pCylinder68 2
+    2300812: RosettaPhilae_LR:pCylinder71
+    2300814: RosettaPhilae_LR:pCylinder71 1
+    2300816: RosettaPhilae_LR:pCylinder71 2
+    2300818: RosettaPhilae_LR:pCylinder72
+    2300820: RosettaPhilae_LR:pCylinder72 1
+    2300822: RosettaPhilae_LR:pCylinder72 2
+    2300824: RosettaPhilae_LR:pCylinder95
+    2300826: RosettaPhilae_LR:pCylinder99
+    2300828: RosettaPhilae_LR:polySurface1
+    2300830: RosettaPhilae_LR:polySurface1 1
+    2300832: RosettaPhilae_LR:polySurface1 2
+    2300834: RosettaPhilae_LR:polySurface105
+    2300836: RosettaPhilae_LR:polySurface105 1
+    2300838: RosettaPhilae_LR:polySurface105 2
+    2300840: RosettaPhilae_LR:polySurface12
+    2300842: RosettaPhilae_LR:polySurface122
+    2300844: RosettaPhilae_LR:polySurface122 1
+    2300846: RosettaPhilae_LR:polySurface122 2
+    2300848: RosettaPhilae_LR:polySurface125
+    2300850: RosettaPhilae_LR:polySurface125 1
+    2300852: RosettaPhilae_LR:polySurface125 2
+    2300854: RosettaPhilae_LR:polySurface13
+    2300856: RosettaPhilae_LR:polySurface14
+    2300858: RosettaPhilae_LR:polySurface141
+    2300860: RosettaPhilae_LR:polySurface141 1
+    2300862: RosettaPhilae_LR:polySurface141 2
+    2300864: RosettaPhilae_LR:polySurface15
+    2300866: RosettaPhilae_LR:polySurface162
+    2300868: RosettaPhilae_LR:polySurface162 1
+    2300870: RosettaPhilae_LR:polySurface162 2
+    2300872: RosettaPhilae_LR:polySurface17
+    2300874: RosettaPhilae_LR:polySurface170
+    2300876: RosettaPhilae_LR:polySurface170 1
+    2300878: RosettaPhilae_LR:polySurface170 2
+    2300880: RosettaPhilae_LR:polySurface171
+    2300882: RosettaPhilae_LR:polySurface171 1
+    2300884: RosettaPhilae_LR:polySurface171 2
+    2300886: RosettaPhilae_LR:polySurface172
+    2300888: RosettaPhilae_LR:polySurface172 1
+    2300890: RosettaPhilae_LR:polySurface172 2
+    2300892: RosettaPhilae_LR:polySurface173
+    2300894: RosettaPhilae_LR:polySurface173 1
+    2300896: RosettaPhilae_LR:polySurface173 2
+    2300898: RosettaPhilae_LR:polySurface18
+    2300900: RosettaPhilae_LR:polySurface190
+    2300902: RosettaPhilae_LR:polySurface190 1
+    2300904: RosettaPhilae_LR:polySurface190 2
+    2300906: RosettaPhilae_LR:polySurface191
+    2300908: RosettaPhilae_LR:polySurface191 1
+    2300910: RosettaPhilae_LR:polySurface191 2
+    2300912: RosettaPhilae_LR:polySurface192
+    2300914: RosettaPhilae_LR:polySurface192 1
+    2300916: RosettaPhilae_LR:polySurface192 2
+    2300918: RosettaPhilae_LR:polySurface193
+    2300920: RosettaPhilae_LR:polySurface193 1
+    2300922: RosettaPhilae_LR:polySurface193 2
+    2300924: RosettaPhilae_LR:polySurface209
+    2300926: RosettaPhilae_LR:polySurface209 1
+    2300928: RosettaPhilae_LR:polySurface209 2
+    2300930: RosettaPhilae_LR:polySurface219
+    2300932: RosettaPhilae_LR:polySurface219 1
+    2300934: RosettaPhilae_LR:polySurface220
+    2300936: RosettaPhilae_LR:polySurface220 1
+    2300938: RosettaPhilae_LR:polySurface221
+    2300940: RosettaPhilae_LR:polySurface225
+    2300942: RosettaPhilae_LR:polySurface225 1
+    2300944: RosettaPhilae_LR:polySurface226
+    2300946: RosettaPhilae_LR:polySurface226 1
+    2300948: RosettaPhilae_LR:polySurface227
+    2300950: RosettaPhilae_LR:polySurface248
+    2300952: RosettaPhilae_LR:polySurface248 1
+    2300954: RosettaPhilae_LR:polySurface248 2
+    2300956: RosettaPhilae_LR:polySurface249
+    2300958: RosettaPhilae_LR:polySurface249 1
+    2300960: RosettaPhilae_LR:polySurface249 2
+    2300962: RosettaPhilae_LR:polySurface25
+    2300964: RosettaPhilae_LR:polySurface2593
+    2300966: RosettaPhilae_LR:polySurface2662
+    2300968: RosettaPhilae_LR:polySurface2663
+    2300970: RosettaPhilae_LR:polySurface2664
+    2300972: RosettaPhilae_LR:polySurface2665
+    2300974: RosettaPhilae_LR:polySurface2666
+    2300976: RosettaPhilae_LR:polySurface2667
+    2300978: RosettaPhilae_LR:polySurface2673
+    2300980: RosettaPhilae_LR:polySurface2676
+    2300982: RosettaPhilae_LR:polySurface2677
+    2300984: RosettaPhilae_LR:polySurface2679
+    2300986: RosettaPhilae_LR:polySurface2680
+    2300988: RosettaPhilae_LR:polySurface2681
+    2300990: RosettaPhilae_LR:polySurface2682
+    2300992: RosettaPhilae_LR:polySurface2683
+    2300994: RosettaPhilae_LR:polySurface2684
+    2300996: RosettaPhilae_LR:polySurface2686
+    2300998: RosettaPhilae_LR:polySurface2713
+    2301000: RosettaPhilae_LR:polySurface2722
+    2301002: RosettaPhilae_LR:polySurface2723
+    2301004: RosettaPhilae_LR:polySurface2725
+    2301006: RosettaPhilae_LR:polySurface2726
+    2301008: RosettaPhilae_LR:polySurface2727
+    2301010: RosettaPhilae_LR:polySurface2728
+    2301012: RosettaPhilae_LR:polySurface2729
+    2301014: RosettaPhilae_LR:polySurface2730
+    2301016: RosettaPhilae_LR:polySurface2731
+    2301018: RosettaPhilae_LR:polySurface2732
+    2301020: RosettaPhilae_LR:polySurface2733
+    2301022: RosettaPhilae_LR:polySurface2734
+    2301024: RosettaPhilae_LR:polySurface2737
+    2301026: RosettaPhilae_LR:polySurface2738
+    2301028: RosettaPhilae_LR:polySurface2748
+    2301030: RosettaPhilae_LR:polySurface2749
+    2301032: RosettaPhilae_LR:polySurface2750
+    2301034: RosettaPhilae_LR:polySurface2751
+    2301036: RosettaPhilae_LR:polySurface2752
+    2301038: RosettaPhilae_LR:polySurface2753
+    2301040: RosettaPhilae_LR:polySurface2754
+    2301042: RosettaPhilae_LR:polySurface2758
+    2301044: RosettaPhilae_LR:polySurface2759
+    2301046: RosettaPhilae_LR:polySurface2762
+    2301048: RosettaPhilae_LR:polySurface2777
+    2301050: RosettaPhilae_LR:polySurface2778
+    2301052: RosettaPhilae_LR:polySurface2779
+    2301054: RosettaPhilae_LR:polySurface2780
+    2301056: RosettaPhilae_LR:polySurface2781
+    2301058: RosettaPhilae_LR:polySurface2782
+    2301060: RosettaPhilae_LR:polySurface2783
+    2301062: RosettaPhilae_LR:polySurface2784
+    2301064: RosettaPhilae_LR:polySurface2785
+    2301066: RosettaPhilae_LR:polySurface2786
+    2301068: RosettaPhilae_LR:polySurface2787
+    2301070: RosettaPhilae_LR:polySurface2788
+    2301072: RosettaPhilae_LR:polySurface2789
+    2301074: RosettaPhilae_LR:polySurface2790
+    2301076: RosettaPhilae_LR:polySurface2791
+    2301078: RosettaPhilae_LR:polySurface2792
+    2301080: RosettaPhilae_LR:polySurface2794
+    2301082: RosettaPhilae_LR:polySurface31
+    2301084: RosettaPhilae_LR:polySurface36
+    2301086: RosettaPhilae_LR:polySurface38
+    2301088: RosettaPhilae_LR:polySurface3835
+    2301090: RosettaPhilae_LR:polySurface4
+    2301092: RosettaPhilae_LR:polySurface4084
+    2301094: RosettaPhilae_LR:polySurface4309
+    2301096: RosettaPhilae_LR:polySurface4314
+    2301098: RosettaPhilae_LR:polySurface4314 1
+    2301100: RosettaPhilae_LR:polySurface4315
+    2301102: RosettaPhilae_LR:polySurface4315 1
+    2301104: RosettaPhilae_LR:polySurface4316
+    2301106: RosettaPhilae_LR:polySurface4316 1
+    2301108: RosettaPhilae_LR:polySurface4317
+    2301110: RosettaPhilae_LR:polySurface4317 1
+    2301112: RosettaPhilae_LR:polySurface4318
+    2301114: RosettaPhilae_LR:polySurface4318 1
+    2301116: RosettaPhilae_LR:polySurface4319
+    2301118: RosettaPhilae_LR:polySurface4319 1
+    2301120: RosettaPhilae_LR:polySurface4319 2
+    2301122: RosettaPhilae_LR:polySurface4319 3
+    2301124: RosettaPhilae_LR:polySurface4319 4
+    2301126: RosettaPhilae_LR:polySurface4319 5
+    2301128: RosettaPhilae_LR:polySurface4319 6
+    2301130: RosettaPhilae_LR:polySurface4319 7
+    2301132: RosettaPhilae_LR:polySurface4323
+    2301134: RosettaPhilae_LR:polySurface4323 1
+    2301136: RosettaPhilae_LR:polySurface4324
+    2301138: RosettaPhilae_LR:polySurface4324 1
+    2301140: RosettaPhilae_LR:polySurface4329
+    2301142: RosettaPhilae_LR:polySurface4329 1
+    2301144: RosettaPhilae_LR:polySurface4329 2
+    2301146: RosettaPhilae_LR:polySurface4329 3
+    2301148: RosettaPhilae_LR:polySurface4329 4
+    2301150: RosettaPhilae_LR:polySurface4329 5
+    2301152: RosettaPhilae_LR:polySurface4329 6
+    2301154: RosettaPhilae_LR:polySurface4329 7
+    2301156: RosettaPhilae_LR:polySurface4333
+    2301158: RosettaPhilae_LR:polySurface4334
+    2301160: RosettaPhilae_LR:polySurface4335
+    2301162: RosettaPhilae_LR:polySurface4337
+    2301164: RosettaPhilae_LR:polySurface4338
+    2301166: RosettaPhilae_LR:polySurface4339
+    2301168: RosettaPhilae_LR:polySurface4340
+    2301170: RosettaPhilae_LR:polySurface4342
+    2301172: RosettaPhilae_LR:polySurface4343
+    2301174: RosettaPhilae_LR:polySurface4344
+    2301176: RosettaPhilae_LR:polySurface4344 1
+    2301178: RosettaPhilae_LR:polySurface4345
+    2301180: RosettaPhilae_LR:polySurface4345 1
+    2301182: RosettaPhilae_LR:polySurface4346
+    2301184: RosettaPhilae_LR:polySurface4346 1
+    2301186: RosettaPhilae_LR:polySurface4347
+    2301188: RosettaPhilae_LR:polySurface4347 1
+    2301190: RosettaPhilae_LR:polySurface4348
+    2301192: RosettaPhilae_LR:polySurface4349
+    2301194: RosettaPhilae_LR:polySurface4350
+    2301196: RosettaPhilae_LR:polySurface4351
+    2301198: RosettaPhilae_LR:polySurface4352
+    2301200: RosettaPhilae_LR:polySurface4353
+    2301202: RosettaPhilae_LR:polySurface4354
+    2301204: RosettaPhilae_LR:polySurface4357
+    2301206: RosettaPhilae_LR:polySurface4358
+    2301208: RosettaPhilae_LR:polySurface4361
+    2301210: RosettaPhilae_LR:polySurface4365
+    2301212: RosettaPhilae_LR:polySurface4366
+    2301214: RosettaPhilae_LR:polySurface4366 1
+    2301216: RosettaPhilae_LR:polySurface4366 2
+    2301218: RosettaPhilae_LR:polySurface4366 3
+    2301220: RosettaPhilae_LR:polySurface4367
+    2301222: RosettaPhilae_LR:polySurface4368
+    2301224: RosettaPhilae_LR:polySurface4372
+    2301226: RosettaPhilae_LR:polySurface4374
+    2301228: RosettaPhilae_LR:polySurface4375
+    2301230: RosettaPhilae_LR:polySurface4376
+    2301232: RosettaPhilae_LR:polySurface4377
+    2301234: RosettaPhilae_LR:polySurface4378
+    2301236: RosettaPhilae_LR:polySurface4379
+    2301238: RosettaPhilae_LR:polySurface4380
+    2301240: RosettaPhilae_LR:polySurface4380 1
+    2301242: RosettaPhilae_LR:polySurface4381
+    2301244: RosettaPhilae_LR:polySurface4384
+    2301246: RosettaPhilae_LR:polySurface4385
+    2301248: RosettaPhilae_LR:polySurface4386
+    2301250: RosettaPhilae_LR:polySurface4387
+    2301252: RosettaPhilae_LR:polySurface4387 1
+    2301254: RosettaPhilae_LR:polySurface4387 2
+    2301256: RosettaPhilae_LR:polySurface4387 3
+    2301258: RosettaPhilae_LR:polySurface4389
+    2301260: RosettaPhilae_LR:polySurface4389 1
+    2301262: RosettaPhilae_LR:polySurface4389 2
+    2301264: RosettaPhilae_LR:polySurface4389 3
+    2301266: RosettaPhilae_LR:polySurface4399
+    2301268: RosettaPhilae_LR:polySurface4400
+    2301270: RosettaPhilae_LR:polySurface4401
+    2301272: RosettaPhilae_LR:polySurface4402
+    2301274: RosettaPhilae_LR:polySurface4403
+    2301276: RosettaPhilae_LR:polySurface4404
+    2301278: RosettaPhilae_LR:polySurface4404 1
+    2301280: RosettaPhilae_LR:polySurface4404 2
+    2301282: RosettaPhilae_LR:polySurface4405
+    2301284: RosettaPhilae_LR:polySurface4412
+    2301286: RosettaPhilae_LR:polySurface4413
+    2301288: RosettaPhilae_LR:polySurface6
+    2301290: RosettaPhilae_LR:polySurface68
+    2301292: RosettaPhilae_LR:polySurface68 1
+    2301294: RosettaPhilae_LR:polySurface68 2
+    2301296: RosettaPhilae_LR:polySurface756
+    2301298: RosettaPhilae_LR:polySurface758
+    2301300: RosettaPhilae_LR:polySurface760
+    2301302: RosettaPhilae_LR:polySurface762
+    2301304: RosettaPhilae_LR:polySurface763
+    2301306: RosettaPhilae_LR:polySurface764
+    2301308: RosettaPhilae_LR:polySurface765
+    2301310: RosettaPhilae_LR:polySurface766
+    2301312: RosettaPhilae_LR:polySurface768
+    2301314: RosettaPhilae_LR:polySurface769
+    2301316: RosettaPhilae_LR:polySurface770
+    2301318: RosettaPhilae_LR:polySurface771
+    2301320: RosettaPhilae_LR:polySurface771 1
+    2301322: RosettaPhilae_LR:polySurface771 2
+    2301324: RosettaPhilae_LR:polySurface771 3
+    2301326: RosettaPhilae_LR:polySurface772
+    2301328: RosettaPhilae_LR:polySurface772 1
+    2301330: RosettaPhilae_LR:polySurface772 2
+    2301332: RosettaPhilae_LR:polySurface773
+    2301334: RosettaPhilae_LR:polySurface773 1
+    2301336: RosettaPhilae_LR:polySurface773 2
+    2301338: RosettaPhilae_LR:polySurface773 3
+    2301340: RosettaPhilae_LR:polySurface775
+    2301342: RosettaPhilae_LR:polySurface78
+    2301344: RosettaPhilae_LR:polySurface78 1
+    2301346: RosettaPhilae_LR:polySurface78 2
+    2301348: RosettaPhilae_LR:polySurface780
+    2301350: RosettaPhilae_LR:polySurface783
+    2301352: RosettaPhilae_LR:polySurface785
+    2301354: RosettaPhilae_LR:polySurface786
+    2301356: RosettaPhilae_LR:polySurface787
+    2301358: RosettaPhilae_LR:polySurface788
+    2301360: RosettaPhilae_LR:polySurface790
+    2301362: RosettaPhilae_LR:polySurface796
+    2301364: RosettaPhilae_LR:polySurface797
+    2301366: RosettaPhilae_LR:polySurface798
+    2301368: RosettaPhilae_LR:polySurface799
+    2301370: RosettaPhilae_LR:polySurface80
+    2301372: RosettaPhilae_LR:polySurface80 1
+    2301374: RosettaPhilae_LR:polySurface80 2
+    2301376: RosettaPhilae_LR:polySurface800
+    2301378: RosettaPhilae_LR:polySurface801
+    2301380: RosettaPhilae_LR:polySurface803
+    2301382: RosettaPhilae_LR:polySurface806
+    2301384: RosettaPhilae_LR:polySurface808
+    2301386: RosettaPhilae_LR:polySurface810
+    2301388: RosettaPhilae_LR:polySurface811
+    2301390: RosettaPhilae_LR:polySurface823
+    2301392: RosettaPhilae_LR:polySurface824
+    2301394: RosettaPhilae_LR:polySurface825
+    2301396: RosettaPhilae_LR:polySurface826
+    2301398: RosettaPhilae_LR:polySurface827
+    2301400: RosettaPhilae_LR:polySurface828
+    2301402: RosettaPhilae_LR:polySurface829
+    2301404: RosettaPhilae_LR:polySurface830
+    2301406: RosettaPhilae_LR:polySurface834
+    2301408: RosettaPhilae_LR:polySurface835
+    2301410: RosettaPhilae_LR:polySurface840
+    2301412: RosettaPhilae_LR:polySurface841
+    2301414: RosettaPhilae_LR:polySurface842
+    2301416: RosettaPhilae_LR:polySurface843
+    2301418: RosettaPhilae_LR:polySurface844
+    2301420: RosettaPhilae_LR:polySurface87
+    2301422: RosettaPhilae_LR:polySurface87 1
+    2301424: RosettaPhilae_LR:polySurface87 2
+    2301426: RosettaPhilae_LR:polySurface88
+    2301428: RosettaPhilae_LR:polySurface88 1
+    2301430: RosettaPhilae_LR:polySurface88 2
+    2301432: RosettaPhilae_LR:polySurface94
+    2301434: RosettaPhilae_LR:polySurface94 1
+    2301436: RosettaPhilae_LR:polySurface94 2
+    2301438: RosettaPhilae_LR:polySurface95
+    2301440: RosettaPhilae_LR:polySurface95 1
+    2301442: RosettaPhilae_LR:polySurface95 2
+    2301444: RosettaPhilae_LR:polySurface971
+    2301446: RosettaPhilae_LR:polySurface977
+    2301448: RosettaPhilae_LR:polySurface978
+    2301450: RosettaPhilae_LR:polySurface98
+    2301452: RosettaPhilae_LR:polySurface98 1
+    2301454: RosettaPhilae_LR:polySurface98 2
+    2301456: RosettaPhilae_LR:polySurface99
+    2301458: RosettaPhilae_LR:polySurface99 1
+    2301460: RosettaPhilae_LR:polySurface99 2
+    2301462: RosettaPhilae_LR:polySurface990
+    2301464: RosettaPhilae_LR:pSphere18
+    2301466: RosettaPhilae_LR:pSphere19
+    2301468: RosettaPhilae_LR:pSphere20
+    2301470: RosettaPhilae_LR:pSphere21
+    2301472: RosettaPhilae_LR:pTorus1
+    2301474: RosettaPhilae_LR:side1
+    2301476: RosettaPhilae_LR:side2
+    2301478: RosettaPhilae_LR:topPlate
+    3300000: RosettaPhilae_LR:_0N_THRUSTER17
+    3300002: RosettaPhilae_LR:_0N_THRUSTER17 1
+    3300004: RosettaPhilae_LR:_0N_THRUSTER17 2
+    3300006: RosettaPhilae_LR:_0N_THRUSTER17 3
+    3300008: RosettaPhilae_LR:_0N_THRUSTER17 4
+    3300010: RosettaPhilae_LR:_0N_THRUSTER17 5
+    3300012: RosettaPhilae_LR:_0N_THRUSTER17 6
+    3300014: RosettaPhilae_LR:_0N_THRUSTER17 7
+    3300016: RosettaPhilae_LR:_0N_THRUSTER24
+    3300018: RosettaPhilae_LR:_0N_THRUSTER24 1
+    3300020: RosettaPhilae_LR:_0N_THRUSTER24 2
+    3300022: RosettaPhilae_LR:_0N_THRUSTER24 3
+    3300024: RosettaPhilae_LR:_0N_THRUSTER24 4
+    3300026: RosettaPhilae_LR:_0N_THRUSTER24 5
+    3300028: RosettaPhilae_LR:_0N_THRUSTER24 6
+    3300030: RosettaPhilae_LR:_0N_THRUSTER24 7
+    3300032: RosettaPhilae_LR:_0N_THRUSTER25
+    3300034: RosettaPhilae_LR:_0N_THRUSTER25 1
+    3300036: RosettaPhilae_LR:_0N_THRUSTER25 2
+    3300038: RosettaPhilae_LR:_0N_THRUSTER25 3
+    3300040: RosettaPhilae_LR:_0N_THRUSTER26
+    3300042: RosettaPhilae_LR:_0N_THRUSTER26 1
+    3300044: RosettaPhilae_LR:_0N_THRUSTER26 2
+    3300046: RosettaPhilae_LR:_0N_THRUSTER26 3
+    3300048: RosettaPhilae_LR:_SOL108
+    3300050: RosettaPhilae_LR:_SOL109
+    3300052: RosettaPhilae_LR:_SOL113
+    3300054: RosettaPhilae_LR:_SOL114
+    3300056: RosettaPhilae_LR:_SOL156
+    3300058: RosettaPhilae_LR:_SOL164
+    3300060: RosettaPhilae_LR:_SOL166
+    3300062: RosettaPhilae_LR:_SOL169
+    3300064: RosettaPhilae_LR:_SOL2789
+    3300066: RosettaPhilae_LR:_SOL2883
+    3300068: RosettaPhilae_LR:_SOL2883 1
+    3300070: RosettaPhilae_LR:_SOL2886
+    3300072: RosettaPhilae_LR:_SOL2886 1
+    3300074: RosettaPhilae_LR:_SOL2887
+    3300076: RosettaPhilae_LR:_SOL2887 1
+    3300078: RosettaPhilae_LR:_SOL3480
+    3300080: RosettaPhilae_LR:_SOL3481
+    3300082: RosettaPhilae_LR:_SOL3482
+    3300084: RosettaPhilae_LR:_SOL3483
+    3300086: RosettaPhilae_LR:_SOL3672
+    3300088: RosettaPhilae_LR:_SOL3955
+    3300090: RosettaPhilae_LR:_SOL3957
+    3300092: RosettaPhilae_LR:_SOL3959
+    3300094: RosettaPhilae_LR:_SOL4126
+    3300096: RosettaPhilae_LR:_SOL4153
+    3300098: RosettaPhilae_LR:_SOL4155
+    3300100: RosettaPhilae_LR:_SOL4157
+    3300102: RosettaPhilae_LR:_SOL4203
+    3300104: RosettaPhilae_LR:_SOL4232
+    3300106: RosettaPhilae_LR:_SOL4234
+    3300108: RosettaPhilae_LR:_SOL4236
+    3300110: RosettaPhilae_LR:_SOL4242
+    3300112: RosettaPhilae_LR:_SOL4244
+    3300114: RosettaPhilae_LR:_SOL4246
+    3300116: RosettaPhilae_LR:_SOL4248
+    3300118: RosettaPhilae_LR:_SOL4297
+    3300120: RosettaPhilae_LR:_SOL4299
+    3300122: RosettaPhilae_LR:_SOL4301
+    3300124: RosettaPhilae_LR:_SOL4303
+    3300126: RosettaPhilae_LR:_SOL4305
+    3300128: RosettaPhilae_LR:_SOL4307
+    3300130: RosettaPhilae_LR:_SOL4311
+    3300132: RosettaPhilae_LR:_SOL4369
+    3300134: RosettaPhilae_LR:_SOL4371
+    3300136: RosettaPhilae_LR:_SOL4373
+    3300138: RosettaPhilae_LR:_SOL4375
+    3300140: RosettaPhilae_LR:_SOL4393
+    3300142: RosettaPhilae_LR:_SOL4395
+    3300144: RosettaPhilae_LR:_SOL4397
+    3300146: RosettaPhilae_LR:_SOL4399
+    3300148: RosettaPhilae_LR:_SOL4413
+    3300150: RosettaPhilae_LR:_SOL4642
+    3300152: RosettaPhilae_LR:_SOL4731
+    3300154: RosettaPhilae_LR:_SOL4732
+    3300156: RosettaPhilae_LR:_SOL4744
+    3300158: RosettaPhilae_LR:_SOL49
+    3300160: RosettaPhilae_LR:_SOL667
+    3300162: RosettaPhilae_LR:_SOL82518
+    3300164: RosettaPhilae_LR:_SOL82519
+    3300166: RosettaPhilae_LR:_SOL82520
+    3300168: RosettaPhilae_LR:_SOL86283
+    3300170: RosettaPhilae_LR:_SOL86283 1
+    3300172: RosettaPhilae_LR:_SOL86284
+    3300174: RosettaPhilae_LR:_SOL86284 1
+    3300176: RosettaPhilae_LR:_SOL86285
+    3300178: RosettaPhilae_LR:_SOL86285 1
+    3300180: RosettaPhilae_LR:_SOL86289
+    3300182: RosettaPhilae_LR:_SOL86289 1
+    3300184: RosettaPhilae_LR:_SOL86393
+    3300186: RosettaPhilae_LR:_SOL86531
+    3300188: RosettaPhilae_LR:_SOL86531 1
+    3300190: RosettaPhilae_LR:_SOL86534
+    3300192: RosettaPhilae_LR:_SOL86534 1
+    3300194: RosettaPhilae_LR:_SOL86535
+    3300196: RosettaPhilae_LR:_SOL86535 1
+    3300198: RosettaPhilae_LR:_SOL86536
+    3300200: RosettaPhilae_LR:_SOL86536 1
+    3300202: RosettaPhilae_LR:_SOL86537
+    3300204: RosettaPhilae_LR:_SOL86537 1
+    3300206: RosettaPhilae_LR:_SOL86538
+    3300208: RosettaPhilae_LR:_SOL86538 1
+    3300210: RosettaPhilae_LR:_SOL86539
+    3300212: RosettaPhilae_LR:_SOL86539 1
+    3300214: RosettaPhilae_LR:_SOL86540
+    3300216: RosettaPhilae_LR:_SOL86540 1
+    3300218: RosettaPhilae_LR:_SOL86541
+    3300220: RosettaPhilae_LR:_SOL86541 1
+    3300222: RosettaPhilae_LR:_SOL86542
+    3300224: RosettaPhilae_LR:_SOL86542 1
+    3300226: RosettaPhilae_LR:_SOL86543
+    3300228: RosettaPhilae_LR:_SOL86543 1
+    3300230: RosettaPhilae_LR:_SOL86544
+    3300232: RosettaPhilae_LR:_SOL86544 1
+    3300234: RosettaPhilae_LR:_SOL86545
+    3300236: RosettaPhilae_LR:_SOL86545 1
+    3300238: RosettaPhilae_LR:_SOL86546
+    3300240: RosettaPhilae_LR:_SOL86546 1
+    3300242: RosettaPhilae_LR:_SOL86547
+    3300244: RosettaPhilae_LR:_SOL86547 1
+    3300246: RosettaPhilae_LR:_SOL86548
+    3300248: RosettaPhilae_LR:_SOL86548 1
+    3300250: RosettaPhilae_LR:_SOL86549
+    3300252: RosettaPhilae_LR:_SOL86549 1
+    3300254: RosettaPhilae_LR:_SOL86550
+    3300256: RosettaPhilae_LR:_SOL86550 1
+    3300258: RosettaPhilae_LR:_SOL86551
+    3300260: RosettaPhilae_LR:_SOL86551 1
+    3300262: RosettaPhilae_LR:_SOL86552
+    3300264: RosettaPhilae_LR:_SOL86552 1
+    3300266: RosettaPhilae_LR:_SOL86553
+    3300268: RosettaPhilae_LR:_SOL86553 1
+    3300270: RosettaPhilae_LR:_SOL86554
+    3300272: RosettaPhilae_LR:_SOL86554 1
+    3300274: RosettaPhilae_LR:_SOL86555
+    3300276: RosettaPhilae_LR:_SOL86555 1
+    3300278: RosettaPhilae_LR:_SOL86556
+    3300280: RosettaPhilae_LR:_SOL86556 1
+    3300282: RosettaPhilae_LR:_SOL86557
+    3300284: RosettaPhilae_LR:_SOL86557 1
+    3300286: RosettaPhilae_LR:_SOL86558
+    3300288: RosettaPhilae_LR:_SOL86558 1
+    3300290: RosettaPhilae_LR:_SOL86561
+    3300292: RosettaPhilae_LR:_SOL86561 1
+    3300294: RosettaPhilae_LR:_SOL86561 2
+    3300296: RosettaPhilae_LR:_SOL86561 3
+    3300298: RosettaPhilae_LR:_SOL86561 4
+    3300300: RosettaPhilae_LR:_SOL86561 5
+    3300302: RosettaPhilae_LR:_SOL86561 6
+    3300304: RosettaPhilae_LR:_SOL86561 7
+    3300306: RosettaPhilae_LR:_SOL86565
+    3300308: RosettaPhilae_LR:_SOL86565 1
+    3300310: RosettaPhilae_LR:_SOL86573
+    3300312: RosettaPhilae_LR:_SOL86573 1
+    3300314: RosettaPhilae_LR:_SOL86574
+    3300316: RosettaPhilae_LR:_SOL86574 1
+    3300318: RosettaPhilae_LR:_SOL86575
+    3300320: RosettaPhilae_LR:_SOL86575 1
+    3300322: RosettaPhilae_LR:_SOL86576
+    3300324: RosettaPhilae_LR:_SOL86576 1
+    3300326: RosettaPhilae_LR:_SOL86576 2
+    3300328: RosettaPhilae_LR:_SOL86576 3
+    3300330: RosettaPhilae_LR:_SOL86576 4
+    3300332: RosettaPhilae_LR:_SOL86576 5
+    3300334: RosettaPhilae_LR:_SOL86576 6
+    3300336: RosettaPhilae_LR:_SOL86576 7
+    3300338: RosettaPhilae_LR:_SOL86604
+    3300340: RosettaPhilae_LR:_SOL86605
+    3300342: RosettaPhilae_LR:_SOL86606
+    3300344: RosettaPhilae_LR:_SOL86607
+    3300346: RosettaPhilae_LR:_SOL86608
+    3300348: RosettaPhilae_LR:_SOL86609
+    3300350: RosettaPhilae_LR:_SOL86610
+    3300352: RosettaPhilae_LR:_SOL86611
+    3300354: RosettaPhilae_LR:_SOL86612
+    3300356: RosettaPhilae_LR:_SOL86613
+    3300358: RosettaPhilae_LR:_SOL86614
+    3300360: RosettaPhilae_LR:_SOL86615
+    3300362: RosettaPhilae_LR:_SOL86616
+    3300364: RosettaPhilae_LR:_SOL86617
+    3300366: RosettaPhilae_LR:back
+    3300368: RosettaPhilae_LR:bares
+    3300370: RosettaPhilae_LR:bares 1
+    3300372: RosettaPhilae_LR:bares 2
+    3300374: RosettaPhilae_LR:bottom 1
+    3300376: RosettaPhilae_LR:CONSERT_DEPL
+    3300378: RosettaPhilae_LR:mainBody
+    3300380: RosettaPhilae_LR:nurbsToPoly10
+    3300382: RosettaPhilae_LR:nurbsToPoly11
+    3300384: RosettaPhilae_LR:pCube100
+    3300386: RosettaPhilae_LR:pCube100 1
+    3300388: RosettaPhilae_LR:pCube100 2
+    3300390: RosettaPhilae_LR:pCube104
+    3300392: RosettaPhilae_LR:pCube104 1
+    3300394: RosettaPhilae_LR:pCube104 2
+    3300396: RosettaPhilae_LR:pCube105
+    3300398: RosettaPhilae_LR:pCube105 1
+    3300400: RosettaPhilae_LR:pCube105 2
+    3300402: RosettaPhilae_LR:pCube110
+    3300404: RosettaPhilae_LR:pCube111
+    3300406: RosettaPhilae_LR:pCube27
+    3300408: RosettaPhilae_LR:pCube28
+    3300410: RosettaPhilae_LR:pCube33
+    3300412: RosettaPhilae_LR:pCube42
+    3300414: RosettaPhilae_LR:pCube42 1
+    3300416: RosettaPhilae_LR:pCube42 2
+    3300418: RosettaPhilae_LR:pCube48
+    3300420: RosettaPhilae_LR:pCube48 1
+    3300422: RosettaPhilae_LR:pCube48 2
+    3300424: RosettaPhilae_LR:pCube49
+    3300426: RosettaPhilae_LR:pCube49 1
+    3300428: RosettaPhilae_LR:pCube49 2
+    3300430: RosettaPhilae_LR:pCube505
+    3300432: RosettaPhilae_LR:pCube506
+    3300434: RosettaPhilae_LR:pCube507
+    3300436: RosettaPhilae_LR:pCube509
+    3300438: RosettaPhilae_LR:pCube510
+    3300440: RosettaPhilae_LR:pCube511
+    3300442: RosettaPhilae_LR:pCube512
+    3300444: RosettaPhilae_LR:pCube513
+    3300446: RosettaPhilae_LR:pCube514
+    3300448: RosettaPhilae_LR:pCube515
+    3300450: RosettaPhilae_LR:pCube516
+    3300452: RosettaPhilae_LR:pCube517
+    3300454: RosettaPhilae_LR:pCube518
+    3300456: RosettaPhilae_LR:pCube522
+    3300458: RosettaPhilae_LR:pCube523
+    3300460: RosettaPhilae_LR:pCube524
+    3300462: RosettaPhilae_LR:pCube525
+    3300464: RosettaPhilae_LR:pCube526
+    3300466: RosettaPhilae_LR:pCube527
+    3300468: RosettaPhilae_LR:pCube528
+    3300470: RosettaPhilae_LR:pCube529
+    3300472: RosettaPhilae_LR:pCube53
+    3300474: RosettaPhilae_LR:pCube53 1
+    3300476: RosettaPhilae_LR:pCube53 2
+    3300478: RosettaPhilae_LR:pCube530
+    3300480: RosettaPhilae_LR:pCube555
+    3300482: RosettaPhilae_LR:pCube556
+    3300484: RosettaPhilae_LR:pCube559
+    3300486: RosettaPhilae_LR:pCube57
+    3300488: RosettaPhilae_LR:pCube57 1
+    3300490: RosettaPhilae_LR:pCube57 2
+    3300492: RosettaPhilae_LR:pCube571
+    3300494: RosettaPhilae_LR:pCube572
+    3300496: RosettaPhilae_LR:pCube573
+    3300498: RosettaPhilae_LR:pCube58
+    3300500: RosettaPhilae_LR:pCube58 1
+    3300502: RosettaPhilae_LR:pCube58 2
+    3300504: RosettaPhilae_LR:pCube584
+    3300506: RosettaPhilae_LR:pCube585
+    3300508: RosettaPhilae_LR:pCube586
+    3300510: RosettaPhilae_LR:pCube587
+    3300512: RosettaPhilae_LR:pCube588
+    3300514: RosettaPhilae_LR:pCube589
+    3300516: RosettaPhilae_LR:pCube590
+    3300518: RosettaPhilae_LR:pCube591
+    3300520: RosettaPhilae_LR:pCube592
+    3300522: RosettaPhilae_LR:pCube9
+    3300524: RosettaPhilae_LR:pCube91
+    3300526: RosettaPhilae_LR:pCube91 1
+    3300528: RosettaPhilae_LR:pCube91 2
+    3300530: RosettaPhilae_LR:pCube93
+    3300532: RosettaPhilae_LR:pCube93 1
+    3300534: RosettaPhilae_LR:pCube93 2
+    3300536: RosettaPhilae_LR:pCube94
+    3300538: RosettaPhilae_LR:pCube94 1
+    3300540: RosettaPhilae_LR:pCube94 2
+    3300542: RosettaPhilae_LR:pCube95
+    3300544: RosettaPhilae_LR:pCube95 1
+    3300546: RosettaPhilae_LR:pCube95 2
+    3300548: RosettaPhilae_LR:pCube96
+    3300550: RosettaPhilae_LR:pCube96 1
+    3300552: RosettaPhilae_LR:pCube96 2
+    3300554: RosettaPhilae_LR:pCube98
+    3300556: RosettaPhilae_LR:pCube98 1
+    3300558: RosettaPhilae_LR:pCube98 2
+    3300560: RosettaPhilae_LR:pCube99
+    3300562: RosettaPhilae_LR:pCube99 1
+    3300564: RosettaPhilae_LR:pCube99 2
+    3300566: RosettaPhilae_LR:pCylinder100
+    3300568: RosettaPhilae_LR:pCylinder101
+    3300570: RosettaPhilae_LR:pCylinder103
+    3300572: RosettaPhilae_LR:pCylinder104
+    3300574: RosettaPhilae_LR:pCylinder105
+    3300576: RosettaPhilae_LR:pCylinder109
+    3300578: RosettaPhilae_LR:pCylinder112
+    3300580: RosettaPhilae_LR:pCylinder112 1
+    3300582: RosettaPhilae_LR:pCylinder112 2
+    3300584: RosettaPhilae_LR:pCylinder116
+    3300586: RosettaPhilae_LR:pCylinder116 1
+    3300588: RosettaPhilae_LR:pCylinder116 2
+    3300590: RosettaPhilae_LR:pCylinder127
+    3300592: RosettaPhilae_LR:pCylinder127 1
+    3300594: RosettaPhilae_LR:pCylinder127 2
+    3300596: RosettaPhilae_LR:pCylinder128
+    3300598: RosettaPhilae_LR:pCylinder128 1
+    3300600: RosettaPhilae_LR:pCylinder128 2
+    3300602: RosettaPhilae_LR:pCylinder153
+    3300604: RosettaPhilae_LR:pCylinder153 1
+    3300606: RosettaPhilae_LR:pCylinder153 2
+    3300608: RosettaPhilae_LR:pCylinder155
+    3300610: RosettaPhilae_LR:pCylinder156
+    3300612: RosettaPhilae_LR:pCylinder158
+    3300614: RosettaPhilae_LR:pCylinder158 1
+    3300616: RosettaPhilae_LR:pCylinder158 2
+    3300618: RosettaPhilae_LR:pCylinder159
+    3300620: RosettaPhilae_LR:pCylinder159 1
+    3300622: RosettaPhilae_LR:pCylinder159 2
+    3300624: RosettaPhilae_LR:pCylinder159 3
+    3300626: RosettaPhilae_LR:pCylinder160
+    3300628: RosettaPhilae_LR:pCylinder161
+    3300630: RosettaPhilae_LR:pCylinder163
+    3300632: RosettaPhilae_LR:pCylinder164
+    3300634: RosettaPhilae_LR:pCylinder166
+    3300636: RosettaPhilae_LR:pCylinder167
+    3300638: RosettaPhilae_LR:pCylinder168
+    3300640: RosettaPhilae_LR:pCylinder169
+    3300642: RosettaPhilae_LR:pCylinder170
+    3300644: RosettaPhilae_LR:pCylinder171
+    3300646: RosettaPhilae_LR:pCylinder172
+    3300648: RosettaPhilae_LR:pCylinder173
+    3300650: RosettaPhilae_LR:pCylinder174
+    3300652: RosettaPhilae_LR:pCylinder175
+    3300654: RosettaPhilae_LR:pCylinder176
+    3300656: RosettaPhilae_LR:pCylinder177
+    3300658: RosettaPhilae_LR:pCylinder178
+    3300660: RosettaPhilae_LR:pCylinder179
+    3300662: RosettaPhilae_LR:pCylinder18
+    3300664: RosettaPhilae_LR:pCylinder18 1
+    3300666: RosettaPhilae_LR:pCylinder180
+    3300668: RosettaPhilae_LR:pCylinder181
+    3300670: RosettaPhilae_LR:pCylinder186
+    3300672: RosettaPhilae_LR:pCylinder187
+    3300674: RosettaPhilae_LR:pCylinder188
+    3300676: RosettaPhilae_LR:pCylinder189
+    3300678: RosettaPhilae_LR:pCylinder19
+    3300680: RosettaPhilae_LR:pCylinder190
+    3300682: RosettaPhilae_LR:pCylinder191
+    3300684: RosettaPhilae_LR:pCylinder20
+    3300686: RosettaPhilae_LR:pCylinder207
+    3300688: RosettaPhilae_LR:pCylinder208
+    3300690: RosettaPhilae_LR:pCylinder209
+    3300692: RosettaPhilae_LR:pCylinder210
+    3300694: RosettaPhilae_LR:pCylinder211
+    3300696: RosettaPhilae_LR:pCylinder212
+    3300698: RosettaPhilae_LR:pCylinder213
+    3300700: RosettaPhilae_LR:pCylinder214
+    3300702: RosettaPhilae_LR:pCylinder215
+    3300704: RosettaPhilae_LR:pCylinder218
+    3300706: RosettaPhilae_LR:pCylinder219
+    3300708: RosettaPhilae_LR:pCylinder222
+    3300710: RosettaPhilae_LR:pCylinder223
+    3300712: RosettaPhilae_LR:pCylinder225
+    3300714: RosettaPhilae_LR:pCylinder226
+    3300716: RosettaPhilae_LR:pCylinder227
+    3300718: RosettaPhilae_LR:pCylinder231
+    3300720: RosettaPhilae_LR:pCylinder232
+    3300722: RosettaPhilae_LR:pCylinder235
+    3300724: RosettaPhilae_LR:pCylinder236
+    3300726: RosettaPhilae_LR:pCylinder238
+    3300728: RosettaPhilae_LR:pCylinder239
+    3300730: RosettaPhilae_LR:pCylinder240
+    3300732: RosettaPhilae_LR:pCylinder256
+    3300734: RosettaPhilae_LR:pCylinder260
+    3300736: RosettaPhilae_LR:pCylinder28
+    3300738: RosettaPhilae_LR:pCylinder405
+    3300740: RosettaPhilae_LR:pCylinder406
+    3300742: RosettaPhilae_LR:pCylinder407
+    3300744: RosettaPhilae_LR:pCylinder408
+    3300746: RosettaPhilae_LR:pCylinder409
+    3300748: RosettaPhilae_LR:pCylinder410
+    3300750: RosettaPhilae_LR:pCylinder411
+    3300752: RosettaPhilae_LR:pCylinder412
+    3300754: RosettaPhilae_LR:pCylinder413
+    3300756: RosettaPhilae_LR:pCylinder413 1
+    3300758: RosettaPhilae_LR:pCylinder413 2
+    3300760: RosettaPhilae_LR:pCylinder414
+    3300762: RosettaPhilae_LR:pCylinder415
+    3300764: RosettaPhilae_LR:pCylinder416
+    3300766: RosettaPhilae_LR:pCylinder416 1
+    3300768: RosettaPhilae_LR:pCylinder416 2
+    3300770: RosettaPhilae_LR:pCylinder416 3
+    3300772: RosettaPhilae_LR:pCylinder418
+    3300774: RosettaPhilae_LR:pCylinder419
+    3300776: RosettaPhilae_LR:pCylinder422
+    3300778: RosettaPhilae_LR:pCylinder423
+    3300780: RosettaPhilae_LR:pCylinder424
+    3300782: RosettaPhilae_LR:pCylinder425
+    3300784: RosettaPhilae_LR:pCylinder426
+    3300786: RosettaPhilae_LR:pCylinder427
+    3300788: RosettaPhilae_LR:pCylinder428
+    3300790: RosettaPhilae_LR:pCylinder429
+    3300792: RosettaPhilae_LR:pCylinder430
+    3300794: RosettaPhilae_LR:pCylinder431
+    3300796: RosettaPhilae_LR:pCylinder432
+    3300798: RosettaPhilae_LR:pCylinder433
+    3300800: RosettaPhilae_LR:pCylinder434
+    3300802: RosettaPhilae_LR:pCylinder435
+    3300804: RosettaPhilae_LR:pCylinder63
+    3300806: RosettaPhilae_LR:pCylinder68
+    3300808: RosettaPhilae_LR:pCylinder68 1
+    3300810: RosettaPhilae_LR:pCylinder68 2
+    3300812: RosettaPhilae_LR:pCylinder71
+    3300814: RosettaPhilae_LR:pCylinder71 1
+    3300816: RosettaPhilae_LR:pCylinder71 2
+    3300818: RosettaPhilae_LR:pCylinder72
+    3300820: RosettaPhilae_LR:pCylinder72 1
+    3300822: RosettaPhilae_LR:pCylinder72 2
+    3300824: RosettaPhilae_LR:pCylinder95
+    3300826: RosettaPhilae_LR:pCylinder99
+    3300828: RosettaPhilae_LR:polySurface1
+    3300830: RosettaPhilae_LR:polySurface1 1
+    3300832: RosettaPhilae_LR:polySurface1 2
+    3300834: RosettaPhilae_LR:polySurface105
+    3300836: RosettaPhilae_LR:polySurface105 1
+    3300838: RosettaPhilae_LR:polySurface105 2
+    3300840: RosettaPhilae_LR:polySurface12
+    3300842: RosettaPhilae_LR:polySurface122
+    3300844: RosettaPhilae_LR:polySurface122 1
+    3300846: RosettaPhilae_LR:polySurface122 2
+    3300848: RosettaPhilae_LR:polySurface125
+    3300850: RosettaPhilae_LR:polySurface125 1
+    3300852: RosettaPhilae_LR:polySurface125 2
+    3300854: RosettaPhilae_LR:polySurface13
+    3300856: RosettaPhilae_LR:polySurface14
+    3300858: RosettaPhilae_LR:polySurface141
+    3300860: RosettaPhilae_LR:polySurface141 1
+    3300862: RosettaPhilae_LR:polySurface141 2
+    3300864: RosettaPhilae_LR:polySurface15
+    3300866: RosettaPhilae_LR:polySurface162
+    3300868: RosettaPhilae_LR:polySurface162 1
+    3300870: RosettaPhilae_LR:polySurface162 2
+    3300872: RosettaPhilae_LR:polySurface17
+    3300874: RosettaPhilae_LR:polySurface170
+    3300876: RosettaPhilae_LR:polySurface170 1
+    3300878: RosettaPhilae_LR:polySurface170 2
+    3300880: RosettaPhilae_LR:polySurface171
+    3300882: RosettaPhilae_LR:polySurface171 1
+    3300884: RosettaPhilae_LR:polySurface171 2
+    3300886: RosettaPhilae_LR:polySurface172
+    3300888: RosettaPhilae_LR:polySurface172 1
+    3300890: RosettaPhilae_LR:polySurface172 2
+    3300892: RosettaPhilae_LR:polySurface173
+    3300894: RosettaPhilae_LR:polySurface173 1
+    3300896: RosettaPhilae_LR:polySurface173 2
+    3300898: RosettaPhilae_LR:polySurface18
+    3300900: RosettaPhilae_LR:polySurface190
+    3300902: RosettaPhilae_LR:polySurface190 1
+    3300904: RosettaPhilae_LR:polySurface190 2
+    3300906: RosettaPhilae_LR:polySurface191
+    3300908: RosettaPhilae_LR:polySurface191 1
+    3300910: RosettaPhilae_LR:polySurface191 2
+    3300912: RosettaPhilae_LR:polySurface192
+    3300914: RosettaPhilae_LR:polySurface192 1
+    3300916: RosettaPhilae_LR:polySurface192 2
+    3300918: RosettaPhilae_LR:polySurface193
+    3300920: RosettaPhilae_LR:polySurface193 1
+    3300922: RosettaPhilae_LR:polySurface193 2
+    3300924: RosettaPhilae_LR:polySurface209
+    3300926: RosettaPhilae_LR:polySurface209 1
+    3300928: RosettaPhilae_LR:polySurface209 2
+    3300930: RosettaPhilae_LR:polySurface219
+    3300932: RosettaPhilae_LR:polySurface219 1
+    3300934: RosettaPhilae_LR:polySurface220
+    3300936: RosettaPhilae_LR:polySurface220 1
+    3300938: RosettaPhilae_LR:polySurface221
+    3300940: RosettaPhilae_LR:polySurface225
+    3300942: RosettaPhilae_LR:polySurface225 1
+    3300944: RosettaPhilae_LR:polySurface226
+    3300946: RosettaPhilae_LR:polySurface226 1
+    3300948: RosettaPhilae_LR:polySurface227
+    3300950: RosettaPhilae_LR:polySurface248
+    3300952: RosettaPhilae_LR:polySurface248 1
+    3300954: RosettaPhilae_LR:polySurface248 2
+    3300956: RosettaPhilae_LR:polySurface249
+    3300958: RosettaPhilae_LR:polySurface249 1
+    3300960: RosettaPhilae_LR:polySurface249 2
+    3300962: RosettaPhilae_LR:polySurface25
+    3300964: RosettaPhilae_LR:polySurface2593
+    3300966: RosettaPhilae_LR:polySurface2662
+    3300968: RosettaPhilae_LR:polySurface2663
+    3300970: RosettaPhilae_LR:polySurface2664
+    3300972: RosettaPhilae_LR:polySurface2665
+    3300974: RosettaPhilae_LR:polySurface2666
+    3300976: RosettaPhilae_LR:polySurface2667
+    3300978: RosettaPhilae_LR:polySurface2673
+    3300980: RosettaPhilae_LR:polySurface2676
+    3300982: RosettaPhilae_LR:polySurface2677
+    3300984: RosettaPhilae_LR:polySurface2679
+    3300986: RosettaPhilae_LR:polySurface2680
+    3300988: RosettaPhilae_LR:polySurface2681
+    3300990: RosettaPhilae_LR:polySurface2682
+    3300992: RosettaPhilae_LR:polySurface2683
+    3300994: RosettaPhilae_LR:polySurface2684
+    3300996: RosettaPhilae_LR:polySurface2686
+    3300998: RosettaPhilae_LR:polySurface2713
+    3301000: RosettaPhilae_LR:polySurface2722
+    3301002: RosettaPhilae_LR:polySurface2723
+    3301004: RosettaPhilae_LR:polySurface2725
+    3301006: RosettaPhilae_LR:polySurface2726
+    3301008: RosettaPhilae_LR:polySurface2727
+    3301010: RosettaPhilae_LR:polySurface2728
+    3301012: RosettaPhilae_LR:polySurface2729
+    3301014: RosettaPhilae_LR:polySurface2730
+    3301016: RosettaPhilae_LR:polySurface2731
+    3301018: RosettaPhilae_LR:polySurface2732
+    3301020: RosettaPhilae_LR:polySurface2733
+    3301022: RosettaPhilae_LR:polySurface2734
+    3301024: RosettaPhilae_LR:polySurface2737
+    3301026: RosettaPhilae_LR:polySurface2738
+    3301028: RosettaPhilae_LR:polySurface2748
+    3301030: RosettaPhilae_LR:polySurface2749
+    3301032: RosettaPhilae_LR:polySurface2750
+    3301034: RosettaPhilae_LR:polySurface2751
+    3301036: RosettaPhilae_LR:polySurface2752
+    3301038: RosettaPhilae_LR:polySurface2753
+    3301040: RosettaPhilae_LR:polySurface2754
+    3301042: RosettaPhilae_LR:polySurface2758
+    3301044: RosettaPhilae_LR:polySurface2759
+    3301046: RosettaPhilae_LR:polySurface2762
+    3301048: RosettaPhilae_LR:polySurface2777
+    3301050: RosettaPhilae_LR:polySurface2778
+    3301052: RosettaPhilae_LR:polySurface2779
+    3301054: RosettaPhilae_LR:polySurface2780
+    3301056: RosettaPhilae_LR:polySurface2781
+    3301058: RosettaPhilae_LR:polySurface2782
+    3301060: RosettaPhilae_LR:polySurface2783
+    3301062: RosettaPhilae_LR:polySurface2784
+    3301064: RosettaPhilae_LR:polySurface2785
+    3301066: RosettaPhilae_LR:polySurface2786
+    3301068: RosettaPhilae_LR:polySurface2787
+    3301070: RosettaPhilae_LR:polySurface2788
+    3301072: RosettaPhilae_LR:polySurface2789
+    3301074: RosettaPhilae_LR:polySurface2790
+    3301076: RosettaPhilae_LR:polySurface2791
+    3301078: RosettaPhilae_LR:polySurface2792
+    3301080: RosettaPhilae_LR:polySurface2794
+    3301082: RosettaPhilae_LR:polySurface31
+    3301084: RosettaPhilae_LR:polySurface36
+    3301086: RosettaPhilae_LR:polySurface38
+    3301088: RosettaPhilae_LR:polySurface3835
+    3301090: RosettaPhilae_LR:polySurface4
+    3301092: RosettaPhilae_LR:polySurface4084
+    3301094: RosettaPhilae_LR:polySurface4309
+    3301096: RosettaPhilae_LR:polySurface4314
+    3301098: RosettaPhilae_LR:polySurface4314 1
+    3301100: RosettaPhilae_LR:polySurface4315
+    3301102: RosettaPhilae_LR:polySurface4315 1
+    3301104: RosettaPhilae_LR:polySurface4316
+    3301106: RosettaPhilae_LR:polySurface4316 1
+    3301108: RosettaPhilae_LR:polySurface4317
+    3301110: RosettaPhilae_LR:polySurface4317 1
+    3301112: RosettaPhilae_LR:polySurface4318
+    3301114: RosettaPhilae_LR:polySurface4318 1
+    3301116: RosettaPhilae_LR:polySurface4319
+    3301118: RosettaPhilae_LR:polySurface4319 1
+    3301120: RosettaPhilae_LR:polySurface4319 2
+    3301122: RosettaPhilae_LR:polySurface4319 3
+    3301124: RosettaPhilae_LR:polySurface4319 4
+    3301126: RosettaPhilae_LR:polySurface4319 5
+    3301128: RosettaPhilae_LR:polySurface4319 6
+    3301130: RosettaPhilae_LR:polySurface4319 7
+    3301132: RosettaPhilae_LR:polySurface4323
+    3301134: RosettaPhilae_LR:polySurface4323 1
+    3301136: RosettaPhilae_LR:polySurface4324
+    3301138: RosettaPhilae_LR:polySurface4324 1
+    3301140: RosettaPhilae_LR:polySurface4329
+    3301142: RosettaPhilae_LR:polySurface4329 1
+    3301144: RosettaPhilae_LR:polySurface4329 2
+    3301146: RosettaPhilae_LR:polySurface4329 3
+    3301148: RosettaPhilae_LR:polySurface4329 4
+    3301150: RosettaPhilae_LR:polySurface4329 5
+    3301152: RosettaPhilae_LR:polySurface4329 6
+    3301154: RosettaPhilae_LR:polySurface4329 7
+    3301156: RosettaPhilae_LR:polySurface4333
+    3301158: RosettaPhilae_LR:polySurface4334
+    3301160: RosettaPhilae_LR:polySurface4335
+    3301162: RosettaPhilae_LR:polySurface4337
+    3301164: RosettaPhilae_LR:polySurface4338
+    3301166: RosettaPhilae_LR:polySurface4339
+    3301168: RosettaPhilae_LR:polySurface4340
+    3301170: RosettaPhilae_LR:polySurface4342
+    3301172: RosettaPhilae_LR:polySurface4343
+    3301174: RosettaPhilae_LR:polySurface4344
+    3301176: RosettaPhilae_LR:polySurface4344 1
+    3301178: RosettaPhilae_LR:polySurface4345
+    3301180: RosettaPhilae_LR:polySurface4345 1
+    3301182: RosettaPhilae_LR:polySurface4346
+    3301184: RosettaPhilae_LR:polySurface4346 1
+    3301186: RosettaPhilae_LR:polySurface4347
+    3301188: RosettaPhilae_LR:polySurface4347 1
+    3301190: RosettaPhilae_LR:polySurface4348
+    3301192: RosettaPhilae_LR:polySurface4349
+    3301194: RosettaPhilae_LR:polySurface4350
+    3301196: RosettaPhilae_LR:polySurface4351
+    3301198: RosettaPhilae_LR:polySurface4352
+    3301200: RosettaPhilae_LR:polySurface4353
+    3301202: RosettaPhilae_LR:polySurface4354
+    3301204: RosettaPhilae_LR:polySurface4357
+    3301206: RosettaPhilae_LR:polySurface4358
+    3301208: RosettaPhilae_LR:polySurface4361
+    3301210: RosettaPhilae_LR:polySurface4365
+    3301212: RosettaPhilae_LR:polySurface4366
+    3301214: RosettaPhilae_LR:polySurface4366 1
+    3301216: RosettaPhilae_LR:polySurface4366 2
+    3301218: RosettaPhilae_LR:polySurface4366 3
+    3301220: RosettaPhilae_LR:polySurface4367
+    3301222: RosettaPhilae_LR:polySurface4368
+    3301224: RosettaPhilae_LR:polySurface4372
+    3301226: RosettaPhilae_LR:polySurface4374
+    3301228: RosettaPhilae_LR:polySurface4375
+    3301230: RosettaPhilae_LR:polySurface4376
+    3301232: RosettaPhilae_LR:polySurface4377
+    3301234: RosettaPhilae_LR:polySurface4378
+    3301236: RosettaPhilae_LR:polySurface4379
+    3301238: RosettaPhilae_LR:polySurface4380
+    3301240: RosettaPhilae_LR:polySurface4380 1
+    3301242: RosettaPhilae_LR:polySurface4381
+    3301244: RosettaPhilae_LR:polySurface4384
+    3301246: RosettaPhilae_LR:polySurface4385
+    3301248: RosettaPhilae_LR:polySurface4386
+    3301250: RosettaPhilae_LR:polySurface4387
+    3301252: RosettaPhilae_LR:polySurface4387 1
+    3301254: RosettaPhilae_LR:polySurface4387 2
+    3301256: RosettaPhilae_LR:polySurface4387 3
+    3301258: RosettaPhilae_LR:polySurface4389
+    3301260: RosettaPhilae_LR:polySurface4389 1
+    3301262: RosettaPhilae_LR:polySurface4389 2
+    3301264: RosettaPhilae_LR:polySurface4389 3
+    3301266: RosettaPhilae_LR:polySurface4399
+    3301268: RosettaPhilae_LR:polySurface4400
+    3301270: RosettaPhilae_LR:polySurface4401
+    3301272: RosettaPhilae_LR:polySurface4402
+    3301274: RosettaPhilae_LR:polySurface4403
+    3301276: RosettaPhilae_LR:polySurface4404
+    3301278: RosettaPhilae_LR:polySurface4404 1
+    3301280: RosettaPhilae_LR:polySurface4404 2
+    3301282: RosettaPhilae_LR:polySurface4405
+    3301284: RosettaPhilae_LR:polySurface4412
+    3301286: RosettaPhilae_LR:polySurface4413
+    3301288: RosettaPhilae_LR:polySurface6
+    3301290: RosettaPhilae_LR:polySurface68
+    3301292: RosettaPhilae_LR:polySurface68 1
+    3301294: RosettaPhilae_LR:polySurface68 2
+    3301296: RosettaPhilae_LR:polySurface756
+    3301298: RosettaPhilae_LR:polySurface758
+    3301300: RosettaPhilae_LR:polySurface760
+    3301302: RosettaPhilae_LR:polySurface762
+    3301304: RosettaPhilae_LR:polySurface763
+    3301306: RosettaPhilae_LR:polySurface764
+    3301308: RosettaPhilae_LR:polySurface765
+    3301310: RosettaPhilae_LR:polySurface766
+    3301312: RosettaPhilae_LR:polySurface768
+    3301314: RosettaPhilae_LR:polySurface769
+    3301316: RosettaPhilae_LR:polySurface770
+    3301318: RosettaPhilae_LR:polySurface771
+    3301320: RosettaPhilae_LR:polySurface771 1
+    3301322: RosettaPhilae_LR:polySurface771 2
+    3301324: RosettaPhilae_LR:polySurface771 3
+    3301326: RosettaPhilae_LR:polySurface772
+    3301328: RosettaPhilae_LR:polySurface772 1
+    3301330: RosettaPhilae_LR:polySurface772 2
+    3301332: RosettaPhilae_LR:polySurface773
+    3301334: RosettaPhilae_LR:polySurface773 1
+    3301336: RosettaPhilae_LR:polySurface773 2
+    3301338: RosettaPhilae_LR:polySurface773 3
+    3301340: RosettaPhilae_LR:polySurface775
+    3301342: RosettaPhilae_LR:polySurface78
+    3301344: RosettaPhilae_LR:polySurface78 1
+    3301346: RosettaPhilae_LR:polySurface78 2
+    3301348: RosettaPhilae_LR:polySurface780
+    3301350: RosettaPhilae_LR:polySurface783
+    3301352: RosettaPhilae_LR:polySurface785
+    3301354: RosettaPhilae_LR:polySurface786
+    3301356: RosettaPhilae_LR:polySurface787
+    3301358: RosettaPhilae_LR:polySurface788
+    3301360: RosettaPhilae_LR:polySurface790
+    3301362: RosettaPhilae_LR:polySurface796
+    3301364: RosettaPhilae_LR:polySurface797
+    3301366: RosettaPhilae_LR:polySurface798
+    3301368: RosettaPhilae_LR:polySurface799
+    3301370: RosettaPhilae_LR:polySurface80
+    3301372: RosettaPhilae_LR:polySurface80 1
+    3301374: RosettaPhilae_LR:polySurface80 2
+    3301376: RosettaPhilae_LR:polySurface800
+    3301378: RosettaPhilae_LR:polySurface801
+    3301380: RosettaPhilae_LR:polySurface803
+    3301382: RosettaPhilae_LR:polySurface806
+    3301384: RosettaPhilae_LR:polySurface808
+    3301386: RosettaPhilae_LR:polySurface810
+    3301388: RosettaPhilae_LR:polySurface811
+    3301390: RosettaPhilae_LR:polySurface823
+    3301392: RosettaPhilae_LR:polySurface824
+    3301394: RosettaPhilae_LR:polySurface825
+    3301396: RosettaPhilae_LR:polySurface826
+    3301398: RosettaPhilae_LR:polySurface827
+    3301400: RosettaPhilae_LR:polySurface828
+    3301402: RosettaPhilae_LR:polySurface829
+    3301404: RosettaPhilae_LR:polySurface830
+    3301406: RosettaPhilae_LR:polySurface834
+    3301408: RosettaPhilae_LR:polySurface835
+    3301410: RosettaPhilae_LR:polySurface840
+    3301412: RosettaPhilae_LR:polySurface841
+    3301414: RosettaPhilae_LR:polySurface842
+    3301416: RosettaPhilae_LR:polySurface843
+    3301418: RosettaPhilae_LR:polySurface844
+    3301420: RosettaPhilae_LR:polySurface87
+    3301422: RosettaPhilae_LR:polySurface87 1
+    3301424: RosettaPhilae_LR:polySurface87 2
+    3301426: RosettaPhilae_LR:polySurface88
+    3301428: RosettaPhilae_LR:polySurface88 1
+    3301430: RosettaPhilae_LR:polySurface88 2
+    3301432: RosettaPhilae_LR:polySurface94
+    3301434: RosettaPhilae_LR:polySurface94 1
+    3301436: RosettaPhilae_LR:polySurface94 2
+    3301438: RosettaPhilae_LR:polySurface95
+    3301440: RosettaPhilae_LR:polySurface95 1
+    3301442: RosettaPhilae_LR:polySurface95 2
+    3301444: RosettaPhilae_LR:polySurface971
+    3301446: RosettaPhilae_LR:polySurface977
+    3301448: RosettaPhilae_LR:polySurface978
+    3301450: RosettaPhilae_LR:polySurface98
+    3301452: RosettaPhilae_LR:polySurface98 1
+    3301454: RosettaPhilae_LR:polySurface98 2
+    3301456: RosettaPhilae_LR:polySurface99
+    3301458: RosettaPhilae_LR:polySurface99 1
+    3301460: RosettaPhilae_LR:polySurface99 2
+    3301462: RosettaPhilae_LR:polySurface990
+    3301464: RosettaPhilae_LR:pSphere18
+    3301466: RosettaPhilae_LR:pSphere19
+    3301468: RosettaPhilae_LR:pSphere20
+    3301470: RosettaPhilae_LR:pSphere21
+    3301472: RosettaPhilae_LR:pTorus1
+    3301474: RosettaPhilae_LR:side1
+    3301476: RosettaPhilae_LR:side2
+    3301478: RosettaPhilae_LR:topPlate
+    4300000: RosettaPhilae_LR:polySurface219
+    4300002: RosettaPhilae_LR:polySurface220
+    4300004: RosettaPhilae_LR:polySurface226
+    4300006: RosettaPhilae_LR:polySurface221
+    4300008: RosettaPhilae_LR:polySurface225
+    4300010: RosettaPhilae_LR:polySurface227
+    4300012: RosettaPhilae_LR:pCube111
+    4300014: RosettaPhilae_LR:polySurface219
+    4300016: RosettaPhilae_LR:polySurface220
+    4300018: RosettaPhilae_LR:polySurface226
+    4300020: RosettaPhilae_LR:polySurface225
+    4300022: RosettaPhilae_LR:pCube110
+    4300024: RosettaPhilae_LR:pCube559
+    4300026: RosettaPhilae_LR:polySurface971
+    4300028: RosettaPhilae_LR:pCube505
+    4300030: RosettaPhilae_LR:pCube506
+    4300032: RosettaPhilae_LR:pCylinder156
+    4300034: RosettaPhilae_LR:polySurface756
+    4300036: RosettaPhilae_LR:pCylinder159
+    4300038: RosettaPhilae_LR:polySurface770
+    4300040: RosettaPhilae_LR:pCylinder164
+    4300042: RosettaPhilae_LR:polySurface771
+    4300044: RosettaPhilae_LR:pCylinder161
+    4300046: RosettaPhilae_LR:polySurface763
+    4300048: RosettaPhilae_LR:polySurface762
+    4300050: RosettaPhilae_LR:pCylinder160
+    4300052: RosettaPhilae_LR:polySurface758
+    4300054: RosettaPhilae_LR:polySurface760
+    4300056: RosettaPhilae_LR:pCylinder170
+    4300058: RosettaPhilae_LR:polySurface796
+    4300060: RosettaPhilae_LR:polySurface797
+    4300062: RosettaPhilae_LR:pCylinder171
+    4300064: RosettaPhilae_LR:polySurface798
+    4300066: RosettaPhilae_LR:polySurface799
+    4300068: RosettaPhilae_LR:polySurface764
+    4300070: RosettaPhilae_LR:polySurface765
+    4300072: RosettaPhilae_LR:polySurface766
+    4300074: RosettaPhilae_LR:polySurface768
+    4300076: RosettaPhilae_LR:pCylinder163
+    4300078: RosettaPhilae_LR:polySurface773
+    4300080: RosettaPhilae_LR:polySurface775
+    4300082: RosettaPhilae_LR:polySurface800
+    4300084: RosettaPhilae_LR:polySurface801
+    4300086: RosettaPhilae_LR:pCylinder172
+    4300088: RosettaPhilae_LR:pCylinder173
+    4300090: RosettaPhilae_LR:polySurface769
+    4300092: RosettaPhilae_LR:polySurface803
+    4300094: RosettaPhilae_LR:polySurface806
+    4300096: RosettaPhilae_LR:pCylinder174
+    4300098: RosettaPhilae_LR:pCylinder175
+    4300100: RosettaPhilae_LR:polySurface780
+    4300102: RosettaPhilae_LR:pCylinder166
+    4300104: RosettaPhilae_LR:polySurface783
+    4300106: RosettaPhilae_LR:pCylinder167
+    4300108: RosettaPhilae_LR:pCylinder168
+    4300110: RosettaPhilae_LR:polySurface785
+    4300112: RosettaPhilae_LR:polySurface786
+    4300114: RosettaPhilae_LR:pCylinder169
+    4300116: RosettaPhilae_LR:polySurface787
+    4300118: RosettaPhilae_LR:polySurface788
+    4300120: RosettaPhilae_LR:polySurface790
+    4300122: RosettaPhilae_LR:polySurface808
+    4300124: RosettaPhilae_LR:polySurface810
+    4300126: RosettaPhilae_LR:polySurface811
+    4300128: RosettaPhilae_LR:polySurface977
+    4300130: RosettaPhilae_LR:polySurface978
+    4300132: RosettaPhilae_LR:polySurface2662
+    4300134: RosettaPhilae_LR:pCylinder207
+    4300136: RosettaPhilae_LR:polySurface2663
+    4300138: RosettaPhilae_LR:polySurface2664
+    4300140: RosettaPhilae_LR:pCylinder208
+    4300142: RosettaPhilae_LR:polySurface2665
+    4300144: RosettaPhilae_LR:polySurface2666
+    4300146: RosettaPhilae_LR:polySurface2667
+    4300148: RosettaPhilae_LR:polySurface2673
+    4300150: RosettaPhilae_LR:pCylinder209
+    4300152: RosettaPhilae_LR:pCylinder210
+    4300154: RosettaPhilae_LR:polySurface2676
+    4300156: RosettaPhilae_LR:polySurface2677
+    4300158: RosettaPhilae_LR:pCylinder211
+    4300160: RosettaPhilae_LR:pCylinder212
+    4300162: RosettaPhilae_LR:polySurface2679
+    4300164: RosettaPhilae_LR:pCylinder213
+    4300166: RosettaPhilae_LR:polySurface2680
+    4300168: RosettaPhilae_LR:pCylinder214
+    4300170: RosettaPhilae_LR:polySurface2681
+    4300172: RosettaPhilae_LR:polySurface2682
+    4300174: RosettaPhilae_LR:pCylinder215
+    4300176: RosettaPhilae_LR:polySurface2683
+    4300178: RosettaPhilae_LR:polySurface2684
+    4300180: RosettaPhilae_LR:polySurface2686
+    4300182: RosettaPhilae_LR:pCube507
+    4300184: RosettaPhilae_LR:pCube509
+    4300186: RosettaPhilae_LR:pCube518
+    4300188: RosettaPhilae_LR:pCylinder186
+    4300190: RosettaPhilae_LR:polySurface843
+    4300192: RosettaPhilae_LR:polySurface844
+    4300194: RosettaPhilae_LR:pCylinder187
+    4300196: RosettaPhilae_LR:pCylinder188
+    4300198: RosettaPhilae_LR:pCube522
+    4300200: RosettaPhilae_LR:pCylinder189
+    4300202: RosettaPhilae_LR:pCylinder190
+    4300204: RosettaPhilae_LR:pCylinder191
+    4300206: RosettaPhilae_LR:pCube523
+    4300208: RosettaPhilae_LR:pCube524
+    4300210: RosettaPhilae_LR:pCube525
+    4300212: RosettaPhilae_LR:pCube526
+    4300214: RosettaPhilae_LR:pCube527
+    4300216: RosettaPhilae_LR:pCube528
+    4300218: RosettaPhilae_LR:pCube529
+    4300220: RosettaPhilae_LR:polySurface990
+    4300222: RosettaPhilae_LR:pCube530
+    4300224: RosettaPhilae_LR:pCube510
+    4300226: RosettaPhilae_LR:pCylinder177
+    4300228: RosettaPhilae_LR:polySurface823
+    4300230: RosettaPhilae_LR:polySurface824
+    4300232: RosettaPhilae_LR:polySurface826
+    4300234: RosettaPhilae_LR:polySurface827
+    4300236: RosettaPhilae_LR:polySurface828
+    4300238: RosettaPhilae_LR:polySurface830
+    4300240: RosettaPhilae_LR:polySurface825
+    4300242: RosettaPhilae_LR:polySurface829
+    4300244: RosettaPhilae_LR:pCube511
+    4300246: RosettaPhilae_LR:pCube512
+    4300248: RosettaPhilae_LR:polySurface841
+    4300250: RosettaPhilae_LR:polySurface842
+    4300252: RosettaPhilae_LR:pCube514
+    4300254: RosettaPhilae_LR:pCylinder178
+    4300256: RosettaPhilae_LR:pCube513
+    4300258: RosettaPhilae_LR:pCylinder176
+    4300260: RosettaPhilae_LR:pCylinder179
+    4300262: RosettaPhilae_LR:pCube516
+    4300264: RosettaPhilae_LR:pCube515
+    4300266: RosettaPhilae_LR:pCylinder180
+    4300268: RosettaPhilae_LR:pCylinder181
+    4300270: RosettaPhilae_LR:pCube517
+    4300272: RosettaPhilae_LR:polySurface834
+    4300274: RosettaPhilae_LR:polySurface840
+    4300276: RosettaPhilae_LR:polySurface835
+    4300278: RosettaPhilae_LR:pCylinder260
+    4300280: RosettaPhilae_LR:pSphere18
+    4300282: RosettaPhilae_LR:polySurface4400
+    4300284: RosettaPhilae_LR:pCylinder155
+    4300286: RosettaPhilae_LR:polySurface4399
+    4300288: RosettaPhilae_LR:pCube592
+    4300290: RosettaPhilae_LR:polySurface4401
+    4300292: RosettaPhilae_LR:polySurface15
+    4300294: RosettaPhilae_LR:polySurface31
+    4300296: RosettaPhilae_LR:polySurface13
+    4300298: RosettaPhilae_LR:polySurface14
+    4300300: RosettaPhilae_LR:polySurface36
+    4300302: RosettaPhilae_LR:polySurface17
+    4300304: RosettaPhilae_LR:pCylinder63
+    4300306: RosettaPhilae_LR:polySurface4
+    4300308: RosettaPhilae_LR:pCube33
+    4300310: RosettaPhilae_LR:pCylinder95
+    4300312: RosettaPhilae_LR:pCylinder99
+    4300314: RosettaPhilae_LR:pCylinder100
+    4300316: RosettaPhilae_LR:pCylinder101
+    4300318: RosettaPhilae_LR:pCylinder103
+    4300320: RosettaPhilae_LR:pCylinder109
+    4300322: RosettaPhilae_LR:polySurface18
+    4300324: RosettaPhilae_LR:polySurface25
+    4300326: RosettaPhilae_LR:pCylinder105
+    4300328: RosettaPhilae_LR:pCylinder104
+    4300330: RosettaPhilae_LR:polySurface38
+    4300332: RosettaPhilae_LR:polySurface2789
+    4300334: RosettaPhilae_LR:polySurface2790
+    4300336: RosettaPhilae_LR:polySurface2791
+    4300338: RosettaPhilae_LR:polySurface2792
+    4300340: RosettaPhilae_LR:polySurface2794
+    4300342: RosettaPhilae_LR:polySurface12
+    4300344: RosettaPhilae_LR:polySurface6
+    4300346: RosettaPhilae_LR:polySurface2713
+    4300348: RosettaPhilae_LR:polySurface2722
+    4300350: RosettaPhilae_LR:polySurface2723
+    4300352: RosettaPhilae_LR:polySurface2725
+    4300354: RosettaPhilae_LR:polySurface2726
+    4300356: RosettaPhilae_LR:polySurface2727
+    4300358: RosettaPhilae_LR:polySurface2728
+    4300360: RosettaPhilae_LR:pCylinder218
+    4300362: RosettaPhilae_LR:polySurface2729
+    4300364: RosettaPhilae_LR:polySurface2730
+    4300366: RosettaPhilae_LR:pCube555
+    4300368: RosettaPhilae_LR:pCylinder219
+    4300370: RosettaPhilae_LR:pCylinder222
+    4300372: RosettaPhilae_LR:pCylinder223
+    4300374: RosettaPhilae_LR:pCylinder225
+    4300376: RosettaPhilae_LR:pCylinder226
+    4300378: RosettaPhilae_LR:polySurface2731
+    4300380: RosettaPhilae_LR:polySurface2732
+    4300382: RosettaPhilae_LR:polySurface2733
+    4300384: RosettaPhilae_LR:pCylinder227
+    4300386: RosettaPhilae_LR:polySurface2734
+    4300388: RosettaPhilae_LR:polySurface2783
+    4300390: RosettaPhilae_LR:polySurface2784
+    4300392: RosettaPhilae_LR:polySurface2785
+    4300394: RosettaPhilae_LR:polySurface2786
+    4300396: RosettaPhilae_LR:polySurface2787
+    4300398: RosettaPhilae_LR:polySurface2788
+    4300400: RosettaPhilae_LR:polySurface2737
+    4300402: RosettaPhilae_LR:polySurface2738
+    4300404: RosettaPhilae_LR:polySurface2748
+    4300406: RosettaPhilae_LR:polySurface2749
+    4300408: RosettaPhilae_LR:polySurface2750
+    4300410: RosettaPhilae_LR:polySurface2751
+    4300412: RosettaPhilae_LR:polySurface2752
+    4300414: RosettaPhilae_LR:polySurface2753
+    4300416: RosettaPhilae_LR:pCylinder231
+    4300418: RosettaPhilae_LR:polySurface2754
+    4300420: RosettaPhilae_LR:pCube556
+    4300422: RosettaPhilae_LR:pCylinder232
+    4300424: RosettaPhilae_LR:pCylinder235
+    4300426: RosettaPhilae_LR:pCylinder236
+    4300428: RosettaPhilae_LR:pCylinder238
+    4300430: RosettaPhilae_LR:pCylinder239
+    4300432: RosettaPhilae_LR:polySurface2758
+    4300434: RosettaPhilae_LR:pCylinder240
+    4300436: RosettaPhilae_LR:polySurface2759
+    4300438: RosettaPhilae_LR:polySurface2777
+    4300440: RosettaPhilae_LR:polySurface2778
+    4300442: RosettaPhilae_LR:polySurface2779
+    4300444: RosettaPhilae_LR:polySurface2780
+    4300446: RosettaPhilae_LR:polySurface2781
+    4300448: RosettaPhilae_LR:polySurface2782
+    4300450: RosettaPhilae_LR:polySurface2762
+    4300452: RosettaPhilae_LR:pCylinder256
+    4300454: RosettaPhilae_LR:pCube571
+    4300456: RosettaPhilae_LR:pCube572
+    4300458: RosettaPhilae_LR:pCube573
+    4300460: RosettaPhilae_LR:pCylinder432
+    4300462: RosettaPhilae_LR:polySurface2593
+    4300464: RosettaPhilae_LR:polySurface209
+    4300466: RosettaPhilae_LR:bares
+    4300468: RosettaPhilae_LR:pCylinder71
+    4300470: RosettaPhilae_LR:pCylinder72
+    4300472: RosettaPhilae_LR:pCube57
+    4300474: RosettaPhilae_LR:pCylinder116
+    4300476: RosettaPhilae_LR:polySurface87
+    4300478: RosettaPhilae_LR:pCylinder159
+    4300480: RosettaPhilae_LR:polySurface80
+    4300482: RosettaPhilae_LR:pCylinder158
+    4300484: RosettaPhilae_LR:polySurface78
+    4300486: RosettaPhilae_LR:polySurface88
+    4300488: RosettaPhilae_LR:polySurface190
+    4300490: RosettaPhilae_LR:polySurface191
+    4300492: RosettaPhilae_LR:pCube93
+    4300494: RosettaPhilae_LR:pCylinder127
+    4300496: RosettaPhilae_LR:polySurface249
+    4300498: RosettaPhilae_LR:polySurface122
+    4300500: RosettaPhilae_LR:polySurface125
+    4300502: RosettaPhilae_LR:pCylinder153
+    4300504: RosettaPhilae_LR:polySurface771
+    4300506: RosettaPhilae_LR:polySurface1
+    4300508: RosettaPhilae_LR:pCube49
+    4300510: RosettaPhilae_LR:pCube48
+    4300512: RosettaPhilae_LR:polySurface193
+    4300514: RosettaPhilae_LR:polySurface192
+    4300516: RosettaPhilae_LR:polySurface141
+    4300518: RosettaPhilae_LR:polySurface248
+    4300520: RosettaPhilae_LR:pCube95
+    4300522: RosettaPhilae_LR:pCube94
+    4300524: RosettaPhilae_LR:pCylinder128
+    4300526: RosettaPhilae_LR:polySurface772
+    4300528: RosettaPhilae_LR:pCube99
+    4300530: RosettaPhilae_LR:pCube100
+    4300532: RosettaPhilae_LR:pCube91
+    4300534: RosettaPhilae_LR:pCube42
+    4300536: RosettaPhilae_LR:polySurface173
+    4300538: RosettaPhilae_LR:polySurface172
+    4300540: RosettaPhilae_LR:polySurface170
+    4300542: RosettaPhilae_LR:polySurface171
+    4300544: RosettaPhilae_LR:pCube98
+    4300546: RosettaPhilae_LR:pCube105
+    4300548: RosettaPhilae_LR:pCube104
+    4300550: RosettaPhilae_LR:polySurface773
+    4300552: RosettaPhilae_LR:polySurface98
+    4300554: RosettaPhilae_LR:polySurface99
+    4300556: RosettaPhilae_LR:polySurface162
+    4300558: RosettaPhilae_LR:pCube96
+    4300560: RosettaPhilae_LR:pCube53
+    4300562: RosettaPhilae_LR:polySurface105
+    4300564: RosettaPhilae_LR:pCube58
+    4300566: RosettaPhilae_LR:polySurface94
+    4300568: RosettaPhilae_LR:pCylinder112
+    4300570: RosettaPhilae_LR:polySurface95
+    4300572: RosettaPhilae_LR:pCylinder68
+    4300574: RosettaPhilae_LR:polySurface68
+    4300576: RosettaPhilae_LR:polySurface4404
+    4300578: RosettaPhilae_LR:polySurface209
+    4300580: RosettaPhilae_LR:bares
+    4300582: RosettaPhilae_LR:pCylinder71
+    4300584: RosettaPhilae_LR:pCylinder72
+    4300586: RosettaPhilae_LR:pCube57
+    4300588: RosettaPhilae_LR:pCylinder116
+    4300590: RosettaPhilae_LR:polySurface87
+    4300592: RosettaPhilae_LR:pCylinder159
+    4300594: RosettaPhilae_LR:polySurface80
+    4300596: RosettaPhilae_LR:pCylinder158
+    4300598: RosettaPhilae_LR:polySurface78
+    4300600: RosettaPhilae_LR:polySurface88
+    4300602: RosettaPhilae_LR:polySurface190
+    4300604: RosettaPhilae_LR:polySurface191
+    4300606: RosettaPhilae_LR:pCube93
+    4300608: RosettaPhilae_LR:pCylinder127
+    4300610: RosettaPhilae_LR:polySurface249
+    4300612: RosettaPhilae_LR:polySurface122
+    4300614: RosettaPhilae_LR:polySurface125
+    4300616: RosettaPhilae_LR:pCylinder153
+    4300618: RosettaPhilae_LR:polySurface771
+    4300620: RosettaPhilae_LR:polySurface1
+    4300622: RosettaPhilae_LR:pCube49
+    4300624: RosettaPhilae_LR:pCube48
+    4300626: RosettaPhilae_LR:polySurface193
+    4300628: RosettaPhilae_LR:polySurface192
+    4300630: RosettaPhilae_LR:polySurface141
+    4300632: RosettaPhilae_LR:polySurface248
+    4300634: RosettaPhilae_LR:pCube95
+    4300636: RosettaPhilae_LR:pCube94
+    4300638: RosettaPhilae_LR:pCylinder128
+    4300640: RosettaPhilae_LR:polySurface772
+    4300642: RosettaPhilae_LR:pCube99
+    4300644: RosettaPhilae_LR:pCube100
+    4300646: RosettaPhilae_LR:pCube91
+    4300648: RosettaPhilae_LR:pCube42
+    4300650: RosettaPhilae_LR:polySurface173
+    4300652: RosettaPhilae_LR:polySurface172
+    4300654: RosettaPhilae_LR:polySurface170
+    4300656: RosettaPhilae_LR:polySurface171
+    4300658: RosettaPhilae_LR:pCube98
+    4300660: RosettaPhilae_LR:pCube105
+    4300662: RosettaPhilae_LR:pCube104
+    4300664: RosettaPhilae_LR:polySurface773
+    4300666: RosettaPhilae_LR:polySurface98
+    4300668: RosettaPhilae_LR:polySurface99
+    4300670: RosettaPhilae_LR:polySurface162
+    4300672: RosettaPhilae_LR:pCube96
+    4300674: RosettaPhilae_LR:pCube53
+    4300676: RosettaPhilae_LR:polySurface105
+    4300678: RosettaPhilae_LR:pCube58
+    4300680: RosettaPhilae_LR:polySurface94
+    4300682: RosettaPhilae_LR:pCylinder112
+    4300684: RosettaPhilae_LR:polySurface95
+    4300686: RosettaPhilae_LR:pCylinder68
+    4300688: RosettaPhilae_LR:polySurface68
+    4300690: RosettaPhilae_LR:polySurface4404
+    4300692: RosettaPhilae_LR:polySurface209
+    4300694: RosettaPhilae_LR:bares
+    4300696: RosettaPhilae_LR:pCylinder71
+    4300698: RosettaPhilae_LR:pCylinder72
+    4300700: RosettaPhilae_LR:pCube57
+    4300702: RosettaPhilae_LR:pCylinder116
+    4300704: RosettaPhilae_LR:polySurface87
+    4300706: RosettaPhilae_LR:pCylinder159
+    4300708: RosettaPhilae_LR:polySurface80
+    4300710: RosettaPhilae_LR:pCylinder158
+    4300712: RosettaPhilae_LR:polySurface78
+    4300714: RosettaPhilae_LR:polySurface88
+    4300716: RosettaPhilae_LR:polySurface190
+    4300718: RosettaPhilae_LR:polySurface191
+    4300720: RosettaPhilae_LR:pCube93
+    4300722: RosettaPhilae_LR:pCylinder127
+    4300724: RosettaPhilae_LR:polySurface249
+    4300726: RosettaPhilae_LR:polySurface122
+    4300728: RosettaPhilae_LR:polySurface125
+    4300730: RosettaPhilae_LR:pCylinder153
+    4300732: RosettaPhilae_LR:polySurface771
+    4300734: RosettaPhilae_LR:polySurface1
+    4300736: RosettaPhilae_LR:pCube49
+    4300738: RosettaPhilae_LR:pCube48
+    4300740: RosettaPhilae_LR:polySurface193
+    4300742: RosettaPhilae_LR:polySurface192
+    4300744: RosettaPhilae_LR:polySurface141
+    4300746: RosettaPhilae_LR:polySurface248
+    4300748: RosettaPhilae_LR:pCube95
+    4300750: RosettaPhilae_LR:pCube94
+    4300752: RosettaPhilae_LR:pCylinder128
+    4300754: RosettaPhilae_LR:polySurface772
+    4300756: RosettaPhilae_LR:pCube99
+    4300758: RosettaPhilae_LR:pCube100
+    4300760: RosettaPhilae_LR:pCube91
+    4300762: RosettaPhilae_LR:pCube42
+    4300764: RosettaPhilae_LR:polySurface173
+    4300766: RosettaPhilae_LR:polySurface172
+    4300768: RosettaPhilae_LR:polySurface170
+    4300770: RosettaPhilae_LR:polySurface171
+    4300772: RosettaPhilae_LR:pCube98
+    4300774: RosettaPhilae_LR:pCube105
+    4300776: RosettaPhilae_LR:pCube104
+    4300778: RosettaPhilae_LR:polySurface773
+    4300780: RosettaPhilae_LR:polySurface98
+    4300782: RosettaPhilae_LR:polySurface99
+    4300784: RosettaPhilae_LR:polySurface162
+    4300786: RosettaPhilae_LR:pCube96
+    4300788: RosettaPhilae_LR:pCube53
+    4300790: RosettaPhilae_LR:polySurface105
+    4300792: RosettaPhilae_LR:pCube58
+    4300794: RosettaPhilae_LR:polySurface94
+    4300796: RosettaPhilae_LR:pCylinder112
+    4300798: RosettaPhilae_LR:polySurface95
+    4300800: RosettaPhilae_LR:pCylinder68
+    4300802: RosettaPhilae_LR:polySurface68
+    4300804: RosettaPhilae_LR:polySurface4404
+    4300806: RosettaPhilae_LR:mainBody
+    4300808: RosettaPhilae_LR:polySurface4413
+    4300810: RosettaPhilae_LR:polySurface4412
+    4300812: RosettaPhilae_LR:polySurface4405
+    4300814: RosettaPhilae_LR:polySurface4403
+    4300816: RosettaPhilae_LR:polySurface4402
+    4300818: RosettaPhilae_LR:nurbsToPoly11
+    4300820: RosettaPhilae_LR:nurbsToPoly10
+    4300822: RosettaPhilae_LR:pCube591
+    4300824: RosettaPhilae_LR:_SOL3480
+    4300826: RosettaPhilae_LR:_SOL3481
+    4300828: RosettaPhilae_LR:_SOL3482
+    4300830: RosettaPhilae_LR:_SOL3483
+    4300832: RosettaPhilae_LR:_SOL3955
+    4300834: RosettaPhilae_LR:_SOL3957
+    4300836: RosettaPhilae_LR:_SOL3959
+    4300838: RosettaPhilae_LR:_SOL4126
+    4300840: RosettaPhilae_LR:_SOL4153
+    4300842: RosettaPhilae_LR:_SOL4155
+    4300844: RosettaPhilae_LR:_SOL4157
+    4300846: RosettaPhilae_LR:_SOL4232
+    4300848: RosettaPhilae_LR:_SOL4234
+    4300850: RosettaPhilae_LR:_SOL4236
+    4300852: RosettaPhilae_LR:_SOL4242
+    4300854: RosettaPhilae_LR:_SOL4244
+    4300856: RosettaPhilae_LR:_SOL4246
+    4300858: RosettaPhilae_LR:_SOL4248
+    4300860: RosettaPhilae_LR:_SOL4297
+    4300862: RosettaPhilae_LR:_SOL4299
+    4300864: RosettaPhilae_LR:_SOL4301
+    4300866: RosettaPhilae_LR:_SOL4303
+    4300868: RosettaPhilae_LR:_SOL4305
+    4300870: RosettaPhilae_LR:_SOL4307
+    4300872: RosettaPhilae_LR:_SOL4311
+    4300874: RosettaPhilae_LR:_SOL4369
+    4300876: RosettaPhilae_LR:_SOL4371
+    4300878: RosettaPhilae_LR:_SOL4373
+    4300880: RosettaPhilae_LR:_SOL4375
+    4300882: RosettaPhilae_LR:_SOL4393
+    4300884: RosettaPhilae_LR:_SOL4395
+    4300886: RosettaPhilae_LR:_SOL4397
+    4300888: RosettaPhilae_LR:_SOL4399
+    4300890: RosettaPhilae_LR:_SOL4413
+    4300892: RosettaPhilae_LR:_SOL4731
+    4300894: RosettaPhilae_LR:_SOL4732
+    4300896: RosettaPhilae_LR:_SOL4744
+    4300898: RosettaPhilae_LR:_SOL3672
+    4300900: RosettaPhilae_LR:CONSERT_DEPL
+    4300902: RosettaPhilae_LR:_SOL667
+    4300904: RosettaPhilae_LR:_SOL86605
+    4300906: RosettaPhilae_LR:_SOL86606
+    4300908: RosettaPhilae_LR:_SOL86607
+    4300910: RosettaPhilae_LR:_SOL86608
+    4300912: RosettaPhilae_LR:_SOL86609
+    4300914: RosettaPhilae_LR:_SOL86610
+    4300916: RosettaPhilae_LR:_SOL86611
+    4300918: RosettaPhilae_LR:_SOL86612
+    4300920: RosettaPhilae_LR:_SOL86613
+    4300922: RosettaPhilae_LR:_SOL86614
+    4300924: RosettaPhilae_LR:_SOL86615
+    4300926: RosettaPhilae_LR:_SOL86616
+    4300928: RosettaPhilae_LR:_SOL86617
+    4300930: RosettaPhilae_LR:_SOL82518
+    4300932: RosettaPhilae_LR:_SOL82519
+    4300934: RosettaPhilae_LR:_SOL82520
+    4300936: RosettaPhilae_LR:polySurface4351
+    4300938: RosettaPhilae_LR:polySurface4337
+    4300940: RosettaPhilae_LR:pCylinder408
+    4300942: RosettaPhilae_LR:polySurface4338
+    4300944: RosettaPhilae_LR:polySurface4339
+    4300946: RosettaPhilae_LR:polySurface4377
+    4300948: RosettaPhilae_LR:polySurface4342
+    4300950: RosettaPhilae_LR:polySurface4340
+    4300952: RosettaPhilae_LR:polySurface4343
+    4300954: RosettaPhilae_LR:polySurface4347
+    4300956: RosettaPhilae_LR:polySurface4346
+    4300958: RosettaPhilae_LR:polySurface4345
+    4300960: RosettaPhilae_LR:polySurface4344
+    4300962: RosettaPhilae_LR:polySurface4347
+    4300964: RosettaPhilae_LR:polySurface4346
+    4300966: RosettaPhilae_LR:polySurface4345
+    4300968: RosettaPhilae_LR:polySurface4344
+    4300970: RosettaPhilae_LR:polySurface4348
+    4300972: RosettaPhilae_LR:pCylinder407
+    4300974: RosettaPhilae_LR:polySurface4335
+    4300976: RosettaPhilae_LR:_SOL108
+    4300978: RosettaPhilae_LR:_SOL109
+    4300980: RosettaPhilae_LR:_SOL113
+    4300982: RosettaPhilae_LR:_SOL114
+    4300984: RosettaPhilae_LR:polySurface4349
+    4300986: RosettaPhilae_LR:polySurface4334
+    4300988: RosettaPhilae_LR:polySurface4333
+    4300990: RosettaPhilae_LR:polySurface4350
+    4300992: RosettaPhilae_LR:polySurface4309
+    4300994: RosettaPhilae_LR:pCylinder409
+    4300996: RosettaPhilae_LR:polySurface4353
+    4300998: RosettaPhilae_LR:pCylinder410
+    4301000: RosettaPhilae_LR:polySurface4084
+    4301002: RosettaPhilae_LR:polySurface4352
+    4301004: RosettaPhilae_LR:polySurface4354
+    4301006: RosettaPhilae_LR:pCylinder411
+    4301008: RosettaPhilae_LR:pSphere19
+    4301010: RosettaPhilae_LR:pCylinder412
+    4301012: RosettaPhilae_LR:polySurface4357
+    4301014: RosettaPhilae_LR:pCylinder413
+    4301016: RosettaPhilae_LR:pCylinder413
+    4301018: RosettaPhilae_LR:pCylinder413
+    4301020: RosettaPhilae_LR:polySurface4358
+    4301022: RosettaPhilae_LR:pCylinder414
+    4301024: RosettaPhilae_LR:pCylinder415
+    4301026: RosettaPhilae_LR:polySurface4365
+    4301028: RosettaPhilae_LR:polySurface4361
+    4301030: RosettaPhilae_LR:polySurface3835
+    4301032: RosettaPhilae_LR:pCube584
+    4301034: RosettaPhilae_LR:topPlate
+    4301036: RosettaPhilae_LR:side2
+    4301038: RosettaPhilae_LR:side1
+    4301040: RosettaPhilae_LR:pTorus1
+    4301042: RosettaPhilae_LR:bottom
+    4301044: RosettaPhilae_LR:_SOL2883
+    4301046: RosettaPhilae_LR:_SOL2886
+    4301048: RosettaPhilae_LR:_SOL86531
+    4301050: RosettaPhilae_LR:_SOL86534
+    4301052: RosettaPhilae_LR:_SOL86535
+    4301054: RosettaPhilae_LR:_SOL86536
+    4301056: RosettaPhilae_LR:_SOL86537
+    4301058: RosettaPhilae_LR:_SOL86538
+    4301060: RosettaPhilae_LR:_SOL86539
+    4301062: RosettaPhilae_LR:_SOL86540
+    4301064: RosettaPhilae_LR:_SOL86541
+    4301066: RosettaPhilae_LR:_SOL86542
+    4301068: RosettaPhilae_LR:_SOL86543
+    4301070: RosettaPhilae_LR:_SOL86544
+    4301072: RosettaPhilae_LR:_SOL86545
+    4301074: RosettaPhilae_LR:_SOL86546
+    4301076: RosettaPhilae_LR:_SOL86547
+    4301078: RosettaPhilae_LR:_SOL86548
+    4301080: RosettaPhilae_LR:_SOL86549
+    4301082: RosettaPhilae_LR:_SOL86550
+    4301084: RosettaPhilae_LR:_SOL86551
+    4301086: RosettaPhilae_LR:_SOL86552
+    4301088: RosettaPhilae_LR:_SOL86553
+    4301090: RosettaPhilae_LR:_SOL86554
+    4301092: RosettaPhilae_LR:_SOL86555
+    4301094: RosettaPhilae_LR:_SOL86556
+    4301096: RosettaPhilae_LR:_SOL86557
+    4301098: RosettaPhilae_LR:_SOL86558
+    4301100: RosettaPhilae_LR:_SOL86565
+    4301102: RosettaPhilae_LR:polySurface4314
+    4301104: RosettaPhilae_LR:polySurface4315
+    4301106: RosettaPhilae_LR:polySurface4316
+    4301108: RosettaPhilae_LR:polySurface4317
+    4301110: RosettaPhilae_LR:polySurface4318
+    4301112: RosettaPhilae_LR:polySurface4323
+    4301114: RosettaPhilae_LR:polySurface4324
+    4301116: RosettaPhilae_LR:_SOL2887
+    4301118: RosettaPhilae_LR:_SOL86573
+    4301120: RosettaPhilae_LR:_SOL86574
+    4301122: RosettaPhilae_LR:_SOL86575
+    4301124: RosettaPhilae_LR:_SOL86576
+    4301126: RosettaPhilae_LR:polySurface4329
+    4301128: RosettaPhilae_LR:_SOL86561
+    4301130: RosettaPhilae_LR:polySurface4319
+    4301132: RosettaPhilae_LR:_SOL86576
+    4301134: RosettaPhilae_LR:polySurface4329
+    4301136: RosettaPhilae_LR:_SOL86561
+    4301138: RosettaPhilae_LR:polySurface4319
+    4301140: RosettaPhilae_LR:_SOL86576
+    4301142: RosettaPhilae_LR:polySurface4329
+    4301144: RosettaPhilae_LR:_SOL86561
+    4301146: RosettaPhilae_LR:polySurface4319
+    4301148: RosettaPhilae_LR:_SOL86576
+    4301150: RosettaPhilae_LR:polySurface4329
+    4301152: RosettaPhilae_LR:_SOL86561
+    4301154: RosettaPhilae_LR:polySurface4319
+    4301156: RosettaPhilae_LR:pCylinder405
+    4301158: RosettaPhilae_LR:pCylinder406
+    4301160: RosettaPhilae_LR:_SOL2883
+    4301162: RosettaPhilae_LR:_SOL2886
+    4301164: RosettaPhilae_LR:_SOL86531
+    4301166: RosettaPhilae_LR:_SOL86534
+    4301168: RosettaPhilae_LR:_SOL86535
+    4301170: RosettaPhilae_LR:_SOL86536
+    4301172: RosettaPhilae_LR:_SOL86537
+    4301174: RosettaPhilae_LR:_SOL86538
+    4301176: RosettaPhilae_LR:_SOL86539
+    4301178: RosettaPhilae_LR:_SOL86540
+    4301180: RosettaPhilae_LR:_SOL86541
+    4301182: RosettaPhilae_LR:_SOL86542
+    4301184: RosettaPhilae_LR:_SOL86543
+    4301186: RosettaPhilae_LR:_SOL86544
+    4301188: RosettaPhilae_LR:_SOL86545
+    4301190: RosettaPhilae_LR:_SOL86546
+    4301192: RosettaPhilae_LR:_SOL86547
+    4301194: RosettaPhilae_LR:_SOL86548
+    4301196: RosettaPhilae_LR:_SOL86549
+    4301198: RosettaPhilae_LR:_SOL86550
+    4301200: RosettaPhilae_LR:_SOL86551
+    4301202: RosettaPhilae_LR:_SOL86552
+    4301204: RosettaPhilae_LR:_SOL86553
+    4301206: RosettaPhilae_LR:_SOL86554
+    4301208: RosettaPhilae_LR:_SOL86555
+    4301210: RosettaPhilae_LR:_SOL86556
+    4301212: RosettaPhilae_LR:_SOL86557
+    4301214: RosettaPhilae_LR:_SOL86558
+    4301216: RosettaPhilae_LR:_SOL86565
+    4301218: RosettaPhilae_LR:polySurface4314
+    4301220: RosettaPhilae_LR:polySurface4315
+    4301222: RosettaPhilae_LR:polySurface4316
+    4301224: RosettaPhilae_LR:polySurface4317
+    4301226: RosettaPhilae_LR:polySurface4318
+    4301228: RosettaPhilae_LR:polySurface4323
+    4301230: RosettaPhilae_LR:polySurface4324
+    4301232: RosettaPhilae_LR:_SOL2887
+    4301234: RosettaPhilae_LR:_SOL86573
+    4301236: RosettaPhilae_LR:_SOL86574
+    4301238: RosettaPhilae_LR:_SOL86575
+    4301240: RosettaPhilae_LR:_SOL86576
+    4301242: RosettaPhilae_LR:polySurface4329
+    4301244: RosettaPhilae_LR:_SOL86561
+    4301246: RosettaPhilae_LR:polySurface4319
+    4301248: RosettaPhilae_LR:_SOL86576
+    4301250: RosettaPhilae_LR:polySurface4329
+    4301252: RosettaPhilae_LR:_SOL86561
+    4301254: RosettaPhilae_LR:polySurface4319
+    4301256: RosettaPhilae_LR:_SOL86576
+    4301258: RosettaPhilae_LR:polySurface4329
+    4301260: RosettaPhilae_LR:_SOL86561
+    4301262: RosettaPhilae_LR:polySurface4319
+    4301264: RosettaPhilae_LR:_SOL86576
+    4301266: RosettaPhilae_LR:polySurface4329
+    4301268: RosettaPhilae_LR:_SOL86561
+    4301270: RosettaPhilae_LR:polySurface4319
+    4301272: RosettaPhilae_LR:pCylinder416
+    4301274: RosettaPhilae_LR:polySurface4366
+    4301276: RosettaPhilae_LR:pCylinder416
+    4301278: RosettaPhilae_LR:polySurface4366
+    4301280: RosettaPhilae_LR:pCylinder416
+    4301282: RosettaPhilae_LR:polySurface4366
+    4301284: RosettaPhilae_LR:pCylinder416
+    4301286: RosettaPhilae_LR:polySurface4366
+    4301288: RosettaPhilae_LR:polySurface4372
+    4301290: RosettaPhilae_LR:polySurface4374
+    4301292: RosettaPhilae_LR:pCube9
+    4301294: RosettaPhilae_LR:pCylinder18
+    4301296: RosettaPhilae_LR:pCylinder28
+    4301298: RosettaPhilae_LR:pSphere21
+    4301300: RosettaPhilae_LR:polySurface4379
+    4301302: RosettaPhilae_LR:polySurface4378
+    4301304: RosettaPhilae_LR:pCylinder423
+    4301306: RosettaPhilae_LR:pCylinder422
+    4301308: RosettaPhilae_LR:pCylinder419
+    4301310: RosettaPhilae_LR:pCube28
+    4301312: RosettaPhilae_LR:pCylinder20
+    4301314: RosettaPhilae_LR:pCube27
+    4301316: RosettaPhilae_LR:pCylinder19
+    4301318: RosettaPhilae_LR:pCylinder18
+    4301320: RosettaPhilae_LR:pCylinder418
+    4301322: RosettaPhilae_LR:pSphere20
+    4301324: RosettaPhilae_LR:pCylinder433
+    4301326: RosettaPhilae_LR:pCylinder434
+    4301328: RosettaPhilae_LR:pCylinder435
+    4301330: RosettaPhilae_LR:_SOL86393
+    4301332: RosettaPhilae_LR:polySurface4381
+    4301334: RosettaPhilae_LR:pCube586
+    4301336: RosettaPhilae_LR:pCube585
+    4301338: RosettaPhilae_LR:polySurface4380
+    4301340: RosettaPhilae_LR:_SOL86285
+    4301342: RosettaPhilae_LR:_SOL86284
+    4301344: RosettaPhilae_LR:_SOL86289
+    4301346: RosettaPhilae_LR:_SOL86283
+    4301348: RosettaPhilae_LR:polySurface4380
+    4301350: RosettaPhilae_LR:_SOL86285
+    4301352: RosettaPhilae_LR:_SOL86284
+    4301354: RosettaPhilae_LR:_SOL86289
+    4301356: RosettaPhilae_LR:_SOL86283
+    4301358: RosettaPhilae_LR:polySurface4376
+    4301360: RosettaPhilae_LR:_SOL49
+    4301362: RosettaPhilae_LR:_SOL166
+    4301364: RosettaPhilae_LR:_SOL169
+    4301366: RosettaPhilae_LR:pCylinder425
+    4301368: RosettaPhilae_LR:pCylinder426
+    4301370: RosettaPhilae_LR:_SOL164
+    4301372: RosettaPhilae_LR:pCylinder424
+    4301374: RosettaPhilae_LR:polySurface4368
+    4301376: RosettaPhilae_LR:polySurface4367
+    4301378: RosettaPhilae_LR:polySurface4375
+    4301380: RosettaPhilae_LR:_SOL2789
+    4301382: RosettaPhilae_LR:polySurface4385
+    4301384: RosettaPhilae_LR:pCylinder430
+    4301386: RosettaPhilae_LR:polySurface4386
+    4301388: RosettaPhilae_LR:pCylinder429
+    4301390: RosettaPhilae_LR:pCylinder431
+    4301392: RosettaPhilae_LR:_SOL86604
+    4301394: RosettaPhilae_LR:polySurface4387
+    4301396: RosettaPhilae_LR:_0N_THRUSTER17
+    4301398: RosettaPhilae_LR:_0N_THRUSTER24
+    4301400: RosettaPhilae_LR:polySurface4387
+    4301402: RosettaPhilae_LR:_0N_THRUSTER17
+    4301404: RosettaPhilae_LR:_0N_THRUSTER24
+    4301406: RosettaPhilae_LR:polySurface4387
+    4301408: RosettaPhilae_LR:_0N_THRUSTER17
+    4301410: RosettaPhilae_LR:_0N_THRUSTER24
+    4301412: RosettaPhilae_LR:polySurface4387
+    4301414: RosettaPhilae_LR:_0N_THRUSTER17
+    4301416: RosettaPhilae_LR:_0N_THRUSTER24
+    4301418: RosettaPhilae_LR:polySurface4389
+    4301420: RosettaPhilae_LR:_0N_THRUSTER25
+    4301422: RosettaPhilae_LR:_0N_THRUSTER26
+    4301424: RosettaPhilae_LR:_0N_THRUSTER17
+    4301426: RosettaPhilae_LR:_0N_THRUSTER24
+    4301428: RosettaPhilae_LR:polySurface4389
+    4301430: RosettaPhilae_LR:_0N_THRUSTER25
+    4301432: RosettaPhilae_LR:_0N_THRUSTER26
+    4301434: RosettaPhilae_LR:_0N_THRUSTER17
+    4301436: RosettaPhilae_LR:_0N_THRUSTER24
+    4301438: RosettaPhilae_LR:polySurface4389
+    4301440: RosettaPhilae_LR:_0N_THRUSTER25
+    4301442: RosettaPhilae_LR:_0N_THRUSTER26
+    4301444: RosettaPhilae_LR:_0N_THRUSTER17
+    4301446: RosettaPhilae_LR:_0N_THRUSTER24
+    4301448: RosettaPhilae_LR:polySurface4389
+    4301450: RosettaPhilae_LR:_0N_THRUSTER25
+    4301452: RosettaPhilae_LR:_0N_THRUSTER26
+    4301454: RosettaPhilae_LR:_0N_THRUSTER17
+    4301456: RosettaPhilae_LR:_0N_THRUSTER24
+    4301458: RosettaPhilae_LR:_SOL4642
+    4301460: RosettaPhilae_LR:_SOL156
+    4301462: RosettaPhilae_LR:pCube590
+    4301464: RosettaPhilae_LR:pCube588
+    4301466: RosettaPhilae_LR:pCube589
+    4301468: RosettaPhilae_LR:pCylinder427
+    4301470: RosettaPhilae_LR:pCylinder428
+    4301472: RosettaPhilae_LR:polySurface4384
+    4301474: RosettaPhilae_LR:_SOL4203
+    4301476: RosettaPhilae_LR:pCube587
+    4301478: RosettaPhilae_LR:back
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

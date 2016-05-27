@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 1e99353b3b3830d458a27fb24812c781
+timeCreated: 1463684850
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: iss d_ring
+    100004: iss graple
+    100006: iss iss_d0
+    100008: iss iss_dc
+    100010: iss iss_un
+    100012: iss issb 7
+    100014: 'iss issb2 '
+    100016: 'iss issb3 '
+    100018: 'iss issb4 '
+    100020: 'iss issbs '
+    100022: iss issbs0
+    100024: iss issbso
+    100026: iss issco0
+    100028: iss isscov
+    100030: iss isscup
+    100032: iss issdis
+    100034: iss issdot
+    100036: iss issesa
+    100038: iss isshan
+    100040: iss issins
+    100042: 'iss issku '
+    100044: iss issku0
+    100046: iss issku1
+    100048: iss issku2
+    100050: iss issku3
+    100052: iss issku4
+    100054: 'iss issmb '
+    100056: iss issmod
+    100058: 'iss issp2 '
+    100060: iss issp20
+    100062: iss issp21
+    100064: iss isspan
+    100066: iss issrad
+    100068: iss issred
+    100070: iss isssol
+    100072: iss issus1
+    100074: iss issusa
+    100076: iss isszmo
+    100078: iss metalc
+    100080: 'iss nasda '
+    100082: iss questc
+    100084: mesh832
+    100086: mesh833
+    100088: mesh858
+    100090: mesh859
+    100092: mesh860
+    100094: mesh861
+    100096: mesh862
+    100098: mesh863
+    100100: mesh864
+    100102: mesh865
+    100104: mesh866
+    100106: mesh867
+    100108: mesh868
+    100110: mesh869
+    100112: mesh870
+    100114: mesh871
+    100116: mesh872
+    100118: mesh873
+    100120: mesh874
+    100122: mesh875
+    100124: mesh876
+    100126: mesh877
+    100128: mesh878
+    100130: mesh879
+    100132: mesh880
+    100134: mesh881
+    100136: mesh882
+    100138: mesh883
+    100140: mesh884
+    100142: mesh885
+    100144: mesh886
+    100146: mesh887
+    100148: mesh888
+    100150: mesh889
+    100152: mesh890
+    100154: mesh891
+    100156: mesh892
+    100158: mesh893
+    100160: mesh894
+    100162: mesh895
+    100164: mesh896
+    100166: mesh897
+    100168: mesh898
+    100170: mesh899
+    100172: mesh900
+    100174: mesh901
+    100176: mesh902
+    100178: mesh903
+    100180: mesh904
+    100182: mesh905
+    100184: mesh906
+    100186: mesh907
+    100188: mesh908
+    100190: mesh909
+    100192: mesh910
+    100194: mesh911
+    100196: mesh912
+    100198: mesh913
+    100200: mesh914
+    100202: mesh915
+    100204: mesh916
+    100206: mesh917
+    100208: mesh918
+    100210: mesh919
+    100212: mplm issle
+    100214: mplm issus
+    400000: //RootNode
+    400002: iss d_ring
+    400004: iss graple
+    400006: iss iss_d0
+    400008: iss iss_dc
+    400010: iss iss_un
+    400012: iss issb 7
+    400014: 'iss issb2 '
+    400016: 'iss issb3 '
+    400018: 'iss issb4 '
+    400020: 'iss issbs '
+    400022: iss issbs0
+    400024: iss issbso
+    400026: iss issco0
+    400028: iss isscov
+    400030: iss isscup
+    400032: iss issdis
+    400034: iss issdot
+    400036: iss issesa
+    400038: iss isshan
+    400040: iss issins
+    400042: 'iss issku '
+    400044: iss issku0
+    400046: iss issku1
+    400048: iss issku2
+    400050: iss issku3
+    400052: iss issku4
+    400054: 'iss issmb '
+    400056: iss issmod
+    400058: 'iss issp2 '
+    400060: iss issp20
+    400062: iss issp21
+    400064: iss isspan
+    400066: iss issrad
+    400068: iss issred
+    400070: iss isssol
+    400072: iss issus1
+    400074: iss issusa
+    400076: iss isszmo
+    400078: iss metalc
+    400080: 'iss nasda '
+    400082: iss questc
+    400084: mesh832
+    400086: mesh833
+    400088: mesh858
+    400090: mesh859
+    400092: mesh860
+    400094: mesh861
+    400096: mesh862
+    400098: mesh863
+    400100: mesh864
+    400102: mesh865
+    400104: mesh866
+    400106: mesh867
+    400108: mesh868
+    400110: mesh869
+    400112: mesh870
+    400114: mesh871
+    400116: mesh872
+    400118: mesh873
+    400120: mesh874
+    400122: mesh875
+    400124: mesh876
+    400126: mesh877
+    400128: mesh878
+    400130: mesh879
+    400132: mesh880
+    400134: mesh881
+    400136: mesh882
+    400138: mesh883
+    400140: mesh884
+    400142: mesh885
+    400144: mesh886
+    400146: mesh887
+    400148: mesh888
+    400150: mesh889
+    400152: mesh890
+    400154: mesh891
+    400156: mesh892
+    400158: mesh893
+    400160: mesh894
+    400162: mesh895
+    400164: mesh896
+    400166: mesh897
+    400168: mesh898
+    400170: mesh899
+    400172: mesh900
+    400174: mesh901
+    400176: mesh902
+    400178: mesh903
+    400180: mesh904
+    400182: mesh905
+    400184: mesh906
+    400186: mesh907
+    400188: mesh908
+    400190: mesh909
+    400192: mesh910
+    400194: mesh911
+    400196: mesh912
+    400198: mesh913
+    400200: mesh914
+    400202: mesh915
+    400204: mesh916
+    400206: mesh917
+    400208: mesh918
+    400210: mesh919
+    400212: mplm issle
+    400214: mplm issus
+    2300000: iss d_ring
+    2300002: iss graple
+    2300004: iss iss_d0
+    2300006: iss iss_dc
+    2300008: iss iss_un
+    2300010: iss issb 7
+    2300012: 'iss issb2 '
+    2300014: 'iss issb3 '
+    2300016: 'iss issb4 '
+    2300018: 'iss issbs '
+    2300020: iss issbs0
+    2300022: iss issbso
+    2300024: iss issco0
+    2300026: iss isscov
+    2300028: iss isscup
+    2300030: iss issdis
+    2300032: iss issdot
+    2300034: iss issesa
+    2300036: iss isshan
+    2300038: iss issins
+    2300040: 'iss issku '
+    2300042: iss issku0
+    2300044: iss issku1
+    2300046: iss issku2
+    2300048: iss issku3
+    2300050: iss issku4
+    2300052: 'iss issmb '
+    2300054: iss issmod
+    2300056: 'iss issp2 '
+    2300058: iss issp20
+    2300060: iss issp21
+    2300062: iss isspan
+    2300064: iss issrad
+    2300066: iss issred
+    2300068: iss isssol
+    2300070: iss issus1
+    2300072: iss issusa
+    2300074: iss isszmo
+    2300076: iss metalc
+    2300078: 'iss nasda '
+    2300080: iss questc
+    2300082: mesh832
+    2300084: mesh833
+    2300086: mesh858
+    2300088: mesh859
+    2300090: mesh860
+    2300092: mesh861
+    2300094: mesh862
+    2300096: mesh863
+    2300098: mesh864
+    2300100: mesh865
+    2300102: mesh866
+    2300104: mesh867
+    2300106: mesh868
+    2300108: mesh869
+    2300110: mesh870
+    2300112: mesh871
+    2300114: mesh872
+    2300116: mesh873
+    2300118: mesh874
+    2300120: mesh875
+    2300122: mesh876
+    2300124: mesh877
+    2300126: mesh878
+    2300128: mesh879
+    2300130: mesh880
+    2300132: mesh881
+    2300134: mesh882
+    2300136: mesh883
+    2300138: mesh884
+    2300140: mesh885
+    2300142: mesh886
+    2300144: mesh887
+    2300146: mesh888
+    2300148: mesh889
+    2300150: mesh890
+    2300152: mesh891
+    2300154: mesh892
+    2300156: mesh893
+    2300158: mesh894
+    2300160: mesh895
+    2300162: mesh896
+    2300164: mesh897
+    2300166: mesh898
+    2300168: mesh899
+    2300170: mesh900
+    2300172: mesh901
+    2300174: mesh902
+    2300176: mesh903
+    2300178: mesh904
+    2300180: mesh905
+    2300182: mesh906
+    2300184: mesh907
+    2300186: mesh908
+    2300188: mesh909
+    2300190: mesh910
+    2300192: mesh911
+    2300194: mesh912
+    2300196: mesh913
+    2300198: mesh914
+    2300200: mesh915
+    2300202: mesh916
+    2300204: mesh917
+    2300206: mesh918
+    2300208: mesh919
+    2300210: mplm issle
+    2300212: mplm issus
+    3300000: iss d_ring
+    3300002: iss graple
+    3300004: iss iss_d0
+    3300006: iss iss_dc
+    3300008: iss iss_un
+    3300010: iss issb 7
+    3300012: 'iss issb2 '
+    3300014: 'iss issb3 '
+    3300016: 'iss issb4 '
+    3300018: 'iss issbs '
+    3300020: iss issbs0
+    3300022: iss issbso
+    3300024: iss issco0
+    3300026: iss isscov
+    3300028: iss isscup
+    3300030: iss issdis
+    3300032: iss issdot
+    3300034: iss issesa
+    3300036: iss isshan
+    3300038: iss issins
+    3300040: 'iss issku '
+    3300042: iss issku0
+    3300044: iss issku1
+    3300046: iss issku2
+    3300048: iss issku3
+    3300050: iss issku4
+    3300052: 'iss issmb '
+    3300054: iss issmod
+    3300056: 'iss issp2 '
+    3300058: iss issp20
+    3300060: iss issp21
+    3300062: iss isspan
+    3300064: iss issrad
+    3300066: iss issred
+    3300068: iss isssol
+    3300070: iss issus1
+    3300072: iss issusa
+    3300074: iss isszmo
+    3300076: iss metalc
+    3300078: 'iss nasda '
+    3300080: iss questc
+    3300082: mesh832
+    3300084: mesh833
+    3300086: mesh858
+    3300088: mesh859
+    3300090: mesh860
+    3300092: mesh861
+    3300094: mesh862
+    3300096: mesh863
+    3300098: mesh864
+    3300100: mesh865
+    3300102: mesh866
+    3300104: mesh867
+    3300106: mesh868
+    3300108: mesh869
+    3300110: mesh870
+    3300112: mesh871
+    3300114: mesh872
+    3300116: mesh873
+    3300118: mesh874
+    3300120: mesh875
+    3300122: mesh876
+    3300124: mesh877
+    3300126: mesh878
+    3300128: mesh879
+    3300130: mesh880
+    3300132: mesh881
+    3300134: mesh882
+    3300136: mesh883
+    3300138: mesh884
+    3300140: mesh885
+    3300142: mesh886
+    3300144: mesh887
+    3300146: mesh888
+    3300148: mesh889
+    3300150: mesh890
+    3300152: mesh891
+    3300154: mesh892
+    3300156: mesh893
+    3300158: mesh894
+    3300160: mesh895
+    3300162: mesh896
+    3300164: mesh897
+    3300166: mesh898
+    3300168: mesh899
+    3300170: mesh900
+    3300172: mesh901
+    3300174: mesh902
+    3300176: mesh903
+    3300178: mesh904
+    3300180: mesh905
+    3300182: mesh906
+    3300184: mesh907
+    3300186: mesh908
+    3300188: mesh909
+    3300190: mesh910
+    3300192: mesh911
+    3300194: mesh912
+    3300196: mesh913
+    3300198: mesh914
+    3300200: mesh915
+    3300202: mesh916
+    3300204: mesh917
+    3300206: mesh918
+    3300208: mesh919
+    3300210: mplm issle
+    3300212: mplm issus
+    4300000: iss issmod
+    4300002: mesh919
+    4300004: mesh918
+    4300006: mesh917
+    4300008: mesh916
+    4300010: mesh915
+    4300012: mesh914
+    4300014: mesh913
+    4300016: mesh912
+    4300018: mesh911
+    4300020: mesh910
+    4300022: mesh909
+    4300024: mesh908
+    4300026: mesh907
+    4300028: mesh906
+    4300030: mesh905
+    4300032: mesh904
+    4300034: mesh903
+    4300036: mesh902
+    4300038: mesh901
+    4300040: mesh900
+    4300042: mesh899
+    4300044: mesh898
+    4300046: mesh897
+    4300048: mesh896
+    4300050: mesh895
+    4300052: mesh894
+    4300054: mesh893
+    4300056: mesh892
+    4300058: mesh891
+    4300060: mesh890
+    4300062: mesh889
+    4300064: mesh888
+    4300066: mesh887
+    4300068: mesh886
+    4300070: mesh885
+    4300072: mesh884
+    4300074: mesh883
+    4300076: mesh882
+    4300078: mesh881
+    4300080: mesh880
+    4300082: mesh879
+    4300084: mesh878
+    4300086: mesh877
+    4300088: mesh876
+    4300090: mesh875
+    4300092: mesh874
+    4300094: mesh873
+    4300096: mesh872
+    4300098: mesh871
+    4300100: mesh870
+    4300102: mesh869
+    4300104: mesh868
+    4300106: mesh867
+    4300108: mesh866
+    4300110: mesh865
+    4300112: mesh864
+    4300114: mesh863
+    4300116: mesh862
+    4300118: mesh861
+    4300120: mesh860
+    4300122: mesh859
+    4300124: mesh858
+    4300126: iss isscov
+    4300128: mesh833
+    4300130: mesh832
+    4300132: mplm issle
+    4300134: mplm issus
+    4300136: iss issus1
+    4300138: iss issred
+    4300140: iss issku4
+    4300142: iss issp20
+    4300144: iss issku3
+    4300146: iss issp21
+    4300148: iss iss_un
+    4300150: iss isshan
+    4300152: iss issco0
+    4300154: iss graple
+    4300156: iss questc
+    4300158: iss issins
+    4300160: iss metalc
+    4300162: iss isscup
+    4300164: 'iss issbs '
+    4300166: iss issesa
+    4300168: iss issrad
+    4300170: 'iss nasda '
+    4300172: iss issusa
+    4300174: 'iss issmb '
+    4300176: iss issbs0
+    4300178: iss issbso
+    4300180: iss issku0
+    4300182: iss issku2
+    4300184: iss issdis
+    4300186: iss issku1
+    4300188: 'iss issku '
+    4300190: 'iss issb4 '
+    4300192: iss isssol
+    4300194: 'iss issb2 '
+    4300196: iss isszmo
+    4300198: 'iss issb3 '
+    4300200: iss issdot
+    4300202: 'iss issp2 '
+    4300204: iss issb 7
+    4300206: iss isspan
+    4300208: iss d_ring
+    4300210: iss iss_d0
+    4300212: iss iss_dc
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
