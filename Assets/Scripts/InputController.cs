@@ -12,7 +12,8 @@ public class InputController : MonoBehaviour
     [SerializeField] private float rotateTouchSensitivity = 5;
     [SerializeField] private float zoomTouchSensitivity = 100;
 
-    [SerializeField] private float menuClosingSwipeStrength = 0;
+    [SerializeField] private float menuClosingSwipeStrength = 10;
+    [SerializeField] private float pressElegibilitySensitivity = 10;
 
     private float zoomFingerDistanceLastFrame = 0;
 
@@ -38,7 +39,10 @@ public class InputController : MonoBehaviour
     private enum MenuState { Closed, LeftMenuOpen, RightMenuOpen }
     private MenuState menuState = MenuState.Closed;
 
-	void Update ()
+    private Vector2 initialPress = Vector2.zero;
+    private bool elegibleForPress = true;
+
+    void Update ()
     {
         switch (menuState)
         {
@@ -103,7 +107,6 @@ public class InputController : MonoBehaviour
             // Zoom Camera In Out
             if (touches.Length >= 2)
             {
-
                 float distance = Vector2.Distance(touches[0].position, touches[1].position);
                 // Fingers Moved Away From Each OTher
                 if (distance > zoomFingerDistanceLastFrame + zoomMagnitude)
@@ -119,6 +122,29 @@ public class InputController : MonoBehaviour
                 return true;
             }
 
+            // If Just A Press
+            if (touches[0].phase == TouchPhase.Began)
+            {
+                elegibleForPress = true;
+                initialPress = touches[0].position;
+            }
+            else if ( Vector2.Distance(initialPress, touches[0].position) > pressElegibilitySensitivity ) // Remves the elegibility of it being a press if over a threshold
+            {
+                elegibleForPress = false;
+            }
+            else if (touches[0].phase == TouchPhase.Ended && elegibleForPress)
+            {
+                Ray ray = Camera.main.ScreenPointToRay(touches[0].position);
+                RaycastHit hit;
+                LayerMask layerMask = (1 << LayerMask.NameToLayer("Targetable"));
+                if (Physics.Raycast(ray, out hit, 1000f, layerMask))
+                {
+                    if (hit.collider != null)
+                    {
+                        cam.SetParameters(hit.collider.GetComponent<CameraParameters>());
+                    }
+                }
+            }
 
             // Open Left UI Panel
             if (touches[0].position.x <= Screen.width * leftBorderPercentage) // If Finger Is On The Left Side Of The Screen
@@ -153,7 +179,7 @@ public class InputController : MonoBehaviour
             }
 
             // Rotate Camera Around Object
-            if (touches[0].position.x > Screen.width * leftBorderPercentage && touches[0].position.x < Screen.width * rightBorderPercentage) // If Finger Is Inside External Bounds Screen
+            if (touches[0].position.x > Screen.width * leftBorderPercentage && touches[0].position.x < Screen.width * rightBorderPercentage && touches[0].position.y > Screen.height * 0.20f) // If Finger Is Inside External Bounds Screen
             {
                 if (touches[0].deltaPosition.magnitude > swipeMagnitude) // If Swipe Was Strong Enough Open Menu
                 {

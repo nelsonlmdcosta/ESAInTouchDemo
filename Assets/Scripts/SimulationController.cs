@@ -6,7 +6,7 @@ public class SimulationController : MonoBehaviour
     private static SimulationController instance;
     public static SimulationController Instance { get { return instance; } }
 
-    [SerializeField] [Range(-2, 2)]private float timeModifier = 1;
+    private float timeModifier = 1;
 
     [SerializeField] private float minRange = 0;
     [SerializeField] private float maxRange = 0;
