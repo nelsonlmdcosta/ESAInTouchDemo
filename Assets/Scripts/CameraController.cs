@@ -29,11 +29,12 @@ public class CameraController : MonoBehaviour
 
     public void UpdateRotation(Vector2 inputDir)
     {
-        x += inputDir.x * xSpeed * 0.02f;
-        y = Mathf.Clamp(y - inputDir.y * ySpeed * 0.02f, -90, 90);
+        x += inputDir.x * xSpeed * 0.005f;
+        y = Mathf.Clamp(y - inputDir.y * ySpeed * 0.005f, -90, 90);
     }
     public void UpdateZoomDistance(float offset)
     {
+        offset *= 0.05f;
         distance = Mathf.Clamp(distance + offset, distanceMin, distanceMax);
     }
 
@@ -43,11 +44,11 @@ public class CameraController : MonoBehaviour
         {
             Quaternion rotation = Quaternion.Euler(y, x, 0);
 
-            RaycastHit hit;
-            if (Physics.Linecast(target.position, transform.position, out hit))
-            {
-                distance -= hit.distance;
-            }
+            //RaycastHit hit;
+            //if (Physics.Linecast(target.position, transform.position, out hit))
+            //{
+            //    distance -= hit.distance;
+            //}
             Vector3 negDistance = new Vector3(0.0f, 0.0f, -distance);
             Vector3 position = rotation * negDistance + target.position;
 
@@ -98,8 +99,6 @@ public class CameraController : MonoBehaviour
             distanceMax = param.MaxDistance;
 
             distance = (distanceMin + distanceMax) / 2;
-
-            //lerping = true;
 
             return;
         }

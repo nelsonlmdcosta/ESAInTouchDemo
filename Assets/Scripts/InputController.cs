@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 
 public class InputController : MonoBehaviour
 {
@@ -6,8 +7,8 @@ public class InputController : MonoBehaviour
     [SerializeField] private float leftBorderPercentage = 0.10f;
     [SerializeField] private float rightBorderPercentage = 0.90f;
 
-    [SerializeField] private float swipeMagnitude = 1;
-    [SerializeField] private float zoomMagnitude = 1;
+    [SerializeField] private float swipeMagnitude = 10;
+    [SerializeField] private float zoomMagnitude = 10;
 
     [SerializeField] private float rotateTouchSensitivity = 5;
     [SerializeField] private float zoomTouchSensitivity = 100;
@@ -32,6 +33,11 @@ public class InputController : MonoBehaviour
 
     [SerializeField] private float lerpTime = 0;
     private float startTime;
+
+    [Header("Satellite UI Refs")]
+    [SerializeField] private GameObject parentObject;
+    [SerializeField] private Text missionText;
+    [SerializeField] private Text satelliteDetailsText;
 
     private enum LerpState { None, LerpingLeftPanelOut, LerpingLeftPanelIn, LerpingRightPanelOut, LerpingRightPanelIn }
     private LerpState lerpState = LerpState.None;
@@ -128,11 +134,11 @@ public class InputController : MonoBehaviour
                 elegibleForPress = true;
                 initialPress = touches[0].position;
             }
-            else if ( Vector2.Distance(initialPress, touches[0].position) > pressElegibilitySensitivity ) // Remves the elegibility of it being a press if over a threshold
+            else if ( Vector2.Distance(initialPress, touches[0].position) > pressElegibilitySensitivity && touches[0].position.y > Screen.height * 0.20f) // Remves the elegibility of it being a press if over a threshold
             {
                 elegibleForPress = false;
             }
-            else if (touches[0].phase == TouchPhase.Ended && elegibleForPress)
+            else if (touches[0].phase == TouchPhase.Ended && elegibleForPress && touches[0].position.y > Screen.height * 0.20f)
             {
                 Ray ray = Camera.main.ScreenPointToRay(touches[0].position);
                 RaycastHit hit;
@@ -142,6 +148,14 @@ public class InputController : MonoBehaviour
                     if (hit.collider != null)
                     {
                         cam.SetParameters(hit.collider.GetComponent<CameraParameters>());
+                        if (hit.collider.CompareTag("Satellite"))
+                        {
+                            SatelliteDetails details = hit.collider.GetComponent<SatelliteDetails>();
+                            missionText.text = details.MissionText;
+                            satelliteDetailsText.text = details.DetailsText;
+                            parentObject.SetActive(true);
+                        }
+                        else parentObject.SetActive(false);
                     }
                 }
             }
@@ -149,7 +163,7 @@ public class InputController : MonoBehaviour
             // Open Left UI Panel
             if (touches[0].position.x <= Screen.width * leftBorderPercentage) // If Finger Is On The Left Side Of The Screen
             {
-                if (touches[0].deltaPosition.magnitude > swipeMagnitude) // If Swipe Was Strong Enough Open Menu
+                if (touches[0].deltaPosition.magnitude > swipeMagnitude && touches[0].deltaPosition.x > 0) // If Swipe Was Strong Enough Open Menu
                 {
                     if (menuState == MenuState.Closed) // If Menu Is Closed Open It
                     {
@@ -165,7 +179,7 @@ public class InputController : MonoBehaviour
             // Open Right UI Panel
             if (touches[0].position.x > Screen.width * rightBorderPercentage) // If Finger Is On The Left Side Of The Screen
             {
-                if (touches[0].deltaPosition.magnitude > swipeMagnitude) // If Swipe Was Strong Enough Open Menu
+                if (touches[0].deltaPosition.magnitude > swipeMagnitude && touches[0].deltaPosition.x < 0) // If Swipe Was Strong Enough Open Menu
                 {
                     if (menuState == MenuState.Closed) // If Menu Is Closed Open It
                     {

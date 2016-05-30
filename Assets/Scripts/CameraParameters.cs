@@ -21,7 +21,7 @@ public class CameraParameters : MonoBehaviour
 
     public float MaxDistance
     {
-        get { return minDistance; }
-        set { minDistance = value; }
+        get { return maxDistance; }
+        set { maxDistance = value; }
     }
 }
