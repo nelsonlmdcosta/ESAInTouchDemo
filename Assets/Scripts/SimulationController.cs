@@ -7,7 +7,6 @@ public class SimulationController : MonoBehaviour
     public static SimulationController Instance { get { return instance; } }
 
     private float timeModifier = 1;
-
     [SerializeField] private float minRange = 0;
     [SerializeField] private float maxRange = 0;
 
