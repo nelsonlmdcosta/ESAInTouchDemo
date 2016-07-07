@@ -6,6 +6,7 @@ public class BezierCurve : MonoBehaviour
 {
 
     public Vector3[] points;
+	public float[] velocity;
     public int numberOfPoints = 100;
 
     // HERE: Unicos parametros que parecem fazer alguma coisa nos calculos
@@ -14,14 +15,17 @@ public class BezierCurve : MonoBehaviour
     public float longitudeOfAscendingNode;
     public float inclination;
 	public float a;
-    
-
+	public float rotationAngle;
+	public float rotationSpeed;
+	public double u;
+	public float orbitScale;
     // HERE: Acho que daria para simplificar estas variaveis todas de forma a optimizar, mas nao ha que preocupar com isso
     float counter = 0;
     double cos = 0;
     double sin = 0;
     float cos1 = 0;
     float sin1 = 0;
+	double speed;
     double b;
     float b1;
 	float normalizer;
@@ -69,6 +73,7 @@ public class BezierCurve : MonoBehaviour
     {
         // HERE: tavas a meter inclination, omega, longitudeOfAscendingNode a zero e isso fazia com que nao deixasse mudar no inspector
         points = new Vector3[numberOfPoints];
+		velocity = new float[numberOfPoints];
 		for(int i=0; i<numberOfPoints ; i++){
 			counter = i * 2f * 3.1415f * 0.01f ;
 			cos = Math.Cos (counter);
@@ -118,8 +123,10 @@ public class BezierCurve : MonoBehaviour
 			finalx = x * vectorx1 + y * vectorx2 + z * vectorx3;
 			finaly = x * vectory1 + y * vectory2 + z * vectory3;
 			finalz = x * vectorz1 + y * vectorz2 + z * vectorz3;
-			points[i]=new Vector3(a*finalx,a*finaly,a*finalz);
-
+			points[i]=new Vector3(10*orbitScale*a*finalx,10*orbitScale*a*finaly,10*orbitScale*a*finalz);
+			speed = Math.Pow (u * (2 / (Math.Pow ((Math.Pow (a*finalx, 2) + Math.Pow (a*finaly, 2) + Math.Pow (a*finalz, 2)), 0.5)*149597871) - 1 / (a*149597871)), 0.5);
+			speed = orbitScale*speed *0.21095*10/(365.25);
+			velocity [i] = (float)speed;
         }
     }
 
